@@ -1,0 +1,85 @@
+[16:21:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:21:48] [ServerMain/INFO]: Loaded 1370 recipes
+[16:21:48] [ServerMain/INFO]: Loaded 1481 advancements
+[16:21:49] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[16:21:49] [Server thread/INFO]: Loading properties
+[16:21:49] [Server thread/INFO]: Default game type: SURVIVAL
+[16:21:49] [Server thread/INFO]: Generating keypair
+[16:21:49] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:328) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:2252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:190) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
+[16:21:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:21:49] [Server thread/INFO]: Using default channel type
+[16:21:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:21:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:21:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:21:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:21:49] [Server thread/INFO]: Preparing level "world"
+[16:21:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:21:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:21:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:21:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:21:51] [Server thread/INFO]: Time elapsed: 1173 ms
+[16:21:51] [Server thread/INFO]: Done (1.587s)! For help, type "help"
+[16:22:15] [Server thread/INFO]: inshallah[/127.0.0.1:55645] logged in with entity id 11 at (-3.5, 137.0, -1.5)
+[16:22:15] [Server thread/INFO]: inshallah joined the game
+[16:22:25] [Server thread/INFO]: [Not Secure] <inshallah> tite
+[16:22:26] [Server thread/INFO]: [Not Secure] <inshallah> sex
+[16:22:28] [Server thread/INFO]: [Not Secure] <inshallah> kantutan
+[16:22:32] [Server thread/INFO]: inshallah lost connection: Disconnected
+[16:22:32] [Server thread/INFO]: inshallah left the game
+[16:23:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:25:02] [Server thread/INFO]: inshallah[/26.25.220.70:53903] logged in with entity id 402 at (1.8656283494152899, 143.0, 5.725950777612585)
+[16:25:02] [Server thread/INFO]: inshallah joined the game
+[16:26:47] [Server thread/INFO]: inshallah has made the advancement [Stone Age]
+[16:27:00] [Server thread/INFO]: inshallah has made the advancement [Getting an Upgrade]
+[16:29:24] [Server thread/INFO]: inshallah lost connection: Disconnected
+[16:29:24] [Server thread/INFO]: inshallah left the game
+[16:30:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:30:54] [Server thread/INFO]: opalitez[/26.81.134.220:52705] logged in with entity id 1350 at (9.5, 136.0, -7.5)
+[16:30:54] [Server thread/INFO]: opalitez joined the game
+[16:31:21] [Server thread/INFO]: inshallah[/26.25.220.70:53963] logged in with entity id 1639 at (12.180816863287582, 158.0, 59.17877808432248)
+[16:31:21] [Server thread/INFO]: inshallah joined the game
+[16:33:15] [Server thread/INFO]: inshallah lost connection: Disconnected
+[16:33:15] [Server thread/INFO]: inshallah left the game
+[16:35:04] [Server thread/INFO]: inshallah[/26.25.220.70:54056] logged in with entity id 2237 at (45.1118219467807, 159.0, 64.17890163412969)
+[16:35:04] [Server thread/INFO]: inshallah joined the game
+[16:36:24] [Server thread/INFO]: opalitez has made the advancement [Monster Hunter]
+[16:38:04] [Server thread/INFO]: opalitez has made the advancement [Stone Age]
+[16:38:42] [Server thread/INFO]: opalitez has made the advancement [Getting an Upgrade]
+[16:43:07] [Server thread/INFO]: inshallah has made the advancement [The Parrots and the Bats]
+[16:45:56] [Server thread/INFO]: opalitez hit the ground too hard
+[16:48:13] [Server thread/INFO]: opalitez was shot by Skeleton
+[16:49:49] [Server thread/INFO]: opalitez has made the advancement [Acquire Hardware]
+[16:51:15] [Server thread/INFO]: opalitez has made the advancement [Isn't It Iron Pick]
+[16:52:51] [Server thread/INFO]: inshallah has made the advancement [Sweet Dreams]
+[16:53:12] [Server thread/INFO]: opalitez has made the advancement [Sweet Dreams]
+[16:53:22] [Server thread/INFO]: inshallah lost connection: Disconnected
+[16:53:22] [Server thread/INFO]: inshallah left the game
+[16:53:33] [Server thread/INFO]: Stopping server
+[16:53:33] [Server thread/INFO]: Saving players
+[16:53:33] [Server thread/INFO]: opalitez lost connection: Server closed
+[16:53:33] [Server thread/INFO]: opalitez left the game
+[16:53:33] [Server thread/INFO]: Saving worlds
+[16:53:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:53:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
