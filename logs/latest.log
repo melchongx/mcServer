@@ -1,73 +1,50 @@
-[00:27:12] [Server thread/INFO]: bogartnani[/26.185.22.198:49949] logged in with entity id 41475 at (-68.16085429412715, 126.875, -2.768431865373614)
-[00:27:12] [Server thread/INFO]: bogartnani joined the game
-[00:33:51] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[00:33:51] [Server thread/INFO]: bogartnani left the game
-[00:33:58] [Server thread/INFO]: bogartnani[/26.185.22.198:50003] logged in with entity id 43121 at (255.91463795647283, 88.0, 95.38990754992068)
-[00:33:58] [Server thread/INFO]: bogartnani joined the game
-[00:35:12] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[00:35:12] [Server thread/INFO]: bogartnani left the game
-[00:35:16] [Server thread/INFO]: bogartnani[/26.185.22.198:50029] logged in with entity id 43412 at (263.3297509267145, 88.0, 90.07887690636953)
-[00:35:16] [Server thread/INFO]: bogartnani joined the game
-[00:41:00] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[00:41:00] [Server thread/INFO]: bogartnani left the game
-[00:41:09] [Server thread/INFO]: bogartnani[/26.185.22.198:50058] logged in with entity id 44337 at (247.78579017286992, 88.0, 97.61570039965999)
-[00:41:09] [Server thread/INFO]: bogartnani joined the game
-[00:55:28] [Server thread/INFO]: Kumi[/26.108.248.240:50499] logged in with entity id 47095 at (-59.69999998807907, 127.0, -26.48750001192093)
-[00:55:28] [Server thread/INFO]: Kumi joined the game
-[01:00:05] [Server thread/INFO]: Kumi has made the advancement [Sticky Situation]
-[01:04:36] [Server thread/INFO]: opalitez[/26.81.134.220:54427] logged in with entity id 48862 at (1.300000011920929, -45.0, -165.30000001192093)
-[01:04:36] [Server thread/INFO]: opalitez joined the game
-[01:11:05] [Server thread/INFO]: Kumi has made the advancement [The Cutest Predator]
-[01:28:39] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[01:28:39] [Server thread/INFO]: bogartnani left the game
-[01:28:51] [Server thread/INFO]: bogartnani[/26.185.22.198:50537] logged in with entity id 54005 at (445.10761019580116, 84.0, -341.7467675098677)
-[01:28:51] [Server thread/INFO]: bogartnani joined the game
-[01:42:31] [Server thread/INFO]: Kumi has made the advancement [Voluntary Exile]
-[01:50:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=86, y=63, z=-1586} ji{x=86, y=64, z=-1585}
-[01:51:17] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.29617083347761763
-[01:51:17] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.5196008014274867
-[01:51:17] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.7557601162670835
-[01:51:17] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 1.0032869575777568
-[01:51:46] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.26736088514303447
-[01:51:46] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.5476817228609434
-[01:51:46] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.2670632374674824
-[01:51:46] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.26671561653074605
-[01:51:48] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.5678140442960569
-[01:51:50] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.39210540968974783
-[02:05:11] [Server thread/WARN]: Kumi moved too quickly! -7.767207571666177,2.604424101326714,-5.9709917787495215
-[02:10:56] [Server thread/INFO]: opalitez has made the advancement [You've Got a Friend in Me]
-[02:11:18] [Server thread/INFO]: bogartnani has made the advancement [You've Got a Friend in Me]
-[02:12:15] [Server thread/INFO]: Kumi has made the advancement [You've Got a Friend in Me]
-[02:18:50] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.3007942784314537
-[02:18:50] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.9710448089521151
-[02:18:50] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 1.2367538083084355
-[02:18:50] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 1.3507569666572863
-[02:18:50] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 1.5529848696475028
-[02:19:21] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.35249744435100183
-[02:20:13] [Server thread/INFO]: opalitez lost connection: Disconnected
-[02:20:13] [Server thread/INFO]: opalitez left the game
-[02:20:14] [Server thread/INFO]: Villager coj['Villager'/69956, l='ServerLevel[world]', x=1221.72, y=64.00, z=-1839.37] died, message: 'Villager suffocated in a wall'
-[02:21:31] [Server thread/INFO]: opalitez[/26.81.134.220:49840] logged in with entity id 70435 at (1177.63339118752, 63.0, -1625.9811810514675)
-[02:21:31] [Server thread/INFO]: opalitez joined the game
-[02:22:21] [Server thread/INFO]: Kumi has made the advancement [Best Friends Forever]
-[02:25:23] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.5431932765461625
-[02:31:17] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.33324261749174866
-[02:31:17] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.6140198338635514
-[02:53:57] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-19, y=128, z=2} ji{x=-17, y=128, z=3}
-[03:11:08] [Server thread/INFO]: Kumi lost connection: Disconnected
-[03:11:08] [Server thread/INFO]: Kumi left the game
-[03:46:42] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[03:46:42] [Server thread/INFO]: bogartnani left the game
-[03:46:42] [Server thread/INFO]: opalitez lost connection: Disconnected
-[03:46:42] [Server thread/INFO]: opalitez left the game
-[03:47:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[07:14:37] [Server thread/INFO]: Stopping server
-[07:14:37] [Server thread/INFO]: Saving players
-[07:14:37] [Server thread/INFO]: Saving worlds
-[07:14:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:14:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:14:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:14:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:08:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:08:59] [ServerMain/INFO]: Loaded 1370 recipes
+[18:08:59] [ServerMain/INFO]: Loaded 1481 advancements
+[18:09:00] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:09:00] [Server thread/INFO]: Loading properties
+[18:09:00] [Server thread/INFO]: Default game type: SURVIVAL
+[18:09:00] [Server thread/INFO]: Generating keypair
+[18:09:00] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:1849) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:175) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
+	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
+[18:09:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:09:00] [Server thread/INFO]: Using default channel type
+[18:09:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:09:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:09:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:09:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:09:01] [Server thread/INFO]: Preparing level "world"
+[18:09:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:09:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:09:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:09:02] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[18:09:02] [Server thread/INFO]: Time elapsed: 1202 ms
+[18:09:02] [Server thread/INFO]: Done (1.644s)! For help, type "help"
+[18:10:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:10:22] [Server thread/INFO]: opalitez[/26.81.134.220:52484] logged in with entity id 95 at (-75.69986290889815, 128.0, 0.602564635745025)
+[18:10:22] [Server thread/INFO]: opalitez joined the game
+[18:21:04] [Server thread/INFO]: opalitez lost connection: Disconnected
+[18:21:04] [Server thread/INFO]: opalitez left the game
+[18:21:11] [Server thread/INFO]: Stopping server
+[18:21:11] [Server thread/INFO]: Saving players
+[18:21:11] [Server thread/INFO]: Saving worlds
+[18:21:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:21:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:21:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:21:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:21:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:21:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:21:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
