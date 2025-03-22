@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "b190f2f9-f540-3435-8909-1a4fec2a5201",
+    "name": "bogartini",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
