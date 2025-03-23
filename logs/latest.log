@@ -1,11 +1,11 @@
-[18:08:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:08:59] [ServerMain/INFO]: Loaded 1370 recipes
-[18:08:59] [ServerMain/INFO]: Loaded 1481 advancements
-[18:09:00] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[18:09:00] [Server thread/INFO]: Loading properties
-[18:09:00] [Server thread/INFO]: Default game type: SURVIVAL
-[18:09:00] [Server thread/INFO]: Generating keypair
-[18:09:00] [Server console handler/ERROR]: Exception handling console input
+[01:40:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:40:05] [ServerMain/INFO]: Loaded 1370 recipes
+[01:40:05] [ServerMain/INFO]: Loaded 1481 advancements
+[01:40:06] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[01:40:06] [Server thread/INFO]: Loading properties
+[01:40:06] [Server thread/INFO]: Default game type: SURVIVAL
+[01:40:06] [Server thread/INFO]: Generating keypair
+[01:40:06] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
 	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
@@ -20,31 +20,71 @@ java.io.IOException: The handle is invalid
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
 	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
-[18:09:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:09:00] [Server thread/INFO]: Using default channel type
-[18:09:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:09:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:09:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:09:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:09:01] [Server thread/INFO]: Preparing level "world"
-[18:09:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:09:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[18:09:02] [Worker-Main-5/INFO]: Preparing spawn area: 2%
-[18:09:02] [Server thread/INFO]: Time elapsed: 1202 ms
-[18:09:02] [Server thread/INFO]: Done (1.644s)! For help, type "help"
-[18:10:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:10:22] [Server thread/INFO]: opalitez[/26.81.134.220:52484] logged in with entity id 95 at (-75.69986290889815, 128.0, 0.602564635745025)
-[18:10:22] [Server thread/INFO]: opalitez joined the game
-[18:21:04] [Server thread/INFO]: opalitez lost connection: Disconnected
-[18:21:04] [Server thread/INFO]: opalitez left the game
-[18:21:11] [Server thread/INFO]: Stopping server
-[18:21:11] [Server thread/INFO]: Saving players
-[18:21:11] [Server thread/INFO]: Saving worlds
-[18:21:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:21:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:21:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:21:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:21:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:21:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:21:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:40:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:40:06] [Server thread/INFO]: Using default channel type
+[01:40:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:40:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:40:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:40:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:40:06] [Server thread/INFO]: Preparing level "world"
+[01:40:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:40:07] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[01:40:07] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[01:40:08] [Server thread/INFO]: Time elapsed: 1128 ms
+[01:40:08] [Server thread/INFO]: Done (1.442s)! For help, type "help"
+[01:40:34] [Server thread/INFO]: opalitez[/26.81.134.220:54119] logged in with entity id 107 at (-81.5, 131.5625, -0.5)
+[01:40:34] [Server thread/INFO]: opalitez joined the game
+[01:56:41] [Server thread/INFO]: bogartnani[/26.185.22.198:62534] logged in with entity id 2279 at (-35.43883749783884, 126.0, -12.26975175779362)
+[01:56:41] [Server thread/INFO]: bogartnani joined the game
+[02:27:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 7.103681257529956,0.0,7.592049908064382
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 7.3789549650173285,0.0,7.882149349244628
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 7.656765613521998,0.0,8.169620359944702
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 7.93795506460458,0.0,8.453422388018907
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 8.223124140301252,0.0,8.732709125839165
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 8.512679391748748,0.0,9.00681016244721
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 8.806870698244325,0.0,9.275214340107368
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 9.1058291669666,0.0,9.537542500372638
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 9.409588904560792,0.0,9.793537011065382
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 9.718111182496841,0.0,10.04304110322164
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 10.031300925780897,0.0,10.285985685325613
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 10.34902224942482,0.0,10.522373195763066
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 10.671109658476098,0.0,10.75226574292492
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 10.997377360635028,0.0,10.975773894859458
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 11.327625419886544,0.0,11.193049674499207
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 11.661647880119517,0.0,11.404272916544642
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 11.999234995088614,0.0,11.609649273253808
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 12.34017651315412,0.0,11.809404748379848
+[02:27:18] [Server thread/WARN]: Birch Boat (vehicle of opalitez) moved too quickly! 12.68426715184421,0.0,12.003773489184823
+[02:35:09] [Server thread/WARN]: Spruce Boat (vehicle of bogartnani) moved wrongly! 0.2501740456418702
+[02:57:04] [Server thread/INFO]: bogartnani has made the advancement [Respecting the Remnants]
+[02:58:00] [Server thread/INFO]: opalitez has made the advancement [Respecting the Remnants]
+[03:08:34] [Server thread/WARN]: Couldn't smelt 1 minecraft:pufferfish because there is no smelting recipe
+[03:24:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2824, y=83, z=-2565} ji{x=2824, y=82, z=-2565}
+[03:24:50] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2819, y=79, z=-2572} ji{x=2819, y=78, z=-2572}
+[03:29:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2545, y=63, z=-2618} ji{x=2546, y=63, z=-2619}
+[03:29:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2545, y=63, z=-2618} ji{x=2546, y=63, z=-2619}
+[03:35:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2618, y=70, z=-2660} ji{x=2821, y=66, z=-2577}
+[03:36:09] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2824, y=74, z=-2570} ji{x=2896, y=82, z=-2533}
+[03:36:09] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2824, y=74, z=-2570} ji{x=2896, y=82, z=-2533}
+[03:36:09] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=2824, y=74, z=-2570} ji{x=2896, y=82, z=-2533}
+[03:43:52] [Server thread/WARN]: Birch Boat (vehicle of bogartnani) moved wrongly! 0.3558732976985084
+[04:04:57] [Server thread/WARN]: Spruce Boat (vehicle of opalitez) moved wrongly! 0.26425245609988224
+[04:35:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-2, y=76, z=-131} ji{x=-3, y=77, z=-137}
+[04:42:37] [Server thread/INFO]: bogartnani has made the advancement [Careful Restoration]
+[04:51:56] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-21, y=127, z=5} ji{x=-22, y=127, z=5}
+[04:51:56] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-21, y=127, z=5} ji{x=-23, y=127, z=5}
+[05:08:01] [Server thread/INFO]: opalitez lost connection: Disconnected
+[05:08:01] [Server thread/INFO]: opalitez left the game
+[05:08:14] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[05:08:14] [Server thread/INFO]: bogartnani left the game
+[05:08:31] [Server thread/INFO]: Stopping server
+[05:08:31] [Server thread/INFO]: Saving players
+[05:08:31] [Server thread/INFO]: Saving worlds
+[05:08:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:08:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:08:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:08:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:08:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:08:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:08:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
