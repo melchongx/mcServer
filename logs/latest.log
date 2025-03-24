@@ -1,603 +1,134 @@
-[13:22:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:22:11] [ServerMain/INFO]: Loaded 1370 recipes
-[13:22:11] [ServerMain/INFO]: Loaded 1481 advancements
-[13:22:12] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[13:22:12] [Server thread/INFO]: Loading properties
-[13:22:12] [Server thread/INFO]: Default game type: SURVIVAL
-[13:22:12] [Server thread/INFO]: Generating keypair
-[13:22:12] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
-	at java.base/java.lang.System$In.read(System.java:1849) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
-	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:175) ~[?:?]
-	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
-	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
-[13:22:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:22:12] [Server thread/INFO]: Using default channel type
-[13:22:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:22:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:22:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:22:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:22:12] [Server thread/INFO]: Preparing level "world"
-[13:22:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:22:13] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[13:22:13] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[13:22:13] [Server thread/INFO]: Time elapsed: 998 ms
-[13:22:13] [Server thread/INFO]: Done (1.304s)! For help, type "help"
-[13:23:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:23:19] [Server thread/INFO]: opalitez[/26.81.134.220:51149] logged in with entity id 93 at (-103.71581183407127, 120.0, -5.303760958350331)
-[13:23:19] [Server thread/INFO]: opalitez joined the game
-[13:23:35] [Server thread/WARN]: UUID of added entity already exists: clp['Enderman'/368, l='ServerLevel[world]', x=-213.28, y=88.00, z=200.71]
-[13:42:13] [Server thread/INFO]: bogartnani[/26.185.22.198:53326] logged in with entity id 2969 at (-84.66225904821117, 131.0, -33.758083620855906)
-[13:42:13] [Server thread/INFO]: bogartnani joined the game
-[13:42:18] [Server thread/INFO]: [Not Secure] <bogartnani> what da shi?
-[13:49:21] [Server thread/INFO]: [Not Secure] <bogartnani> sleep
-[13:51:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-73, y=132, z=-74} ji{x=-74, y=132, z=-74}
-[13:51:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-73, y=132, z=-74} ji{x=-74, y=132, z=-74}
-[13:51:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-73, y=132, z=-74} ji{x=-74, y=132, z=-74}
-[13:51:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-73, y=132, z=-74} ji{x=-74, y=132, z=-74}
-[13:51:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-73, y=132, z=-74} ji{x=-74, y=132, z=-74}
-[13:51:28] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-73, y=132, z=-74} ji{x=-74, y=132, z=-74}
-[13:51:32] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-79, y=134, z=-70} ji{x=-78, y=134, z=-71}
-[13:51:32] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-79, y=134, z=-70} ji{x=-78, y=134, z=-71}
-[13:51:32] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-79, y=134, z=-70} ji{x=-78, y=134, z=-71}
-[13:51:32] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-79, y=134, z=-70} ji{x=-78, y=134, z=-71}
-[13:51:32] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-79, y=134, z=-70} ji{x=-78, y=134, z=-71}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:12] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[13:53:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-72, y=127, z=-78} ji{x=-70, y=127, z=-83}
-[14:00:16] [Server thread/INFO]: [Not Secure] <bogartnani> sleep
-[14:08:49] [Server thread/INFO]: [Not Secure] <bogartnani> gago par nawala yung baka na pinalabas natin
-[14:08:53] [Server thread/INFO]: [Not Secure] <bogartnani> nag despawn hahahah
-[14:08:56] [Server thread/INFO]: [Not Secure] <opalitez> san na
-[14:16:45] [Server thread/INFO]: [Not Secure] <opalitez> afk ako saglit bry ah
-[14:16:49] [Server thread/INFO]: [Not Secure] <opalitez> baka di ka makatulog
-[14:16:53] [Server thread/INFO]: [Not Secure] <bogartnani> k
-[14:16:54] [Server thread/INFO]: [Not Secure] <opalitez> need mo ba
-[14:17:00] [Server thread/INFO]: [Not Secure] <opalitez> mag exit asko o di na
-[14:17:01] [Server thread/INFO]: [Not Secure] <bogartnani> mag cacycle sana
-[14:17:07] [Server thread/INFO]: [Not Secure] <opalitez> exit myna ko
-[14:17:07] [Server thread/INFO]: [Not Secure] <bogartnani> exit ka na lang
-[14:17:10] [Server thread/INFO]: opalitez lost connection: Disconnected
-[14:17:10] [Server thread/INFO]: opalitez left the game
-[14:17:10] [Server thread/INFO]: [Not Secure] <bogartnani> AHAHHAHA
-[14:19:02] [Server thread/INFO]: MamaMo[/26.139.251.172:62955] logged in with entity id 12022 at (-46.459886684384536, 120.0625, -18.30000001192093)
-[14:19:02] [Server thread/INFO]: MamaMo joined the game
-[14:22:38] [Server thread/INFO]: [Not Secure] <bogartnani> tulog tayo jje
-[14:22:50] [Server thread/INFO]: [Not Secure] <MamaMo> wala pa
-[14:22:56] [Server thread/INFO]: [Not Secure] <bogartnani> yan
-[14:25:07] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[14:25:07] [Server thread/INFO]: bogartnani left the game
-[14:25:15] [Server thread/INFO]: bogartnani[/26.185.22.198:53504] logged in with entity id 14405 at (245.46547558379737, 88.0, 95.41268797028901)
-[14:25:15] [Server thread/INFO]: bogartnani joined the game
-[14:26:48] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[14:26:48] [Server thread/INFO]: bogartnani left the game
-[14:26:55] [Server thread/INFO]: bogartnani[/26.185.22.198:53544] logged in with entity id 15010 at (240.57074061623726, 88.0, 95.7362628606397)
-[14:26:55] [Server thread/INFO]: bogartnani joined the game
-[14:33:42] [Server thread/INFO]: [Not Secure] <bogartnani> sleep
-[14:33:51] [Server thread/INFO]: [Not Secure] <MamaMo> wait nasa riles
-[14:37:14] [Server thread/INFO]: [Not Secure] <bogartnani> je
-[14:37:17] [Server thread/INFO]: [Not Secure] <bogartnani> pasuyo ako hahahha
-[14:37:24] [Server thread/INFO]: [Not Secure] <bogartnani> dalan mo ko libro dito sa village
-[14:37:25] [Server thread/INFO]: [Not Secure] <MamaMo> ng
-[14:37:30] [Server thread/INFO]: [Not Secure] <bogartnani> magrereset trade pag umalis ako e
-[14:37:36] [Server thread/INFO]: [Not Secure] <MamaMo> sige wiat
-[14:37:53] [Server thread/INFO]: inshallah[/26.25.220.70:63693] logged in with entity id 18900 at (-72.93477840492406, 127.0, 2.1579548401684208)
-[14:37:53] [Server thread/INFO]: inshallah joined the game
-[14:38:01] [Server thread/INFO]: [Not Secure] <bogartnani> o kaya 24 na papel je
-[14:38:10] [Server thread/INFO]: [Not Secure] <MamaMo> meron ako libro
-[14:38:16] [Server thread/INFO]: [Not Secure] <bogartnani> ge libro na lang
-[14:38:17] [Server thread/INFO]: [Not Secure] <bogartnani> isa
-[14:38:19] [Server thread/INFO]: [Not Secure] <inshallah> may gumawang swimming pool sa bahay ko
-[14:38:29] [Server thread/INFO]: [Not Secure] <bogartnani> quits
-[14:38:36] [Server thread/INFO]: [Not Secure] <inshallah> ahahahhaah
-[14:38:42] [Server thread/INFO]: [Not Secure] <bogartnani> tangina mo mel di ko matnggal yung tubig sa parking haahhahahaha
-[14:38:50] [Server thread/INFO]: [Not Secure] <bogartnani> kailangan palabasin muna lahat ng andon HAHAHAH
-[14:39:07] [Server thread/INFO]: [Not Secure] <inshallah> HAHAHAHAAHAHAHA
-[14:40:06] [Server thread/INFO]: [Not Secure] <bogartnani> salamat
-[14:46:01] [Server thread/INFO]: [Not Secure] <bogartnani> sleep
-[14:52:21] [Server thread/INFO]: opalitez[/26.81.134.220:51827] logged in with entity id 23215 at (1.300000011920929, -45.0, -165.30000001192093)
-[14:52:21] [Server thread/INFO]: opalitez joined the game
-[14:53:44] [Server thread/INFO]: [Not Secure] <inshallah> pag ginamitan ko ba ng sheers yung bulbol sa bahay ko titigil na rin pag tubo nya
-[14:53:58] [Server thread/INFO]: [Not Secure] <bogartnani> di ko sure sa vines pre hahaha
-[14:54:25] [Server thread/INFO]: [Not Secure] <inshallah> wait brb
-[14:54:29] [Server thread/INFO]: inshallah lost connection: Disconnected
-[14:54:29] [Server thread/INFO]: inshallah left the game
-[14:56:01] [Server thread/INFO]: [Not Secure] <bogartnani> putangina
-[14:56:04] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAH
-[14:56:07] [Server thread/INFO]: [Not Secure] <bogartnani> ge kaw muna
-[14:56:09] [Server thread/INFO]: [Not Secure] <MamaMo> tangna
-[14:56:12] [Server thread/INFO]: [Not Secure] <MamaMo> HAHAHA
-[14:56:35] [Server thread/INFO]: [Not Secure] <opalitez> pota
-[14:56:40] [Server thread/INFO]: [Not Secure] <bogartnani> PUTA
-[14:56:43] [Server thread/INFO]: [Not Secure] <opalitez> HAHYHAHAHAHAHAHAHA
-[14:56:45] [Server thread/INFO]: [Not Secure] <bogartnani> DALAWANG BESES NA PRE
-[14:56:46] [Server thread/INFO]: [Not Secure] <opalitez> tanginamo
-[14:56:52] [Server thread/INFO]: [Not Secure] <bogartnani> tangina nio ni je
-[14:57:29] [Server thread/INFO]: [Not Secure] <opalitez> tulog nga pre
-[14:57:50] [Server thread/INFO]: [Not Secure] <bogartnani> ra
-[15:01:03] [Server thread/INFO]: inshallah[/26.25.220.70:63825] logged in with entity id 25644 at (-33.369656000443186, 126.0, 0.06016848441190172)
-[15:01:03] [Server thread/INFO]: inshallah joined the game
-[15:01:27] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=104, z=-79} ji{x=-38, y=108, z=-82}
-[15:02:17] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-29, y=104, z=-79} ji{x=-60, y=124, z=-84}
-[15:03:18] [Server thread/INFO]: [Not Secure] <inshallah> BRY
-[15:03:21] [Server thread/INFO]: [Not Secure] <bogartnani> ANO
-[15:03:22] [Server thread/INFO]: [Not Secure] <inshallah> HAHASHAHHAAHAH
-[15:03:30] [Server thread/INFO]: [Not Secure] <inshallah> tara dito sa raile dupe
-[15:03:33] [Server thread/INFO]: [Not Secure] <inshallah> HAHHAHAHAH
-[15:03:42] [Server thread/INFO]: [Not Secure] <bogartnani> gago nasa exp ako
-[15:03:43] [Server thread/INFO]: [Not Secure] <bogartnani> AHAHHAAA
-[15:03:49] [Server thread/INFO]: [Not Secure] <inshallah> NAUSOD KO DSYA BY ONE BLOCK
-[15:04:03] [Server thread/INFO]: [Not Secure] <bogartnani> lagyan mo lang dirt harap nung observ
-[15:04:05] [Server thread/INFO]: [Not Secure] <bogartnani> wait
-[15:04:07] [Server thread/INFO]: [Not Secure] <MamaMo> pano yan
-[15:04:08] [Server thread/INFO]: [Not Secure] <opalitez> tara
-[15:04:11] [Server thread/INFO]: [Not Secure] <MamaMo> may design
-[15:05:07] [Server thread/INFO]: [Not Secure] <bogartnani> ayan ah
-[15:05:09] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAH
-[15:05:15] [Server thread/INFO]: [Not Secure] <bogartnani> tNAGINAMO HAHAAHAH
-[15:05:17] [Server thread/INFO]: [Not Secure] <inshallah> kanina na mali ako ng lagay
-[15:06:02] [Server thread/INFO]: [Not Secure] <inshallah> may mga activator na dyan nakakaumay mag switch lage
-[15:06:29] [Server thread/INFO]: [Not Secure] <inshallah> bakit may weird na tunog yung map
-[15:06:33] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAHAHAHAHHA
-[15:06:37] [Server thread/INFO]: [Not Secure] <bogartnani> bakjit daw dre
-[15:08:05] [Server thread/INFO]: [Not Secure] <inshallah> ah ptoa kita ko na
-[15:08:09] [Server thread/INFO]: [Not Secure] <inshallah> yung mga slave malapit
-[15:08:13] [Server thread/INFO]: [Not Secure] <bogartnani> HAHHAHAAH
-[15:08:33] [Server thread/INFO]: [Not Secure] <bogartnani> sleep
-[15:11:51] [Server thread/INFO]: Villager coj['Librarian'/27545, l='ServerLevel[world]', x=291.32, y=89.00, z=47.78] died, message: 'Librarian was slain by bogartnani'
-[15:11:52] [Server thread/INFO]: [Not Secure] <MamaMo> pano mag dive ulit
-[15:11:57] [Server thread/INFO]: [Not Secure] <inshallah> ctrl
-[15:15:18] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[15:15:18] [Server thread/INFO]: bogartnani left the game
-[15:15:28] [Server thread/INFO]: bogartnani[/26.185.22.198:53761] logged in with entity id 30252 at (242.99026691182854, 88.0, 94.61994792731454)
-[15:15:28] [Server thread/INFO]: bogartnani joined the game
-[15:16:03] [Server thread/INFO]: [Not Secure] <MamaMo> mel tara
-[15:16:21] [Server thread/INFO]: [Not Secure] <inshallah> ra ano
-[15:16:35] [Server thread/INFO]: [Not Secure] <MamaMo> dive ka tas basahin mo yung salamin
-[15:16:59] [Server thread/INFO]: [Not Secure] <inshallah> wait may nagawa lang
-[15:19:40] [Server thread/INFO]: [Not Secure] <bogartnani> slep
-[15:19:43] [Server thread/INFO]: [Not Secure] <opalitez> teka
-[15:20:12] [Server thread/INFO]: inshallah lost connection: Disconnected
-[15:20:12] [Server thread/INFO]: inshallah left the game
-[15:20:33] [Server thread/INFO]: [Not Secure] <opalitez> g
-[15:20:36] [Server thread/INFO]: inshallah[/26.25.220.70:63851] logged in with entity id 32165 at (-41.45717624618774, 120.5, -43.366674113885125)
-[15:20:36] [Server thread/INFO]: inshallah joined the game
-[15:20:39] [Server thread/INFO]: inshallah lost connection: Disconnected
-[15:20:39] [Server thread/INFO]: inshallah left the game
-[15:21:03] [Server thread/INFO]: inshallah[/26.25.220.70:63863] logged in with entity id 32377 at (-41.45717624618774, 120.5, -43.366674113885125)
-[15:21:03] [Server thread/INFO]: inshallah joined the game
-[15:21:15] [Server thread/INFO]: [Not Secure] <opalitez> sama ka sakin je
-[15:21:27] [Server thread/INFO]: [Not Secure] <MamaMo> saan
-[15:21:32] [Server thread/INFO]: [Not Secure] <bogartnani> napakita mo na ba dre yung pinaghirapan natin kahapon
-[15:21:33] [Server thread/INFO]: [Not Secure] <bogartnani> ahahhhaha
-[15:21:42] [Server thread/INFO]: [Not Secure] <opalitez> hindi pa
-[15:21:45] [Server thread/INFO]: [Not Secure] <opalitez> tara dito je
-[15:21:49] [Server thread/INFO]: [Not Secure] <MamaMo> saan ka
-[15:21:53] [Server thread/INFO]: [Not Secure] <opalitez> bahay mo
-[15:21:56] [Server thread/INFO]: [Not Secure] <bogartnani> inabot kami 5am pre HAHAHAHAAH
-[15:22:07] [Server thread/INFO]: [Not Secure] <MamaMo> natuloy ba kayo
-[15:22:08] [Server thread/INFO]: [Not Secure] <opalitez> tanginang yan
-[15:22:10] [Server thread/INFO]: [Not Secure] <opalitez> oo
-[15:22:16] [Server thread/INFO]: [Not Secure] <opalitez> 1:50 am kami nagsimul;a
-[15:22:22] [Server thread/INFO]: [Not Secure] <opalitez> nasan ka na
-[15:22:45] [Server thread/INFO]: [Not Secure] <opalitez> dito
-[15:23:13] [Server thread/INFO]: [Not Secure] <MamaMo> ano nakukuha sa panda
-[15:23:20] [Server thread/INFO]: [Not Secure] <opalitez> mental wellness par
-[15:23:26] [Server thread/INFO]: [Not Secure] <bogartnani> slimeballs
-[15:23:30] [Server thread/INFO]: [Not Secure] <opalitez> legit
-[15:23:37] [Server thread/INFO]: [Not Secure] <opalitez> may bamboo ka
-[15:23:37] [Server thread/INFO]: [Not Secure] <bogartnani> gago dre pinaka rare pala yung weak panda saka brown
-[15:23:41] [Server thread/INFO]: [Not Secure] <bogartnani> tas nakuha natin agad HAHAHA
-[15:23:50] [Server thread/INFO]: [Not Secure] <opalitez> may resulta naman pala ang paghihirap
-[15:24:05] [Server thread/INFO]: [Not Secure] <inshallah> madami na ulet nasa taas na baka pota
-[15:24:12] [Server thread/INFO]: [Not Secure] <bogartnani> pag nagsneeze yung weak panda pre minsan may slimeballs skl
-[15:25:06] [Server thread/INFO]: [Not Secure] <inshallah> FUCK
-[15:25:38] [Server thread/INFO]: [Not Secure] <bogartnani> dre may extra depth str 3 boots ka ba dyan
-[15:25:40] [Server thread/INFO]: [Not Secure] <opalitez> gawa tayo brewing lab pre
-[15:25:45] [Server thread/INFO]: [Not Secure] <opalitez> wala kong depth str
-[15:25:48] [Server thread/INFO]: [Not Secure] <opalitez> san ba meron non
-[15:25:48] [Server thread/INFO]: [Not Secure] <bogartnani> fak
-[15:25:55] [Server thread/INFO]: [Not Secure] <bogartnani> cinacycle ko ngayon
-[15:25:59] [Server thread/INFO]: [Not Secure] <bogartnani> tgal e
-[15:26:00] [Server thread/INFO]: [Not Secure] <inshallah> donate mo na brew stand mo dre
-[15:26:05] [Server thread/INFO]: [Not Secure] <inshallah> je*
-[15:26:15] [Server thread/INFO]: [Not Secure] <MamaMo> ou nandito
-[15:26:25] [Server thread/INFO]: [Not Secure] <bogartnani> teka pre may nakita kong magandang build sa brew lab
-[15:26:34] [Server thread/INFO]: [Not Secure] <bogartnani> try ko simulan maya
-[15:27:46] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[15:27:46] [Server thread/INFO]: bogartnani left the game
-[15:27:52] [Server thread/INFO]: bogartnani[/26.185.22.198:53855] logged in with entity id 35057 at (245.74811790147865, 88.0, 96.3626126975889)
-[15:27:52] [Server thread/INFO]: bogartnani joined the game
-[15:28:51] [Server thread/INFO]: [Not Secure] <bogartnani> di ko macycle yung depth str
-[15:28:54] [Server thread/INFO]: [Not Secure] <bogartnani> saka na nga lang hahahah
-[15:30:02] [Server thread/INFO]: [Not Secure] <bogartnani> paghamit anvil
-[15:30:09] [Server thread/INFO]: [Not Secure] <opalitez> ge
-[15:30:10] [Server thread/INFO]: [Not Secure] <inshallah> la acacia pulube
-[15:30:41] [Server thread/INFO]: [Not Secure] <inshallah> HAHAHAHAHHAHA
-[15:30:47] [Server thread/INFO]: [Not Secure] <inshallah> ang cue nung mga alien dito
-[15:31:18] [Server thread/INFO]: [Not Secure] <opalitez> MAKIKIPAGTRADE AKO E
-[15:31:24] [Server thread/INFO]: [Not Secure] <MamaMo> panget
-[15:31:27] [Server thread/INFO]: [Not Secure] <bogartnani> hahaahah
-[15:31:34] [Server thread/INFO]: [Not Secure] <opalitez> nautilus shell pre magiipon sana ako
-[15:31:36] [Server thread/INFO]: [Not Secure] <inshallah> dikolam ano nangyayare chat nakisuntok lang ako
-[15:31:45] [Server thread/INFO]: [Not Secure] <bogartnani> dre
-[15:31:46] [Server thread/INFO]: [Not Secure] <MamaMo> trade ka sakin
-[15:31:49] [Server thread/INFO]: [Not Secure] <opalitez> ayaw
-[15:31:50] [Server thread/INFO]: [Not Secure] <bogartnani> kunin natin isang treasure
-[15:31:53] [Server thread/INFO]: [Not Secure] <opalitez> tara
-[15:31:53] [Server thread/INFO]: [Not Secure] <MamaMo> dali penge emerald
-[15:31:57] [Server thread/INFO]: [Not Secure] <bogartnani> tulog muna
-[15:32:09] [Server thread/INFO]: [Not Secure] <inshallah> di ko maalala nasan kama ko
-[15:32:11] [Server thread/INFO]: [Not Secure] <inshallah> enge nga
-[15:32:11] [Server thread/INFO]: [Not Secure] <opalitez> magayos lang ako gamit sa exp
-[15:32:12] [Server thread/INFO]: [Not Secure] <bogartnani> g ba dre now na???
-[15:32:13] [Server thread/INFO]: [Not Secure] <inshallah> hahahaha
-[15:32:16] [Server thread/INFO]: [Not Secure] <bogartnani> oks
-[15:32:23] [Server thread/INFO]: inshallah lost connection: Disconnected
-[15:32:23] [Server thread/INFO]: inshallah left the game
-[15:32:36] [Server thread/INFO]: inshallah[/26.25.220.70:63917] logged in with entity id 36416 at (-33.04668660434766, 126.0, -11.125199625687875)
-[15:32:36] [Server thread/INFO]: inshallah joined the game
-[15:34:26] [Server thread/INFO]: [Not Secure] <inshallah> trara reasyre
-[15:34:35] [Server thread/INFO]: [Not Secure] <opalitez> shield je
-[15:34:58] [Server thread/INFO]: [Not Secure] <opalitez> na sayo na map
-[15:35:19] [Server thread/INFO]: [Not Secure] <inshallah> asan kayo
-[15:35:22] [Server thread/INFO]: [Not Secure] <bogartnani> exp
-[15:35:33] [Server thread/INFO]: [Not Secure] <inshallah> wait
-[15:35:44] [Server thread/INFO]: [Not Secure] <bogartnani> bakit
-[15:35:50] [Server thread/INFO]: [Not Secure] <inshallah> ha
-[15:35:51] [Server thread/INFO]: [Not Secure] <MamaMo> taena mo may tunog yun
-[15:35:53] [Server thread/INFO]: [Not Secure] <inshallah> akala ko treasure
-[15:35:57] [Server thread/INFO]: [Not Secure] <bogartnani> ang alin
-[15:36:11] [Server thread/INFO]: [Not Secure] <bogartnani> bihin nio pag g na
-[15:36:33] [Server thread/INFO]: [Not Secure] <opalitez> pre
-[15:36:35] [Server thread/INFO]: [Not Secure] <opalitez> ako naman
-[15:36:44] [Server thread/INFO]: [Not Secure] <bogartnani> ano level mo
-[15:36:44] [Server thread/INFO]: [Not Secure] <opalitez> magaayos ako gamit
-[15:36:48] [Server thread/INFO]: [Not Secure] <bogartnani> 14 lang ako
-[15:36:49] [Server thread/INFO]: [Not Secure] <opalitez> ng mga tools ko kasi
-[15:36:52] [Server thread/INFO]: [Not Secure] <bogartnani> fakkkkk
-[15:36:54] [Server thread/INFO]: [Not Secure] <MamaMo> feather falling bry maganda ba
-[15:36:58] [Server thread/INFO]: [Not Secure] <opalitez> oo
-[15:37:00] [Server thread/INFO]: [Not Secure] <opalitez> legit yan
-[15:37:02] [Server thread/INFO]: [Not Secure] <MamaMo> iv
-[15:37:04] [Server thread/INFO]: [Not Secure] <MamaMo> legit ba
-[15:37:05] [Server thread/INFO]: [Not Secure] <bogartnani> meron feather fall 4 sa trade
-[15:37:14] [Server thread/INFO]: [Not Secure] <bogartnani> maganda yan
-[15:37:15] [Server thread/INFO]: [Not Secure] <inshallah> tingen sword je
-[15:37:27] [Server thread/INFO]: [Not Secure] <opalitez> hahaha pang pulube na sword
-[15:37:32] [Server thread/INFO]: [Not Secure] <opalitez> tapon mo na yan pre
-[15:37:33] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAHAHHAHA
-[15:37:34] [Server thread/INFO]: [Not Secure] <inshallah> ah kaya pala ganyan kulay
-[15:37:50] [Server thread/INFO]: [Not Secure] <bogartnani> may hawak na alambre si je
-[15:38:03] [Server thread/INFO]: [Not Secure] <opalitez> hindi mo mapapantayan si por
-[15:38:13] [Server thread/INFO]: [Not Secure] <inshallah> pag ba sharp 5 na sword mas mataas na damage sa axe
-[15:38:16] [Server thread/INFO]: [Not Secure] <MamaMo> yabang mo bry
-[15:38:19] [Server thread/INFO]: [Not Secure] <bogartnani> di pa ba repaired
-[15:38:27] [Server thread/INFO]: [Not Secure] <bogartnani> tangina naging mayabang pa
-[15:38:32] [Server thread/INFO]: [Not Secure] <bogartnani> mas malakas pa rin axe pre
-[15:38:42] [Server thread/INFO]: [Not Secure] <bogartnani> nalalagyan din sharp 5 axe e
-[15:38:43] [Server thread/INFO]: [Not Secure] <opalitez> pwede ba lagyan sharpness axe
-[15:38:47] [Server thread/INFO]: [Not Secure] <bogartnani> kaso pang crit lang talaga
-[15:38:47] [Server thread/INFO]: [Not Secure] <inshallah> ay we ba
-[15:38:47] [Server thread/INFO]: [Not Secure] <opalitez> ah papalag
-[15:38:52] [Server thread/INFO]: [Not Secure] <bogartnani> bagal ng axe e
-[15:38:58] [Server thread/INFO]: [Not Secure] <inshallah> gawa tayo mace
-[15:39:05] [Server thread/INFO]: [Not Secure] <inshallah> gusto ko ma try yugn trial
-[15:39:07] [Server thread/INFO]: [Not Secure] <bogartnani> kailangan natin maghanap trial
-[15:39:18] [Server thread/INFO]: [Not Secure] <opalitez> san meron trial
-[15:39:21] [Server thread/INFO]: [Not Secure] <bogartnani> nakukuha map non sa cartography villager trade
-[15:39:33] [Server thread/INFO]: [Not Secure] <bogartnani> sa ilalim ng lupa yon e haha
-[15:39:41] [Server thread/INFO]: [Not Secure] <bogartnani> di ko nga alam bat wala pa tayo nakikita
-[15:39:47] [Server thread/INFO]: [Not Secure] <bogartnani> lagi tayo nagcacaving
-[15:39:51] [Server thread/INFO]: [Not Secure] <bogartnani> TGAL DRE
-[15:39:59] [Server thread/INFO]: [Not Secure] <opalitez> teka kasi pre
-[15:40:14] [Server thread/INFO]: [Not Secure] <opalitez> ilan dmg mel
-[15:40:25] [Server thread/INFO]: [Not Secure] <MamaMo> dre
-[15:40:29] [Server thread/INFO]: [Not Secure] <MamaMo> pa 2 lvl lng pls
-[15:40:29] [Server thread/INFO]: [Not Secure] <inshallah> nadagdagan nga ata ako ng heart eh
-[15:40:33] [Server thread/INFO]: [Not Secure] <opalitez> yan na
-[15:40:36] [Server thread/INFO]: [Not Secure] <bogartnani> punyeta
-[15:40:38] [Server thread/INFO]: [Not Secure] <opalitez> aba
-[15:40:44] [Server thread/INFO]: [Not Secure] <opalitez> patesting nga ulit
-[15:40:44] [Server thread/INFO]: [Not Secure] <inshallah> akyat nga kayo sa bubble column saglet may ttry lang
-[15:41:08] [Server thread/INFO]: [Not Secure] <bogartnani> anjo level mo je
-[15:41:10] [Server thread/INFO]: [Not Secure] <opalitez> san yopn
-[15:41:13] [Server thread/INFO]: [Not Secure] <MamaMo> 28
-[15:41:14] [Server thread/INFO]: [Not Secure] <inshallah> yung elevaator
-[15:41:17] [Server thread/INFO]: [Not Secure] <MamaMo> pa 30 lng
-[15:41:21] [Server thread/INFO]: [Not Secure] <bogartnani> ge
-[15:41:29] [Server thread/INFO]: [Not Secure] <inshallah> gara na bblock parin
-[15:41:30] [Server thread/INFO]: [Not Secure] <opalitez> parang gago ampota hHAHAHAHAHAHA
-[15:41:31] [Server thread/INFO]: [Not Secure] <inshallah> hahahhahaha
-[15:41:39] [Server thread/INFO]: [Not Secure] <inshallah> tinitignan ko kung kusa kayo na makakasakay eh
-[15:43:02] [Server thread/INFO]: [Not Secure] <inshallah> gago
-[15:43:19] [Server thread/INFO]: [Not Secure] <MamaMo> oks na
-[15:43:58] [Server thread/INFO]: [Not Secure] <inshallah> gago si dre
-[15:43:59] [Server thread/INFO]: [Not Secure] <inshallah> nasa baba
-[15:44:06] [Server thread/INFO]: [Not Secure] <bogartnani> teka dre pa level muna ko bago mag treasure
-[15:44:19] [Server thread/INFO]: inshallah lost connection: Disconnected
-[15:44:19] [Server thread/INFO]: inshallah left the game
-[15:44:32] [Server thread/INFO]: [Not Secure] <opalitez> putangina niyo pre
-[15:44:35] [Server thread/INFO]: [Not Secure] <opalitez> afk ako ah
-[15:44:35] [Server thread/INFO]: [Not Secure] <bogartnani> nyare
-[15:44:40] [Server thread/INFO]: inshallah[/26.25.220.70:64021] logged in with entity id 38902 at (1.4490908374264317, 63.5, -179.08608200245018)
-[15:44:40] [Server thread/INFO]: inshallah joined the game
-[15:44:43] [Server thread/INFO]: [Not Secure] <opalitez> sino naghulog sakenb
-[15:44:47] [Server thread/INFO]: [Not Secure] <opalitez> muntik na ko
-[15:45:03] [Server thread/INFO]: [Not Secure] <opalitez> 2 hearts na lang akop don ah
-[15:45:15] [Server thread/INFO]: [Not Secure] <opalitez> sinira pa fence HAHAHAAHAHA
-[15:45:20] [Server thread/INFO]: [Not Secure] <bogartnani> gago
-[15:45:22] [Server thread/INFO]: [Not Secure] <bogartnani> AHHAHAHAHAHAHA
-[15:45:26] [Server thread/INFO]: [Not Secure] <opalitez> tarantado ak mel
-[15:45:27] [Server thread/INFO]: [Not Secure] <bogartnani> HINULOG KA SA TUBIG? HAHAHAHAHA
-[15:45:29] [Server thread/INFO]: [Not Secure] <opalitez> papatayin kita
-[15:46:01] [Server thread/INFO]: [Not Secure] <opalitez> oo gago HAHHAAHAH
-[15:46:11] [Server thread/INFO]: [Not Secure] <opalitez> ito yung fence oh
-[15:46:20] [Server thread/INFO]: [Not Secure] <bogartnani> san na
-[15:46:58] [Server thread/INFO]: [Not Secure] <inshallah> nakay dre yugn fence
-[15:47:01] [Server thread/INFO]: [Not Secure] <inshallah> hahahhahahahaahhahah
-[15:47:04] [Server thread/INFO]: [Not Secure] <inshallah> napulot nya
-[15:48:26] [Server thread/INFO]: [Not Secure] <opalitez> umuulan je
-[15:48:39] [Server thread/INFO]: [Not Secure] <MamaMo> sg
-[15:49:55] [Server thread/INFO]: [Not Secure] <inshallah> kinilig ako HAHAHAHHAH
-[15:49:57] [Server thread/INFO]: [Not Secure] <inshallah> ANG BAGAL
-[15:50:04] [Server thread/INFO]: [Not Secure] <opalitez> ina mo
-[15:50:06] [Server thread/INFO]: [Not Secure] <opalitez> JAHAHAHAHA
-[15:50:18] [Server thread/INFO]: [Not Secure] <inshallah> napulot mo minecart?
-[15:50:25] [Server thread/INFO]: [Not Secure] <opalitez> inde
-[15:50:44] [Server thread/INFO]: [Not Secure] <MamaMo> ito ah
-[15:50:53] [Server thread/INFO]: [Not Secure] <inshallah> ay nauna na pala
-[15:50:56] [Server thread/INFO]: [Not Secure] <inshallah> pababa je
-[15:50:59] [Server thread/INFO]: [Not Secure] <MamaMo> ito
-[15:51:07] [Server thread/INFO]: [Not Secure] <inshallah> 10x
-[15:51:36] [Server thread/INFO]: [Not Secure] <opalitez> ang kolit
-[15:52:59] [Server thread/INFO]: [Not Secure] <opalitez> saken napipunta mel
-[15:53:04] [Server thread/INFO]: [Not Secure] <inshallah> oo HAHHSAHHAAH
-[15:53:46] [Server thread/INFO]: [Not Secure] <inshallah> aayusin ko lang mending pick ko saglet
-[15:53:51] [Server thread/INFO]: [Not Secure] <inshallah> 1 kill lang
-[15:53:59] [Server thread/INFO]: [Not Secure] <opalitez> BABGHAHDHADHAHHA HAHAHA
-[15:54:01] [Server thread/INFO]: [Not Secure] <inshallah> potashdqwhhdahshadha
-[15:54:08] [Server thread/INFO]: [Not Secure] <inshallah> nagulat ako HAHAHAHHAHA
-[15:54:13] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHA ko rin e
-[15:55:41] [Server thread/INFO]: [Not Secure] <opalitez> save mo yung pufferfish je
-[15:55:52] [Server thread/INFO]: [Not Secure] <MamaMo> sge
-[15:55:57] [Server thread/INFO]: [Not Secure] <MamaMo> para san bayun
-[15:56:03] [Server thread/INFO]: [Not Secure] <bogartnani> lagay sa butas ng pwet
-[15:56:10] [Server thread/INFO]: [Not Secure] <inshallah> pang upgrade ng netherite armor
-[15:56:17] [Server thread/INFO]: [Not Secure] <opalitez> pang paint ng map yon
-[15:56:22] [Server thread/INFO]: [Not Secure] <MamaMo> sige dre mel
-[15:58:53] [Server thread/INFO]: [Not Secure] <inshallah> ang ingay nung mga bisaya sa harap ng bahay ko
-[15:58:59] [Server thread/INFO]: [Not Secure] <opalitez> HAHAHAHAHAHAHA
-[15:59:25] [Server thread/INFO]: [Not Secure] <opalitez> tingin ka bry
-[15:59:35] [Server thread/INFO]: [Not Secure] <bogartnani> ganda ah
-[15:59:39] [Server thread/INFO]: [Not Secure] <opalitez> solid
-[16:00:12] [Server thread/INFO]: [Not Secure] <inshallah> s
-[16:00:37] [Server thread/INFO]: [Not Secure] <opalitez> nag missed call ka pala saken mel HAHAHAHAHAHAH
-[16:01:23] [Server thread/INFO]: [Not Secure] <inshallah> oo gago
-[16:01:29] [Server thread/INFO]: [Not Secure] <inshallah> akala ko saglet k a lagn afk
-[16:01:34] [Server thread/INFO]: [Not Secure] <bogartnani> hahahaha kabado
-[16:01:42] [Server thread/INFO]: [Not Secure] <opalitez> kabaldogs si idol
-[16:01:48] [Server thread/INFO]: [Not Secure] <inshallah> je mahuhuli ko to tignan mo
-[16:03:58] [Server thread/INFO]: [Not Secure] <inshallah> ano max enchants sa bow bry, pow5 flame ano pa
-[16:04:12] [Server thread/INFO]: [Not Secure] <bogartnani> unbreaking, mend, punch
-[16:04:21] [Server thread/INFO]: [Not Secure] <bogartnani> saka bane of arthropods
-[16:06:54] [Server thread/INFO]: inshallah lost connection: Disconnected
-[16:06:54] [Server thread/INFO]: inshallah left the game
-[16:07:02] [Server thread/INFO]: inshallah[/26.25.220.70:64068] logged in with entity id 45949 at (-79.30000001192093, 126.0, -43.33457821168924)
-[16:07:02] [Server thread/INFO]: inshallah joined the game
-[16:07:11] [Server thread/INFO]: [Not Secure] <bogartnani> nalaglag ka ba
-[16:07:21] [Server thread/INFO]: [Not Secure] <inshallah> ndi namna
-[16:12:45] [Server thread/INFO]: [Not Secure] <opalitez> ano pwede gfawin sa clock
-[16:13:00] [Server thread/INFO]: [Not Secure] <inshallah> mga redstone shit ata yan dba
-[16:13:27] [Server thread/INFO]: Kumi[/26.108.248.240:57156] logged in with entity id 47419 at (-59.881283635670066, 127.0, -24.631356933408718)
-[16:13:27] [Server thread/INFO]: Kumi joined the game
-[16:14:03] [Server thread/INFO]: [Not Secure] <Kumi> amp ol lahat ah
-[16:14:24] [Server thread/INFO]: [Not Secure] <bogartnani> max armor na ko dre
-[16:14:28] [Server thread/INFO]: [Not Secure] <opalitez> ayeee
-[16:14:31] [Server thread/INFO]: [Not Secure] <opalitez> tara nether na
-[16:14:33] [Server thread/INFO]: [Not Secure] <bogartnani> teka
-[16:15:25] [Server thread/INFO]: [Not Secure] <opalitez> nagulo ba to
-[16:16:03] [Server thread/INFO]: [Not Secure] <inshallah> hahahahah
-[16:16:16] [Server thread/INFO]: [Not Secure] <opalitez> nyare dito sa map
-[16:16:28] [Server thread/INFO]: [Not Secure] <bogartnani> gago nilipat
-[16:16:36] [Server thread/INFO]: [Not Secure] <Kumi> jeje naman
-[16:16:42] [Server thread/INFO]: [Not Secure] <inshallah> oms
-[16:16:48] [Server thread/INFO]: [Not Secure] <MamaMo> ge roi
-[16:17:29] [Server thread/INFO]: [Not Secure] <Kumi> wala na yung maingay?
-[16:17:35] [Server thread/INFO]: [Not Secure] <MamaMo> bait mo nman
-[16:17:38] [Server thread/INFO]: [Not Secure] <opalitez> try mo lang
-[16:17:53] [Server thread/INFO]: [Not Secure] <MamaMo> agnas
-[16:20:22] [Server thread/INFO]: inshallah lost connection: Disconnected
-[16:20:22] [Server thread/INFO]: inshallah left the game
-[16:22:12] [Server thread/INFO]: [Not Secure] <Kumi> sleep
-[16:22:56] [Server thread/INFO]: [Not Secure] <Kumi> tulog
-[16:23:01] [Server thread/INFO]: [Not Secure] <bogartnani> si jeje
-[16:23:41] [Server thread/INFO]: inshallah[/26.25.220.70:64107] logged in with entity id 51207 at (-80.83153841046246, 131.0, -5.054877710924648)
-[16:23:41] [Server thread/INFO]: inshallah joined the game
-[16:23:51] [Server thread/INFO]: [Not Secure] <bogartnani> tingnan mo shield ko dre
-[16:23:59] [Server thread/INFO]: [Not Secure] <inshallah> na eenchant ba shield
-[16:24:09] [Server thread/INFO]: [Not Secure] <bogartnani> oo bane of arthropods
-[16:24:14] [Server thread/INFO]: [Not Secure] <opalitez> balik ako
-[16:24:19] [Server thread/INFO]: [Not Secure] <opalitez> unbreaking saka mending mel
-[16:24:22] [Server thread/INFO]: [Not Secure] <opalitez> legit yan
-[16:25:06] [Server thread/INFO]: [Not Secure] <inshallah> gage angas
-[16:25:09] [Server thread/INFO]: [Not Secure] <inshallah> pa try nga
-[16:25:29] [Server thread/INFO]: [Not Secure] <inshallah> sabi ni mama ako naman daw
-[16:25:35] [Server thread/INFO]: [Not Secure] <opalitez> san shield mo
-[16:25:36] [Server thread/INFO]: [Not Secure] <bogartnani> tangina tas di ibabalik
-[16:25:39] [Server thread/INFO]: [Not Secure] <inshallah> de
-[16:25:41] [Server thread/INFO]: [Not Secure] <inshallah> legit
-[16:25:44] [Server thread/INFO]: [Not Secure] <inshallah> mamatay man si je
-[16:25:50] [Server thread/INFO]: [Not Secure] <opalitez> ?
-[16:25:52] [Server thread/INFO]: [Not Secure] <inshallah> may drop ba to parang arrow
-[16:25:53] [Server thread/INFO]: [Not Secure] <bogartnani> sanb ka ba
-[16:25:56] [Server thread/INFO]: [Not Secure] <opalitez> ano to
-[16:26:17] [Server thread/INFO]: [Not Secure] <bogartnani> tangina nyare sa bahay ni je
-[16:26:20] [Server thread/INFO]: [Not Secure] <opalitez> pa try ako bry
-[16:26:26] [Server thread/INFO]: [Not Secure] <inshallah> na raid yan
-[16:26:30] [Server thread/INFO]: [Not Secure] <opalitez> wow
-[16:26:34] [Server thread/INFO]: [Not Secure] <opalitez> yung triedent
-[16:26:38] [Server thread/INFO]: [Not Secure] <inshallah> sabi sa inyo e mag iiba bahat ulit yan
-[16:26:54] [Server thread/INFO]: [Not Secure] <bogartnani> san si je
-[16:26:58] [Server thread/INFO]: opalitez has made the advancement [A Throwaway Joke]
-[16:27:02] [Server thread/INFO]: [Not Secure] <bogartnani> tra treasure
-[16:27:11] [Server thread/INFO]: [Not Secure] <opalitez> ilan dmg
-[16:27:15] [Server thread/INFO]: [Not Secure] <bogartnani> half heart
-[16:27:19] [Server thread/INFO]: [Not Secure] <opalitez> shesh
-[16:27:55] [Server thread/INFO]: [Not Secure] <bogartnani> gagio
-[16:27:57] [Server thread/INFO]: [Not Secure] <bogartnani> di sadya
-[16:28:03] [Server thread/INFO]: [Not Secure] <bogartnani> tyakbo ka kasi nang takbo e
-[16:28:17] [Server thread/INFO]: [Not Secure] <bogartnani> tangina hahhaha
-[16:28:22] [Server thread/INFO]: [Not Secure] <MamaMo> tanga mo dre
-[16:28:31] [Server thread/INFO]: [Not Secure] <bogartnani> nabblock ba
-[16:28:31] [Server thread/INFO]: [Not Secure] <opalitez> HAHAHAHAHA BAKIT
-[16:28:36] [Server thread/INFO]: [Not Secure] <opalitez> oo nabblock
-[16:28:40] [Server thread/INFO]: [Not Secure] <opalitez> ilan dmg je
-[16:28:47] [Server thread/INFO]: [Not Secure] <bogartnani> nbblock>
-[16:28:49] [Server thread/INFO]: [Not Secure] <bogartnani> ??
-[16:28:52] [Server thread/INFO]: [Not Secure] <opalitez> oo
-[16:29:27] [Server thread/INFO]: [Not Secure] <bogartnani> tangina
-[16:29:30] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHA
-[16:29:31] [Server thread/INFO]: [Not Secure] <MamaMo> tangina mo lava
-[16:29:35] [Server thread/INFO]: [Not Secure] <opalitez> JAHJNDAJAJJAJA
-[16:29:45] [Server thread/INFO]: [Not Secure] <bogartnani> ra treasurew
-[16:29:54] [Server thread/INFO]: [Not Secure] <opalitez> HAHAHAHAHHAAHHAHA
-[16:29:59] [Server thread/INFO]: [Not Secure] <inshallah> eto lalagya ko ng lava sige
-[16:30:06] [Server thread/INFO]: [Not Secure] <inshallah> isa oa
-[16:30:08] [Server thread/INFO]: [Not Secure] <bogartnani> ggao
-[16:30:09] [Server thread/INFO]: [Not Secure] <opalitez> ubos ang armor pota
-[16:30:12] [Server thread/INFO]: [Not Secure] <bogartnani> wag kayo dyan lagay lavga
-[16:30:17] [Server thread/INFO]: [Not Secure] <bogartnani> baka masunog bahay ni roi
-[16:30:19] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAHAHAHAH
-[16:30:24] [Server thread/INFO]: [Not Secure] <inshallah> naaawa lang ako sa isa eh
-[16:30:48] [Server thread/INFO]: [Not Secure] <Kumi> tangina niyo yung bahay ko
-[16:30:50] [Server thread/INFO]: [Not Secure] <inshallah> GE
-[16:30:53] [Server thread/INFO]: [Not Secure] <bogartnani> gago
-[16:30:58] [Server thread/INFO]: [Not Secure] <Kumi> baka masunog si sir adulf
-[16:30:58] [Server thread/INFO]: [Not Secure] <MamaMo> taena n2 nagsimula tas ge
-[16:31:17] [Server thread/INFO]: [Not Secure] <opalitez> gago nawawala yung pickaxe ko
-[16:31:31] [Server thread/INFO]: [Not Secure] <bogartnani> PUTANGINA TREASURE NA
-[16:31:35] [Server thread/INFO]: [Not Secure] <opalitez> wait lang pre
-[16:31:39] [Server thread/INFO]: [Not Secure] <opalitez> nawaala pickxe ko
-[16:31:49] [Server thread/INFO]: [Not Secure] <bogartnani> hahaaahahhahaha bubu
-[16:32:08] [Server thread/INFO]: [Not Secure] <opalitez> fuck
-[16:32:09] [Server thread/INFO]: [Not Secure] <opalitez> teka
-[16:32:21] [Server thread/INFO]: [Not Secure] <inshallah> SAYO NALANG PICK KO DRE PITNAGINA
-[16:32:31] [Server thread/INFO]: [Not Secure] <opalitez> bakit
-[16:32:38] [Server thread/INFO]: [Not Secure] <inshallah> ah di mo nab a hinahanap yung iyo
-[16:32:49] [Server thread/INFO]: [Not Secure] <opalitez> nasayo ba
-[16:32:52] [Server thread/INFO]: [Not Secure] <inshallah> wala
-[16:32:56] [Server thread/INFO]: [Not Secure] <bogartnani> tra na pls
-[16:33:04] [Server thread/INFO]: [Not Secure] <opalitez> teka pre
-[16:33:05] [Server thread/INFO]: [Not Secure] <bogartnani> nakita mo ba
-[16:33:06] [Server thread/INFO]: [Not Secure] <opalitez> tangina kasi
-[16:33:08] [Server thread/INFO]: [Not Secure] <opalitez> wala na
-[16:33:09] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHHAHAHAHAAHA
-[16:33:13] [Server thread/INFO]: [Not Secure] <bogartnani> anong pickaxe ba
-[16:33:17] [Server thread/INFO]: [Not Secure] <bogartnani> gawa ka na lang bago
-[16:33:18] [Server thread/INFO]: [Not Secure] <opalitez> yung diamond
-[16:34:02] [Server thread/INFO]: [Not Secure] <bogartnani> puta
-[16:34:06] [Server thread/INFO]: [Not Secure] <bogartnani> humarang ka gago HAHAAHHAAH
-[16:34:26] [Server thread/INFO]: [Not Secure] <opalitez> tangina nasira pa
-[16:34:31] [Server thread/INFO]: [Not Secure] <bogartnani> HAHHAHHAAHAHAHAH
-[16:34:32] [Server thread/INFO]: [Not Secure] <opalitez> nakigamit kasi yung isa e
-[16:34:33] [Server thread/INFO]: [Not Secure] <bogartnani> malas
-[16:34:37] [Server thread/INFO]: [Not Secure] <bogartnani> lah
-[16:34:38] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[16:34:38] [Server thread/INFO]: bogartnani left the game
-[16:34:40] [Server thread/INFO]: [Not Secure] <opalitez> HAHAHAHAHA
-[16:34:56] [Server thread/INFO]: bogartnani[/26.185.22.198:56243] logged in with entity id 53971 at (-70.10797163576342, 127.0, -0.773244850826404)
-[16:34:56] [Server thread/INFO]: bogartnani joined the game
-[16:34:56] [Server thread/INFO]: [Not Secure] <inshallah> nasira trident nya?
-[16:35:04] [Server thread/INFO]: [Not Secure] <bogartnani> oo
-[16:35:14] [Server thread/INFO]: [Not Secure] <opalitez> puta
-[16:35:17] [Server thread/INFO]: [Not Secure] <opalitez> wala akong exp na
-[16:35:23] [Server thread/INFO]: [Not Secure] <bogartnani> tangina mo mel ang kulit mo ah
-[16:35:25] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHHAHAHAHAHAHA
-[16:35:53] [Server thread/INFO]: [Not Secure] <inshallah> i dupe mo nga yung camel
-[16:36:28] [Server thread/INFO]: [Not Secure] <opalitez> exp muna ko
-[16:36:30] [Server thread/INFO]: [Not Secure] <opalitez> langya
-[16:36:32] [Server thread/INFO]: [Not Secure] <inshallah> TANGINA
-[16:36:34] [Server thread/INFO]: [Not Secure] <inshallah> G NA
-[16:36:36] [Server thread/INFO]: [Not Secure] <bogartnani> FAKLDNKLNALLKKK
-[16:36:45] [Server thread/INFO]: [Not Secure] <opalitez> sige na nga tara na
-[16:36:47] [Server thread/INFO]: [Not Secure] <opalitez> balik ako dyan
-[16:37:06] [Server thread/INFO]: [Not Secure] <opalitez> wala ba sa inyo
-[16:37:10] [Server thread/INFO]: [Not Secure] <bogartnani> la saken
-[16:37:18] [Server thread/INFO]: [Not Secure] <inshallah> iyo na nga lang pick ko
-[16:37:21] [Server thread/INFO]: [Not Secure] <opalitez> puta
-[16:37:26] [Server thread/INFO]: [Not Secure] <opalitez> ano ba pick mo
-[16:37:32] [Server thread/INFO]: [Not Secure] <inshallah> eff 5 unb 3
-[16:37:36] [Server thread/INFO]: [Not Secure] <opalitez> bat mo ko pinabalek hayp ka
-[16:37:36] [Server thread/INFO]: [Not Secure] <inshallah> para matahimik ka n
-[16:37:59] [Server thread/INFO]: [Not Secure] <inshallah> bat ganito yung map pangbisaya
-[16:38:09] [Server thread/INFO]: [Not Secure] <bogartnani> putanginamo
-[16:38:14] [Server thread/INFO]: [Not Secure] <bogartnani> inayos na namin yan
-[16:38:16] [Server thread/INFO]: [Not Secure] <inshallah> gago
-[16:38:22] [Server thread/INFO]: [Not Secure] <inshallah> di namn yan ganyan knaina
-[16:38:35] [Server thread/INFO]: [Not Secure] <opalitez> ttulog tas tara na
-[16:38:37] [Server thread/INFO]: [Not Secure] <inshallah> ayan okat na
-[16:38:50] [Server thread/INFO]: [Not Secure] <opalitez> mel ikaw magbukas server pala
-[16:38:53] [Server thread/INFO]: [Not Secure] <opalitez> aalis kami e
-[16:39:15] [Server thread/INFO]: [Not Secure] <opalitez> pagkatulog sarado ko
-[16:39:19] [Server thread/INFO]: [Not Secure] <opalitez> leave kayo
-[16:39:25] [Server thread/INFO]: [Not Secure] <bogartnani> tanghina
-[16:39:28] [Server thread/INFO]: [Not Secure] <bogartnani> tgal
-[16:39:29] [Server thread/INFO]: [Not Secure] <opalitez> tulog na pre pls
-[16:39:34] [Server thread/INFO]: [Not Secure] <opalitez> susunugin ko kayo
-[16:39:45] [Server thread/INFO]: [Not Secure] <opalitez> puta
-[16:40:08] [Server thread/INFO]: [Not Secure] <opalitez> leave
-[16:40:11] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[16:40:11] [Server thread/INFO]: bogartnani left the game
-[16:40:11] [Server thread/INFO]: Kumi lost connection: Disconnected
-[16:40:11] [Server thread/INFO]: Kumi left the game
-[16:40:12] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[16:40:12] [Server thread/INFO]: MamaMo left the game
-[16:40:12] [Server thread/INFO]: inshallah lost connection: Disconnected
-[16:40:12] [Server thread/INFO]: inshallah left the game
-[16:40:14] [Server thread/INFO]: opalitez lost connection: Disconnected
-[16:40:14] [Server thread/INFO]: opalitez left the game
-[16:40:18] [Server thread/INFO]: Stopping server
-[16:40:18] [Server thread/INFO]: Saving players
-[16:40:18] [Server thread/INFO]: Saving worlds
-[16:40:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:40:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:40:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:40:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:08:14] [Server thread/INFO]: bogartnani[/26.185.22.198:50997] logged in with entity id 90230 at (1118.7814231397585, 66.5, 1079.7870257939628)
+[00:08:14] [Server thread/INFO]: bogartnani joined the game
+[00:09:43] [Server thread/INFO]: bogartnani has made the advancement [Spooky Scary Skeleton]
+[00:09:50] [Server thread/INFO]: [Not Secure] <bogartnani> tangina sa wakas
+[00:09:51] [Server thread/INFO]: [Not Secure] <opalitez> nasa nether ka bry?
+[00:09:55] [Server thread/INFO]: [Not Secure] <bogartnani> oo kanina pa
+[00:10:00] [Server thread/INFO]: [Not Secure] <bogartnani> mula nung hapon na umalis ka
+[00:10:06] [Server thread/INFO]: [Not Secure] <opalitez> HAHAHAHAHA myuntik na ko mamatay dyan kanina
+[00:10:09] [Server thread/INFO]: [Not Secure] <bogartnani> naghahanap ako wither
+[00:10:12] [Server thread/INFO]: [Not Secure] <bogartnani> hahaahhaahaha
+[00:13:45] [Server thread/INFO]: [Not Secure] <MamaMo> GG
+[00:13:48] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[00:13:48] [Server thread/INFO]: MamaMo left the game
+[00:14:53] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=7, y=56, z=-207} ji{x=7, y=54, z=-209}
+[00:15:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=5, y=55, z=-187} ji{x=4, y=55, z=-186}
+[00:15:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=5, y=55, z=-187} ji{x=4, y=55, z=-186}
+[00:15:22] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=5, y=55, z=-187} ji{x=4, y=55, z=-186}
+[00:24:07] [Server thread/INFO]: [Not Secure] <bogartnani> gago
+[00:24:13] [Server thread/INFO]: [Not Secure] <bogartnani> naaggro ko pigman
+[00:29:09] [Server thread/INFO]: [Not Secure] <opalitez> gago ka
+[00:29:12] [Server thread/INFO]: [Not Secure] <opalitez> need mo ba tulong
+[00:29:18] [Server thread/INFO]: [Not Secure] <bogartnani> di naman
+[00:29:24] [Server thread/INFO]: [Not Secure] <opalitez> ano mas malakas wither o ender drag
+[00:29:31] [Server thread/INFO]: [Not Secure] <bogartnani> wither pre
+[00:29:35] [Server thread/INFO]: [Not Secure] <bogartnani> mas malakas damage
+[00:29:40] [Server thread/INFO]: [Not Secure] <bogartnani> dragon basic na basic
+[00:29:40] [Server thread/INFO]: [Not Secure] <opalitez> kaya ba natin yon
+[00:29:43] [Server thread/INFO]: [Not Secure] <bogartnani> oo
+[00:31:30] [Server thread/INFO]: [Not Secure] <bogartnani> balik na ko dyan
+[00:31:40] [Server thread/INFO]: [Not Secure] <bogartnani> tatamad na ko magpatay witehr skel
+[00:35:57] [Server thread/INFO]: [Not Secure] <opalitez> ilan nakuha mo
+[00:36:01] [Server thread/INFO]: [Not Secure] <bogartnani> dalawa lang
+[00:36:07] [Server thread/INFO]: [Not Secure] <opalitez> ilan para sa wither
+[00:36:10] [Server thread/INFO]: [Not Secure] <bogartnani> tangina ilang beses ako muntik mahulog sa lava pre
+[00:36:12] [Server thread/INFO]: [Not Secure] <bogartnani> tatlo
+[00:36:13] [Server thread/INFO]: [Not Secure] <opalitez> ano ba makukuha don
+[00:36:20] [Server thread/INFO]: [Not Secure] <bogartnani> wither star. panggawa beacon
+[00:36:21] [Server thread/INFO]: [Not Secure] <opalitez> tangina pre ako nahulog na hayop na yan
+[00:36:26] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAHAHA
+[00:36:27] [Server thread/INFO]: [Not Secure] <opalitez> buti sobrang lakas ng prot 4 pre
+[00:36:31] [Server thread/INFO]: [Not Secure] <bogartnani> kaya nga e
+[00:36:35] [Server thread/INFO]: [Not Secure] <opalitez> nagswimming e
+[00:36:45] [Server thread/INFO]: [Not Secure] <bogartnani> gago may op trade yung isang fletcher dyan
+[00:36:53] [Server thread/INFO]: [Not Secure] <bogartnani> fire resistance arrows 1 minute
+[00:37:12] [Server thread/INFO]: [Not Secure] <bogartnani> pero pwede naman na tayo mag brew
+[00:37:20] [Server thread/INFO]: [Not Secure] <bogartnani> gawa ako pag uwi ng brewing area
+[00:37:31] [Server thread/INFO]: [Not Secure] <opalitez> nc
+[00:38:49] [Server thread/INFO]: [Not Secure] <bogartnani> san ka
+[00:41:02] [Server thread/INFO]: [Not Secure] <opalitez> exp
+[00:41:05] [Server thread/INFO]: [Not Secure] <opalitez> pabalik na
+[00:41:11] [Server thread/INFO]: [Not Secure] <bogartnani> gawa muna ko community hall
+[00:41:18] [Server thread/INFO]: [Not Secure] <bogartnani> dun ko lagay maps saka to do list AHAHHA
+[00:41:23] [Server thread/INFO]: [Not Secure] <opalitez> SHEESH
+[00:42:32] [Server thread/INFO]: opalitez has made the advancement [Spooky Scary Skeleton]
+[00:42:42] [Server thread/INFO]: [Not Secure] <bogartnani> apaka baba ng drop rate nyan taena
+[00:43:01] [Server thread/INFO]: [Not Secure] <bogartnani> 2.5%% chance lang
+[00:43:46] [Server thread/INFO]: [Not Secure] <bogartnani> gets mo ba pano mag dupe trim?
+[00:43:51] [Server thread/INFO]: [Not Secure] <opalitez> di pa
+[00:43:57] [Server thread/INFO]: [Not Secure] <bogartnani> peram nga q
+[00:44:20] [Server thread/INFO]: [Not Secure] <bogartnani> nasa crafting
+[00:44:23] [Server thread/INFO]: [Not Secure] <bogartnani> tingnan mo
+[00:44:35] [Server thread/INFO]: [Not Secure] <bogartnani> consumable kasi yan pre
+[00:44:41] [Server thread/INFO]: [Not Secure] <bogartnani> so dapat lagi may isa matitira
+[00:44:42] [Server thread/INFO]: [Not Secure] <opalitez> madudupe yan?
+[00:44:51] [Server thread/INFO]: [Not Secure] <bogartnani> oo pero legit duping yan hahahha
+[00:44:57] [Server thread/INFO]: [Not Secure] <bogartnani> like, icacraft mo
+[00:45:12] [Server thread/INFO]: [Not Secure] <bogartnani> nakita mo yung recipe?? hhaha
+[00:45:29] [Server thread/INFO]: [Not Secure] <bogartnani> wait kunin ko trim ko
+[00:45:29] [Server thread/INFO]: [Not Secure] <opalitez> Ooo
+[00:45:35] [Server thread/INFO]: [Not Secure] <bogartnani> idupe mo para may kopya ka
+[00:45:47] [Server thread/INFO]: [Not Secure] <opalitez> 7 dias tas isang netherrack
+[00:45:49] [Server thread/INFO]: [Not Secure] <opalitez> tama ba
+[00:45:51] [Server thread/INFO]: [Not Secure] <bogartnani> oo
+[00:45:58] [Server thread/INFO]: [Not Secure] <bogartnani> medyo may kamahalan
+[00:46:08] [Server thread/INFO]: [Not Secure] <opalitez> dalawa na
+[00:46:23] [Server thread/INFO]: [Not Secure] <opalitez> ano benefit nito
+[00:46:29] [Server thread/INFO]: [Not Secure] <bogartnani> bale kung lalagay mo sa armor yan, apat magagamit, so idudupe mo apat na beses
+[00:46:39] [Server thread/INFO]: [Not Secure] <bogartnani> aesthetics lang HAHAHHA
+[00:46:42] [Server thread/INFO]: [Not Secure] <bogartnani> gawa ka smithing table
+[00:47:13] [Server thread/INFO]: [Not Secure] <opalitez> yung smithing table pangpalakas ba yon
+[00:47:26] [Server thread/INFO]: [Not Secure] <bogartnani> dun din inuupgrade netherite
+[00:47:33] [Server thread/INFO]: [Not Secure] <bogartnani> gusto mo hanap tayo netherite e
+[00:47:34] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAHA
+[00:47:40] [Server thread/INFO]: [Not Secure] <bogartnani> kaso mas rare sa diamonds yun
+[00:47:49] [Server thread/INFO]: [Not Secure] <opalitez> baka mamatay tayo tae
+[00:47:56] [Server thread/INFO]: [Not Secure] <bogartnani> minamine din yun pre
+[00:47:58] [Server thread/INFO]: [Not Secure] <bogartnani> sa nether
+[00:48:03] [Server thread/INFO]: [Not Secure] <bogartnani> wag lang tayo mamamatay sa lava
+[00:48:11] [Server thread/INFO]: [Not Secure] <opalitez> may lima na ko
+[00:56:26] [Server thread/INFO]: opalitez has made the advancement [Crafting a New Look]
+[00:58:16] [Server thread/INFO]: Kumi[/26.108.248.240:49841] logged in with entity id 104204 at (-48.44562752139004, 143.0, -22.30000001192093)
+[00:58:16] [Server thread/INFO]: Kumi joined the game
+[00:58:51] [Server thread/INFO]: Kumi lost connection: Disconnected
+[00:58:51] [Server thread/INFO]: Kumi left the game
+[00:59:17] [Server thread/INFO]: Kumi[/26.108.248.240:49877] logged in with entity id 104493 at (-54.06227711436117, 143.0, -25.69999998807907)
+[00:59:17] [Server thread/INFO]: Kumi joined the game
+[00:59:40] [Server thread/INFO]: Kumi lost connection: Disconnected
+[00:59:40] [Server thread/INFO]: Kumi left the game
+[00:59:50] [Server thread/INFO]: Kumi[/26.108.248.240:49897] logged in with entity id 104847 at (-50.69236740684713, 143.0, -27.000171157873968)
+[00:59:50] [Server thread/INFO]: Kumi joined the game
+[01:00:31] [Server thread/INFO]: Kumi lost connection: Disconnected
+[01:00:31] [Server thread/INFO]: Kumi left the game
+[01:00:56] [Server thread/INFO]: Kumi[/26.108.248.240:49932] logged in with entity id 105063 at (-51.19760145936635, 143.0, -27.506913150667405)
+[01:00:56] [Server thread/INFO]: Kumi joined the game
+[01:01:21] [Server thread/INFO]: Kumi lost connection: Disconnected
+[01:01:21] [Server thread/INFO]: Kumi left the game
+[01:02:48] [Server thread/INFO]: Kumi[/26.108.248.240:64246] logged in with entity id 105284 at (-58.59169106046689, 142.77159999251364, -27.428153717755396)
+[01:02:48] [Server thread/INFO]: Kumi joined the game
+[01:04:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-22, y=127, z=6} ji{x=-23, y=127, z=4}
+[01:08:02] [Server thread/INFO]: opalitez lost connection: Disconnected
+[01:08:02] [Server thread/INFO]: opalitez left the game
+[01:20:43] [Server thread/INFO]: opalitez[/26.81.134.220:50725] logged in with entity id 110102 at (-75.36445059123861, 127.5, 0.94150300574968)
+[01:20:43] [Server thread/INFO]: opalitez joined the game
+[02:11:14] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[02:11:14] [Server thread/INFO]: bogartnani left the game
+[02:19:28] [Server thread/INFO]: bogartnani[/26.185.22.198:54644] logged in with entity id 122220 at (-85.75150207422287, 123.0, -43.49762358693806)
+[02:19:28] [Server thread/INFO]: bogartnani joined the game
+[02:32:49] [Server thread/INFO]: opalitez lost connection: Disconnected
+[02:32:49] [Server thread/INFO]: opalitez left the game
+[03:09:01] [Server thread/INFO]: Kumi lost connection: Disconnected
+[03:09:01] [Server thread/INFO]: Kumi left the game
+[04:02:23] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[04:02:23] [Server thread/INFO]: bogartnani left the game
+[04:03:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[05:46:18] [Server thread/INFO]: Stopping server
+[05:46:18] [Server thread/INFO]: Saving players
+[05:46:18] [Server thread/INFO]: Saving worlds
+[05:46:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:46:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:46:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:46:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
