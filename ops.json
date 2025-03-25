@@ -4,5 +4,11 @@
     "name": "bogartini",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "647291d2-eafa-34f5-948a-6876534ad6a6",
+    "name": "inshallah",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
