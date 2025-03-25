@@ -373,6 +373,7 @@
       "minecraft:blaze": "2025-03-17 01:49:13 +0800",
       "minecraft:pillager": "2025-03-22 01:42:28 +0800",
       "minecraft:skeleton": "2025-03-11 00:10:40 +0800",
+      "minecraft:phantom": "2025-03-25 23:56:17 +0800",
       "minecraft:wither_skeleton": "2025-03-17 01:49:38 +0800",
       "minecraft:ghast": "2025-03-17 00:32:02 +0800",
       "minecraft:hoglin": "2025-03-17 00:34:21 +0800",
@@ -3807,6 +3808,18 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-03-25 17:39:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-03-26 00:48:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-03-26 00:48:00 +0800"
     },
     "done": true
   },

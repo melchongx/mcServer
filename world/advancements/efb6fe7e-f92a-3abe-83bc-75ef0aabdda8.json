@@ -2130,6 +2130,7 @@
     "criteria": {
       "minecraft:cow": "2025-03-11 01:23:32 +0800",
       "minecraft:chicken": "2025-03-11 00:58:31 +0800",
+      "minecraft:wolf": "2025-03-26 02:14:34 +0800",
       "minecraft:panda": "2025-03-23 03:21:07 +0800",
       "minecraft:turtle": "2025-03-23 17:16:22 +0800",
       "minecraft:sheep": "2025-03-18 03:12:47 +0800",
@@ -5224,6 +5225,18 @@
   "minecraft:recipes/building_blocks/dye_green_wool": {
     "criteria": {
       "has_needed_dye": "2025-03-25 01:58:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-26 02:02:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-26 02:02:00 +0800"
     },
     "done": true
   },
