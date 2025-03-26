@@ -1,66 +1,528 @@
-[00:04:18] [Server thread/INFO]: epits has made the advancement [Diamonds!]
-[00:08:20] [Server thread/INFO]: epits has made the advancement [Cover Me with Diamonds]
-[00:15:56] [Server thread/INFO]: epits has made the advancement [Ice Bucket Challenge]
-[00:18:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-133, y=-52, z=178} ji{x=-133, y=-52, z=183}
-[00:25:22] [Server thread/INFO]: bogartnani[/26.185.22.198:54322] logged in with entity id 74282 at (-82.11088312877314, 127.0, -39.30000001192093)
-[00:25:22] [Server thread/INFO]: bogartnani joined the game
-[00:30:22] [Server thread/INFO]: Kumi lost connection: Disconnected
-[00:30:22] [Server thread/INFO]: Kumi left the game
-[00:30:37] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[00:30:37] [Server thread/INFO]: bogartnani left the game
-[00:30:38] [Server thread/INFO]: Kumi[/26.108.248.240:58050] logged in with entity id 75919 at (-119.42799538410874, -52.0, 151.6573021249014)
-[00:30:38] [Server thread/INFO]: Kumi joined the game
-[00:31:15] [Server thread/INFO]: Kumi lost connection: Disconnected
-[00:31:15] [Server thread/INFO]: Kumi left the game
-[00:31:26] [Server thread/INFO]: bogartnani[/26.185.22.198:54531] logged in with entity id 76183 at (-173.57862642760006, -54.0, 201.83433322585142)
-[00:31:26] [Server thread/INFO]: bogartnani joined the game
-[00:31:52] [Server thread/INFO]: Kumi[/26.108.248.240:58082] logged in with entity id 76351 at (-140.88800575233276, -53.0, 161.95446398425176)
-[00:31:52] [Server thread/INFO]: Kumi joined the game
-[00:38:04] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[00:38:04] [Server thread/INFO]: bogartnani left the game
-[00:38:26] [Server thread/INFO]: bogartnani[/26.185.22.198:54698] logged in with entity id 78227 at (-163.83661822531312, -44.0, 165.88860216097862)
-[00:38:26] [Server thread/INFO]: bogartnani joined the game
-[00:45:02] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[00:45:02] [Server thread/INFO]: MamaMo left the game
-[00:45:20] [Server thread/INFO]: MamaMo[/26.139.251.172:58724] logged in with entity id 82469 at (-167.32544662283027, -54.0, 191.65020957002983)
-[00:45:20] [Server thread/INFO]: MamaMo joined the game
-[00:47:39] [Server thread/INFO]: epits tried to swim in lava
-[00:51:00] [Server thread/INFO]: opalitez[/26.81.134.220:58688] logged in with entity id 84087 at (-52.05292630440112, 125.9375, -2.523004908099775)
-[00:51:00] [Server thread/INFO]: opalitez joined the game
-[00:55:23] [Server thread/INFO]: epits has made the advancement [Sweet Dreams]
-[00:57:09] [Server thread/INFO]: inshallah has completed the challenge [Cover Me in Debris]
-[01:17:29] [Server thread/INFO]: [Not Secure] <epits> gg muna
-[01:17:34] [Server thread/INFO]: [Not Secure] <opalitez> gg
-[01:17:34] [Server thread/INFO]: [Not Secure] <MamaMo> gg
-[01:17:36] [Server thread/INFO]: epits lost connection: Disconnected
-[01:17:36] [Server thread/INFO]: epits left the game
-[01:36:07] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[01:36:07] [Server thread/INFO]: MamaMo left the game
-[01:36:19] [Server thread/INFO]: MamaMo[/26.139.251.172:58810] logged in with entity id 100899 at (-51.211407317293315, 126.0, -14.927265331545955)
-[01:36:19] [Server thread/INFO]: MamaMo joined the game
-[01:41:50] [Server thread/INFO]: opalitez lost connection: Disconnected
-[01:41:50] [Server thread/INFO]: opalitez left the game
-[01:42:08] [Server thread/INFO]: opalitez[/26.81.134.220:58883] logged in with entity id 102584 at (-83.00790743488544, 131.0, -4.373926469867685)
-[01:42:08] [Server thread/INFO]: opalitez joined the game
-[02:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[02:10:27] [Server thread/INFO]: inshallah has made the advancement [Crafting a New Look]
-[02:12:07] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[02:12:07] [Server thread/INFO]: MamaMo left the game
-[02:13:03] [Server thread/INFO]: Kumi lost connection: Disconnected
-[02:13:03] [Server thread/INFO]: Kumi left the game
-[02:17:49] [Server thread/INFO]: opalitez lost connection: Disconnected
-[02:17:49] [Server thread/INFO]: opalitez left the game
-[02:20:46] [Server thread/INFO]: inshallah lost connection: Disconnected
-[02:20:46] [Server thread/INFO]: inshallah left the game
-[02:20:48] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[02:20:48] [Server thread/INFO]: bogartnani left the game
-[02:21:18] [Server thread/INFO]: Stopping server
-[02:21:18] [Server thread/INFO]: Saving players
-[02:21:18] [Server thread/INFO]: Saving worlds
-[02:21:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:21:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:21:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:21:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:21:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:21:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:21:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:54:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:54:12] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Connection reset
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.57.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:318) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:1116) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1103) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1507) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1422) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82) ~[authlib-6.0.57.jar:?]
+	... 9 more
+[10:54:14] [ServerMain/INFO]: Loaded 1370 recipes
+[10:54:14] [ServerMain/INFO]: Loaded 1481 advancements
+[10:54:14] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[10:54:14] [Server thread/INFO]: Loading properties
+[10:54:14] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:328) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:2252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:190) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
+[10:54:14] [Server thread/INFO]: Default game type: SURVIVAL
+[10:54:14] [Server thread/INFO]: Generating keypair
+[10:54:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:54:15] [Server thread/INFO]: Using default channel type
+[10:54:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:54:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:54:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:54:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:54:15] [Server thread/INFO]: Preparing level "world"
+[10:54:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:54:16] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:54:16] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:54:16] [Server thread/INFO]: Time elapsed: 1061 ms
+[10:54:16] [Server thread/INFO]: Done (1.365s)! For help, type "help"
+[10:55:23] [Server thread/INFO]: inshallah[/26.25.220.70:53908] logged in with entity id 184 at (-31.616371493093197, 140.0, -12.59607209516329)
+[10:55:23] [Server thread/INFO]: inshallah joined the game
+[10:55:59] [Server thread/INFO]: inshallah lost connection: Disconnected
+[10:55:59] [Server thread/INFO]: inshallah left the game
+[10:58:22] [Server thread/INFO]: Kumi[/26.108.248.240:56991] logged in with entity id 446 at (-59.69708777069724, 127.0, -26.76515972219016)
+[10:58:22] [Server thread/INFO]: Kumi joined the game
+[10:58:44] [Server thread/INFO]: Kumi lost connection: Disconnected
+[10:58:44] [Server thread/INFO]: Kumi left the game
+[10:59:13] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Connection reset
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.57.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:318) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:1116) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1103) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1507) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1422) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82) ~[authlib-6.0.57.jar:?]
+	... 9 more
+[11:09:13] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Connection reset
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.57.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:318) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:1116) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1103) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1507) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1422) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82) ~[authlib-6.0.57.jar:?]
+	... 9 more
+[11:11:56] [Server thread/INFO]: MamaMo[/26.139.251.172:64928] logged in with entity id 677 at (-46.48851754420894, 127.0625, -25.242818395421722)
+[11:11:56] [Server thread/INFO]: MamaMo joined the game
+[11:11:58] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[11:11:58] [Server thread/INFO]: MamaMo left the game
+[11:12:32] [Server thread/INFO]: MamaMo[/26.139.251.172:64943] logged in with entity id 905 at (-46.48851754420894, 127.0625, -25.242818395421722)
+[11:12:32] [Server thread/INFO]: MamaMo joined the game
+[11:12:34] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[11:12:34] [Server thread/INFO]: MamaMo left the game
+[11:13:25] [Server thread/INFO]: MamaMo[/26.139.251.172:64999] logged in with entity id 1133 at (-46.48851754420894, 127.0625, -25.242818395421722)
+[11:13:25] [Server thread/INFO]: MamaMo joined the game
+[11:21:54] [Server thread/INFO]: [Not Secure] [Server] mamamo pakyu
+[11:23:43] [Server thread/INFO]: MamaMo has made the advancement [Voluntary Exile]
+[11:29:13] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Connection reset
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.57.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:318) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:1116) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1103) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1507) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1422) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82) ~[authlib-6.0.57.jar:?]
+	... 9 more
+[11:43:16] [Server thread/INFO]: inshallah[/26.25.220.70:60240] logged in with entity id 6504 at (-30.750048997563848, 139.0, -3.989631120009514)
+[11:43:16] [Server thread/INFO]: inshallah joined the game
+[11:46:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-11, y=123, z=-12} ji{x=-10, y=123, z=-13}
+[11:46:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-11, y=123, z=-12} ji{x=-10, y=123, z=-13}
+[11:46:21] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-11, y=123, z=-12} ji{x=-10, y=123, z=-13}
+[11:46:55] [Server thread/INFO]: [Not Secure] <inshallah> tulogj e
+[11:50:57] [Server thread/INFO]: [Not Secure] <MamaMo> afk
+[12:05:46] [Server thread/INFO]: bogartnani[/26.185.22.198:49967] logged in with entity id 18264 at (285.6220867403697, 105.0, 361.3238332452695)
+[12:05:46] [Server thread/INFO]: bogartnani joined the game
+[12:09:13] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Connection reset
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.57.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:318) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:1116) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1103) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1507) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1422) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82) ~[authlib-6.0.57.jar:?]
+	... 9 more
+[12:17:47] [Server thread/INFO]: [Not Secure] <bogartnani> jje
+[12:17:49] [Server thread/INFO]: [Not Secure] <bogartnani> san ka
+[12:17:57] [Server thread/INFO]: [Not Secure] <inshallah> nag bbreed aso
+[12:18:13] [Server thread/INFO]: [Not Secure] <inshallah> may rottweilier ka na ba je
+[12:18:13] [Server thread/INFO]: [Not Secure] <bogartnani> explore nether
+[12:18:16] [Server thread/INFO]: [Not Secure] <bogartnani> ra
+[12:18:18] [Server thread/INFO]: [Not Secure] <inshallah> asa nether ako
+[12:18:25] [Server thread/INFO]: [Not Secure] <inshallah> pabalik galing blaze
+[12:18:30] [Server thread/INFO]: [Not Secure] <bogartnani> tara mel
+[12:18:30] [Server thread/INFO]: [Not Secure] <inshallah> max anti bisakol armor na ko pre
+[12:18:35] [Server thread/INFO]: [Not Secure] <inshallah> padala food
+[12:18:36] [Server thread/INFO]: [Not Secure] <inshallah> wala aq
+[12:18:42] [Server thread/INFO]: [Not Secure] <bogartnani> dala din ako fire res
+[12:18:47] [Server thread/INFO]: [Not Secure] <inshallah> wait maka uwi saglet
+[12:18:49] [Server thread/INFO]: [Not Secure] <inshallah> kuha na rin ako
+[12:18:52] [Server thread/INFO]: [Not Secure] <bogartnani> oks
+[12:20:07] [Server thread/INFO]: [Not Secure] <inshallah> magkano unb 3 sa slave hall
+[12:20:35] [Server thread/INFO]: [Not Secure] <bogartnani> 17
+[12:22:29] [Server thread/INFO]: [Not Secure] <inshallah> g na k
+[12:22:39] [Server thread/INFO]: [Not Secure] <inshallah> wala pala ko level pang kabit hahahhaha di na pala
+[12:23:20] [Server thread/INFO]: [Not Secure] <inshallah> san ka bry
+[12:23:23] [Server thread/INFO]: [Not Secure] <bogartnani> lava
+[12:23:31] [Server thread/INFO]: [Not Secure] <bogartnani> nagluto lang
+[12:24:12] [Server thread/INFO]: [Not Secure] <bogartnani> may potion ka na?
+[12:24:14] [Server thread/INFO]: [Not Secure] <inshallah> oms
+[12:24:39] [Server thread/INFO]: [Not Secure] <inshallah> gago natatae ako
+[12:25:24] [Server thread/INFO]: [Not Secure] <bogartnani> di p natin naeexplore to mel
+[12:25:32] [Server thread/INFO]: [Not Secure] <inshallah> ako onti
+[12:25:37] [Server thread/INFO]: [Not Secure] <inshallah> dito ako nag mine ancient eh
+[12:25:44] [Server thread/INFO]: [Not Secure] <inshallah> sa forest na yan di
+[12:26:28] [Server thread/INFO]: [Not Secure] <bogartnani> gago
+[12:27:32] [Server thread/INFO]: [Not Secure] <bogartnani> wait tubig langf
+[12:27:42] [Server thread/INFO]: [Not Secure] <inshallah> pre natatae talaga ko legit
+[12:27:45] [Server thread/INFO]: [Not Secure] <inshallah> uwi muna ko dorm
+[12:27:47] [Server thread/INFO]: [Not Secure] <inshallah> HAHAHHAHAHA
+[12:27:48] [Server thread/INFO]: inshallah lost connection: Disconnected
+[12:27:48] [Server thread/INFO]: inshallah left the game
+[12:27:58] [Server thread/INFO]: [Not Secure] <bogartnani> gago
+[12:28:02] [Server thread/INFO]: [Not Secure] <MamaMo> mb afk
+[12:28:08] [Server thread/INFO]: [Not Secure] <MamaMo> taena natae
+[12:29:22] [Server thread/INFO]: [Not Secure] <bogartnani> san ka je
+[12:30:16] [Server thread/INFO]: bogartnani has made the advancement [Ol' Betsy]
+[12:30:16] [Server thread/INFO]: [Not Secure] <MamaMo> nag exp
+[12:32:58] [Server thread/INFO]: [Not Secure] <bogartnani> gago may fortress malapit sa portal
+[12:32:59] [Server thread/INFO]: [Not Secure] <bogartnani> tangina
+[12:34:01] [Server thread/INFO]: [Not Secure] <MamaMo> nu yan bago
+[12:34:04] [Server thread/INFO]: [Not Secure] <bogartnani> oo HAHAHAHA
+[12:34:07] [Server thread/INFO]: [Not Secure] <bogartnani> may malapit
+[12:34:08] [Server thread/INFO]: [Not Secure] <MamaMo> dyan ba may mace
+[12:34:12] [Server thread/INFO]: [Not Secure] <bogartnani> wala
+[12:34:12] [Server thread/INFO]: [Not Secure] <MamaMo> o axe
+[12:47:32] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[12:47:32] [Server thread/INFO]: MamaMo left the game
+[12:47:35] [Server thread/INFO]: bogartnani lost connection: Timed out
+[12:47:35] [Server thread/INFO]: bogartnani left the game
+[12:47:58] [Server thread/INFO]: bogartnani[/26.185.22.198:51525] logged in with entity id 33362 at (-312.932664672986, 66.0, 197.94989170787736)
+[12:47:58] [Server thread/INFO]: bogartnani joined the game
+[12:48:24] [Server thread/INFO]: bogartnani has completed the challenge [Hot Tourist Destinations]
+[13:00:51] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[13:00:51] [Server thread/INFO]: bogartnani left the game
+[13:29:14] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Connection reset
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.57.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:318) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:1116) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1103) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1507) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1422) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82) ~[authlib-6.0.57.jar:?]
+	... 9 more
+[13:53:50] [Server thread/INFO]: opalitez[/26.81.134.220:60752] logged in with entity id 35607 at (-81.10649397624357, 127.0, -1.5026394835172405)
+[13:53:50] [Server thread/INFO]: opalitez joined the game
+[14:00:15] [Server thread/INFO]: MamaMo[/26.139.251.172:51867] logged in with entity id 37246 at (-34.19564765825737, 126.79673560066871, -14.462103545001991)
+[14:00:15] [Server thread/INFO]: MamaMo joined the game
+[14:18:43] [Server thread/INFO]: [Not Secure] <opalitez> san ka je
+[14:21:23] [Server thread/INFO]: [Not Secure] <MamaMo> sa nether kanina bry
+[14:21:34] [Server thread/INFO]: [Not Secure] <MamaMo> may bagong bastion daw
+[14:33:55] [Server thread/INFO]: [Not Secure] <opalitez> tanggalin mo to sa seat je
+[14:34:48] [Server thread/INFO]: opalitez lost connection: Disconnected
+[14:34:48] [Server thread/INFO]: opalitez left the game
+[14:36:16] [Server thread/INFO]: Kumi[/26.108.248.240:60014] logged in with entity id 44647 at (-59.32565071035747, 127.0, -27.37190929999735)
+[14:36:16] [Server thread/INFO]: Kumi joined the game
+[14:36:25] [Server thread/INFO]: [Not Secure] <Kumi> goodmornong
+[14:38:06] [Server thread/INFO]: [Not Secure] <MamaMo> afk ako nasa exp lng
+[15:04:19] [Server thread/INFO]: Kumi lost connection: Disconnected
+[15:04:19] [Server thread/INFO]: Kumi left the game
+[15:27:03] [Server thread/INFO]: inshallah[/26.25.220.70:49689] logged in with entity id 51668 at (-84.35345395509013, 37.875, 59.35647551174288)
+[15:27:03] [Server thread/INFO]: inshallah joined the game
+[15:27:12] [Server thread/INFO]: inshallah lost connection: Disconnected
+[15:27:12] [Server thread/INFO]: inshallah left the game
+[15:27:50] [Server thread/INFO]: inshallah[/26.25.220.70:52637] logged in with entity id 51978 at (-84.35345395509013, 37.875, 59.35647551174288)
+[15:27:50] [Server thread/INFO]: inshallah joined the game
+[15:27:53] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[15:27:53] [Server thread/INFO]: MamaMo left the game
+[15:28:11] [Server thread/INFO]: inshallah lost connection: Disconnected
+[15:28:11] [Server thread/INFO]: inshallah left the game
+[15:28:58] [Server thread/INFO]: inshallah[/26.25.220.70:50411] logged in with entity id 52130 at (-83.1144417225317, 37.875, 61.477936247411535)
+[15:28:58] [Server thread/INFO]: inshallah joined the game
+[15:29:08] [Server thread/INFO]: [inshallah: Set own game mode to Creative Mode]
+[15:29:15] [Server thread/INFO]: [inshallah: Teleported inshallah to -83.114442, 37.875000, 61.477936]
+[15:29:40] [Server thread/INFO]: [inshallah: Set own game mode to Survival Mode]
+[15:29:52] [Server thread/INFO]: inshallah lost connection: Disconnected
+[15:29:52] [Server thread/INFO]: inshallah left the game
+[15:31:19] [Server thread/INFO]: inshallah[/26.25.220.70:57229] logged in with entity id 52829 at (-68.8408998853631, 132.0, -66.5669754870224)
+[15:31:19] [Server thread/INFO]: inshallah joined the game
+[15:31:53] [Server thread/INFO]: inshallah lost connection: Disconnected
+[15:31:53] [Server thread/INFO]: inshallah left the game
+[15:42:48] [Server thread/INFO]: bogartnani[/26.185.22.198:55566] logged in with entity id 53187 at (-221.16631589233512, 59.0, 214.92894404587528)
+[15:42:48] [Server thread/INFO]: bogartnani joined the game
+[15:58:01] [Server thread/INFO]: [Not Secure] [Server] naka tae na ko bogartnani
+[15:58:09] [Server thread/INFO]: [Not Secure] <bogartnani> nasa overworld na ko gago
+[16:05:16] [Server thread/INFO]: Kumi[/26.108.248.240:56004] logged in with entity id 57128 at (-66.72297290384819, 136.0, -27.413366817343213)
+[16:05:16] [Server thread/INFO]: Kumi joined the game
+[16:05:36] [Server thread/INFO]: [Not Secure] <bogartnani> putangina mga aso ni je nakaharang sa daan
+[16:06:38] [Server thread/INFO]: [Not Secure] <Kumi> idol niya ata si cesar milan
+[16:07:15] [Server thread/INFO]: [Not Secure] <bogartnani> hahahah
+[16:07:21] [Server thread/INFO]: [Not Secure] <bogartnani> patayin ko isa
+[16:07:26] [Server thread/INFO]: [Not Secure] <bogartnani> galit na galitsakin o
+[16:07:44] [Server thread/INFO]: [Not Secure] <Kumi> patayin mo na lahat wag lang si sir adulf
+[16:07:52] [Server thread/INFO]: [Not Secure] <bogartnani> tangina dami e
+[16:08:06] [Server thread/INFO]: [Not Secure] <bogartnani> hahahahahahah
+[16:08:25] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAHHA
+[16:08:31] [Server thread/INFO]: [Not Secure] <Kumi> HAAHAHAHAHAHHAA
+[16:08:48] [Server thread/INFO]: [Not Secure] <bogartnani> tangina parangf may bombahan compe dito oh
+[16:08:53] [Server thread/INFO]: [Not Secure] <bogartnani> mga thai concept
+[16:09:15] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Connection reset
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:111) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:114) ~[authlib-6.0.57.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo$1.run(YggdrasilServicesKeyInfo.java:89) ~[authlib-6.0.57.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:318) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.implRead(Socket.java:1116) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1103) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1507) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1422) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1691) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1615) ~[?:?]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:531) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:307) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:82) ~[authlib-6.0.57.jar:?]
+	... 9 more
+[16:09:22] [Server thread/INFO]: [Not Secure] <Kumi> GALIT DIN SAKIN MGA YAN?
+[16:09:25] [Server thread/INFO]: [Not Secure] <bogartnani> satin satin lang to erp
+[16:09:27] [Server thread/INFO]: [Not Secure] <bogartnani> ewan
+[16:09:34] [Server thread/INFO]: [Not Secure] <Kumi> oo
+[16:10:10] [Server thread/INFO]: [Not Secure] <Kumi> pre creeper hahahahaha
+[16:10:16] [Server thread/INFO]: [Not Secure] <bogartnani> san
+[16:10:26] [Server thread/INFO]: [Not Secure] <Kumi> dalin ko jan HAHAHA
+[16:10:32] [Server thread/INFO]: [Not Secure] <bogartnani> wqag gago
+[16:10:33] [Server thread/INFO]: [Not Secure] <bogartnani> HAHHAHA
+[16:10:52] [Server thread/INFO]: [Not Secure] <Kumi> alluh akbar
+[16:12:00] [Server thread/INFO]: [Not Secure] <Kumi> wala naba ako pwede idagdag dito
+[16:12:04] [Server thread/INFO]: [Not Secure] <Kumi> sa sword
+[16:12:30] [Server thread/INFO]: [Not Secure] <bogartnani> all goods na
+[16:12:51] [Server thread/INFO]: [Not Secure] <Kumi> palitan ko nalang name
+[16:12:59] [Server thread/INFO]: [Not Secure] <Kumi> negro slayer
+[16:13:11] [Server thread/INFO]: [Not Secure] <bogartnani> whatt
+[16:13:33] [Server thread/INFO]: [Not Secure] <Kumi> Nether Slayer
+[16:14:43] [Server thread/INFO]: [Not Secure] <Kumi> paano gumawa nung sa armor
+[16:14:54] [Server thread/INFO]: [Not Secure] <bogartnani> trim?
+[16:15:03] [Server thread/INFO]: [Not Secure] <Kumi> oo
+[16:15:13] [Server thread/INFO]: [Not Secure] <bogartnani> need mo ulit 28 dias don hahahah
+[16:15:18] [Server thread/INFO]: [Not Secure] <bogartnani> kasi 7 per trim
+[16:15:26] [Server thread/INFO]: [Not Secure] <Kumi> no biggie
+[16:15:41] [Server thread/INFO]: [Not Secure] <bogartnani> dupe mo lang, nasa crafting yung recipe
+[16:18:32] [Server thread/INFO]: [Not Secure] <Kumi> ginawan ko nga pala armor si mabe
+[16:18:39] [Server thread/INFO]: [Not Secure] <Kumi> kaya kulang na dias hahahaha
+[16:18:45] [Server thread/INFO]: [Not Secure] <bogartnani> hahahahaha
+[16:19:23] [Server thread/INFO]: [Not Secure] <bogartnani> tulog
+[16:19:27] [Server thread/INFO]: [Not Secure] <bogartnani> punta ko village
+[16:19:34] [Server thread/INFO]: [Not Secure] <Kumi> wait
+[16:20:09] [Server thread/INFO]: [Not Secure] <bogartnani> nigger pls
+[16:20:20] [Server thread/INFO]: [Not Secure] <Kumi> nakasakay ako cart e
+[16:20:33] [Server thread/INFO]: MamaMo[/26.139.251.172:60248] logged in with entity id 59784 at (1.533222517031458, -45.0, -166.2754746434381)
+[16:20:33] [Server thread/INFO]: MamaMo joined the game
+[16:20:35] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[16:20:35] [Server thread/INFO]: MamaMo left the game
+[16:21:10] [Server thread/INFO]: MamaMo[/26.139.251.172:60284] logged in with entity id 60185 at (1.533222517031458, -45.0, -166.2754746434381)
+[16:21:10] [Server thread/INFO]: MamaMo joined the game
+[16:21:13] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[16:21:13] [Server thread/INFO]: MamaMo left the game
+[16:22:01] [Server thread/INFO]: MamaMo[/26.139.251.172:60349] logged in with entity id 60666 at (1.533222517031458, -45.0, -166.2754746434381)
+[16:22:01] [Server thread/INFO]: MamaMo joined the game
+[16:22:05] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[16:22:05] [Server thread/INFO]: MamaMo left the game
+[16:29:00] [Server thread/INFO]: inshallah[/26.25.220.70:50737] logged in with entity id 64635 at (-32.086314445056225, 126.49520087700593, -5.416382867019006)
+[16:29:00] [Server thread/INFO]: inshallah joined the game
+[16:31:03] [Server thread/INFO]: [Not Secure] <bogartnani> sleep
+[16:37:06] [Server thread/INFO]: [Not Secure] [inshallah] inshallah
+[16:37:09] [Server thread/INFO]: [Not Secure] [inshallah] Armor Stand, Horse, Bronny, Wolf, Wolf, Bisakol, Allay, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Librarian, Librarian, Librarian, Librarian, Fletcher, Librarian, Librarian, Fletcher, Fletcher, Weaponsmith, Armorer, Toolsmith, Zombie, Zombie, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Cartographer, Allay, Allay, Allay, Allay, Allay, Chicken, Chicken, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Cleric, Mason, Fisherman, Chicken, Chicken, Chicken, Chicken, Chicken, Leash Knot, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Axolotl, Axolotl, Wolf, Wolf, Armadillo, bogartnani, Wolf, Wolf, Chicken, Chicken, Chicken, Chicken, Minecart with Chest, Kumi, Minecart with Chest, Minecart with Chest, Sheep, Donkey, Farmer, Chicken, Chicken, Chicken, Chicken, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Cow, Cow, Chicken, Cow, Cow, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Wolf, Wolf, Wolf, Sir Adulf, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Wolf, Lebron, Wolf, Wolf, Egg, Farmer, inshallah, Zombie, Armor Stand, Marie, BumabayoNgPWD, Zombie, Horse, Horse, Camel, Juls, Roan, Zombie, Wolf, Wolf, Wolf, Wolf, Zombie, Armor Stand, Axolotl, Axolotl, Tropical Fish, Cat, Chicken, Wolf, Wolf, Wolf, Wolf, Wolf, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Panda, Panda, Panda, Panda, Panda, Panda, Panda, Enderman, Oak Boat, Acacia Boat, Oak Boat, Chicken, Egg, Egg, Egg, Egg, Egg, Egg, Bee, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Rotten Flesh, Egg, Cow, Pig, Cow, Minecart with Chest, Minecart with Chest, Minecart with Chest, Chicken, Chicken, Egg, Cow, Cow, Minecart with Chest, Minecart with Chest, Egg, Wolf, Egg, Wolf, Chicken, Egg, Wolf, Chicken, Wolf, Sheep, Chicken, Pig, Sheep, Sheep, Sheep, Wolf, Wolf, Wolf, Wolf, Chicken, Glow Ink Sac, Wolf, Egg, Wolf, Egg, Egg, Glow Ink Sac, Glow Ink Sac, Chicken, Egg, Pig, Cow, Egg, Egg, Chicken, Minecart with Chest, Minecart with Chest, Chicken, Minecart with Chest, Minecart with Chest, Minecart with Chest, Minecart with Chest, Pig, Chicken, Cow, Cow, Minecart with Chest, Chicken, Egg, Sheep, Cow, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Pig, Chicken, Cow, Sheep, Sheep, Sheep, Armadillo Scute, Sheep, Armadillo, Sheep, Salmon, Glow Ink Sac, Chicken, Sheep, Pig, Pig, Sheep, Sheep, Egg, Pig, Sheep, Egg, Minecart, Pig, Sheep, Sheep, Sheep, Pig, Pig, Bee, Pig, Chicken, Chicken, Minecart with Chest, Oak Sapling, Stick, Stick, Cow, Sheep, Sheep, Pig, Chicken, Armadillo, Minecart with Chest, Sheep, Sheep, Egg, Chicken, Chicken, Enderman, Pig, Minecart with Chest, Minecart with Chest, Minecart with Chest, Pig, Chicken, Egg, Cow, Egg, Pig, Chicken, Egg, Cow, Chicken, Egg, Chicken, Egg, Chicken, Pig, Chicken, Sheep, Chicken, Egg, Zombie, Zombie, Zombie, Egg, Zombie, Spider, Egg, Skeleton, Chicken, Egg, Creeper, Skeleton, Skeleton, Pig, Pig, Enderman, Bee, Bee, Cow, Zombie, Skeleton, Skeleton, Acacia Boat, Pig, Chicken, Skeleton, Pig, Chicken, Chicken, Minecart with Chest, Minecart with Chest, Armadillo, Armadillo, Minecart with Chest, Minecart with Chest, Sheep, Sheep, Cow, Zombie, Bat, Creeper, Zombie, Zombie, Bat, Cow, Bee, Cow, Cow, Wolf, Wolf, Wolf, Wolf, Wolf, Enderman, Warden, Chicken, Egg, Chicken, Egg, Arrow, Bat, Egg, Chicken, Egg, Pig, Chicken, Egg, Zombie, Skeleton, Zombie, Zombie, Zombie, Skeleton, Skeleton, Egg, Skeleton, Sheep, Chicken, Chicken, Bat, Bat, Bat, Chicken, Spider, Chicken, Chicken, Creeper, Sheep, Bee, Sheep, Glow Ink Sac, Sheep, Creeper, Skeleton, Bee, Skeleton, Enderman, Creeper, Sheep, Sheep, Sheep, Sheep, Chicken, Sheep, Pig, Pig, Pig, Pig, Skeleton, Bat, Creeper, Creeper, Skeleton, Skeleton, Creeper, Creeper, Skeleton, Creeper, Zombie, Zombie, Creeper, Creeper, Chicken, Chicken, Wolf, Sheep, Sheep, Sheep, Bee, Bee, Sheep, Skeleton, Zombie, Spider, Spider, Spider, Zombie, Pig, Squid, Squid, Enderman, Glow Squid, Squid, Squid, Glow Ink Sac, Pig, Chicken, Chicken, Wolf, Pig, Skeleton, Bat, Zombie, Skeleton, Egg, Enderman, Zombie, Zombie, Zombie, Skeleton, Zombie, Skeleton, Bee, Bee, Bee, Armadillo, Pig, Bee, Minecart with Chest, Pig, Zombie, Zombie Villager, Creeper, Creeper, Creeper, Bat, Bat, Creeper, Creeper, Creeper, Creeper, Skeleton, Armadillo, Minecart with Chest, Minecart with Chest, Pig, Sheep, Glow Squid, Glow Squid, Glow Squid, Glow Squid, Ink Sac, Pig, Zombie, Zombie, Skeleton, Skeleton, Bat, Skeleton, Creeper, Skeleton, Skeleton, Pig, Pig, Pig, Bee, Pig, Bee, Minecart with Chest, Pig, Sheep, Sheep, Minecart with Chest, Skeleton, Skeleton, Creeper, Creeper, Skeleton, Skeleton, Bee, Zombie, Zombie, Spider, Armadillo, Bat, Bat, Creeper, Skeleton, Zombie, Zombie, Zombie, Zombie, Skeleton, Creeper, Creeper, Skeleton, Skeleton, Skeleton, Creeper, Skeleton, Zombie, Zombie, Skeleton, Bat, Creeper, Skeleton, Skeleton, Skeleton, Creeper, Cow, Cow, Bat, Skeleton, Skeleton, Skeleton, Skeleton, Creeper, Creeper, Spider, Creeper, Creeper, Creeper, Creeper, Creeper, Bat, Bat, Zombie, Zombie, Bee, Zombie, Skeleton, Creeper, Bat, Bat, Bat, Bat, Bat, Zombie, Creeper, Skeleton, Zombie, Zombie, Zombie, Armadillo Scute, Horse, Armadillo, Horse, Armadillo, Cod, Creeper, Zombie, Enderman, Skeleton, Skeleton, Zombie, Skeleton, Bat, Skeleton, Zombie, Bat, Bat, Cow, Cow, Bat, Zombie, Zombie, Zombie, Egg, Skeleton, Creeper, Skeleton, Zombie, Zombie, Spider, Cow, Bat, Bat, Zombie, Creeper, Zombie, Glow Squid, Glow Squid, Spider, Skeleton, Skeleton, Skeleton, Skeleton, Bat, Skeleton, Zombie, Zombie, Zombie, Zombie, Spider, Creeper, Bee, Bee, Pig, Minecart with Chest, Egg, Chicken, Sheep, Chicken, Egg, Enderman, Zombie, Zombie, Zombie, Creeper, Zombie, Zombie, Skeleton, Skeleton, Zombie, Zombie, Creeper, Glow Squid, Enderman, Enderman, Enderman, Bat, Bat, Bee, Skeleton, Creeper, Minecart with Chest, Chicken, Chicken, Egg, Egg, Cow, Cow, Cow, Egg, Creeper, Bat, Bat, Bat, Zombie, Creeper, Skeleton, Bat, Bat, Spider, Creeper, Bee, Skeleton, Bee, Bat, Bat, Zombie, Zombie, Zombie, Zombie, Bat, Bat, Bat, Bat, Armadillo, Chicken, Armadillo, Chicken, Egg, Chicken, Egg, Chicken, Egg, Arrow, Egg, Chicken, Bee, Minecart with Chest, Chicken, Egg, Pig, Zombie, Bat, Bat, Bat, Zombie, Skeleton, Zombie, Glow Squid, Glow Squid, Spider, Squid, Squid, Squid, Bee, Skeleton, Sheep, Sheep, Chicken, Chicken, Skeleton, Skeleton, Skeleton, Zombie, Skeleton, Skeleton, Egg, Skeleton, Zombie, Zombie, Egg
+[16:37:23] [Server thread/INFO]: [Not Secure] [inshallah] Armor Stand, Horse, Bronny, Wolf, Wolf, Bisakol, Allay, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Librarian, Librarian, Librarian, Librarian, Fletcher, Librarian, Librarian, Fletcher, Fletcher, Weaponsmith, Armorer, Toolsmith, Zombie, Zombie, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Cartographer, Allay, Allay, Allay, Allay, Allay, Chicken, Chicken, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Cleric, Mason, Fisherman, Chicken, Chicken, Chicken, Chicken, Chicken, Leash Knot, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Axolotl, Axolotl, Wolf, Wolf, Armadillo, bogartnani, Wolf, Wolf, Chicken, Chicken, Chicken, Chicken, Minecart with Chest, Kumi, Minecart with Chest, Minecart with Chest, Sheep, Donkey, Farmer, Chicken, Chicken, Chicken, Chicken, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Cow, Cow, Chicken, Cow, Cow, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Wolf, Wolf, Wolf, Sir Adulf, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Item Frame, Wolf, Lebron, Wolf, Wolf, Egg, Farmer, inshallah, Zombie, Armor Stand, Marie, BumabayoNgPWD, Zombie, Horse, Horse, Camel, Juls, Roan, Zombie, Wolf, Wolf, Wolf, Wolf, Zombie, Armor Stand, Axolotl, Axolotl, Tropical Fish, Cat, Chicken, Wolf, Wolf, Wolf, Wolf, Wolf, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Panda, Panda, Panda, Panda, Panda, Panda, Panda, Enderman, Oak Boat, Acacia Boat, Oak Boat, Chicken, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Egg, Rotten Flesh, Egg, Cow, Pig, Cow, Chicken, Chicken, Egg, Cow, Cow, Egg, Wolf, Egg, Wolf, Chicken, Egg, Wolf, Chicken, Wolf, Sheep, Chicken, Pig, Sheep, Sheep, Sheep, Wolf, Wolf, Wolf, Wolf, Chicken, Wolf, Egg, Wolf, Egg, Egg, Glow Ink Sac, Chicken, Egg, Pig, Cow, Egg, Egg, Chicken, Minecart with Chest, Minecart with Chest, Chicken, Minecart with Chest, Minecart with Chest, Minecart with Chest, Minecart with Chest, Pig, Chicken, Cow, Cow, Minecart with Chest, Chicken, Egg, Sheep, Cow, Sheep, Sheep, Sheep, Sheep, Sheep, Sheep, Pig, Chicken, Cow, Sheep, Sheep, Sheep, Armadillo Scute, Sheep, Armadillo, Sheep, Salmon, Sheep, Pig, Pig, Sheep, Sheep, Egg, Pig, Sheep, Egg, Sheep, Sheep, Sheep, Pig, Chicken, Chicken, Oak Sapling, Stick, Stick, Sheep, Sheep, Chicken, Armadillo, Minecart with Chest, Sheep, Sheep, Egg, Chicken, Chicken, Enderman, Pig, Pig, Chicken, Egg, Cow, Egg, Pig, Chicken, Egg, Cow, Chicken, Egg, Chicken, Egg, Chicken, Pig, Chicken, Sheep, Chicken, Egg, Zombie, Zombie, Egg, Zombie, Spider, Egg, Skeleton, Chicken, Egg, Skeleton, Skeleton, Pig, Pig, Enderman, Bee, Bee, Cow, Skeleton, Skeleton, Acacia Boat, Pig, Chicken, Zombie, Bat, Creeper, Cow, Bee, Cow, Cow, Wolf, Wolf, Wolf, Wolf, Wolf, Enderman, Warden, Chicken, Egg, Chicken, Egg, Arrow, Egg, Chicken, Egg, Pig, Chicken, Egg, Zombie, Skeleton, Zombie, Zombie, Zombie, Egg, Sheep, Chicken, Chicken, Chicken, Chicken, Chicken, Creeper, Sheep, Bee, Sheep, Glow Ink Sac, Sheep, Skeleton, Bee, Sheep, Sheep, Sheep, Sheep, Chicken, Sheep, Pig, Pig, Pig, Pig, Skeleton, Skeleton, Skeleton, Creeper, Chicken, Chicken, Wolf, Sheep, Sheep, Sheep, Bee, Bee, Sheep, Skeleton, Pig, Squid, Squid, Glow Squid, Squid, Squid, Glow Ink Sac, Pig, Chicken, Chicken, Wolf, Pig, Skeleton, Egg, Skeleton, Skeleton, Bee, Bee, Bee, Armadillo, Pig, Bee, Minecart with Chest, Pig, Zombie, Zombie Villager, Creeper, Creeper, Bat, Bat, Armadillo, Pig, Sheep, Glow Squid, Glow Squid, Glow Squid, Glow Squid, Ink Sac, Pig, Skeleton, Creeper, Skeleton, Skeleton, Pig, Pig, Pig, Bee, Pig, Bee, Minecart with Chest, Pig, Minecart with Chest, Skeleton, Bee, Zombie, Spider, Armadillo, Bat, Bat, Skeleton, Zombie, Zombie, Creeper, Creeper, Skeleton, Skeleton, Skeleton, Skeleton, Zombie, Zombie, Skeleton, Bat, Skeleton, Skeleton, Skeleton, Creeper, Cow, Cow, Bat, Skeleton, Skeleton, Creeper, Creeper, Spider, Bat, Bat, Zombie, Zombie, Zombie, Skeleton, Bat, Bat, Bat, Bat, Bat, Skeleton, Zombie, Armadillo Scute, Horse, Armadillo, Horse, Armadillo, Cod, Creeper, Zombie, Enderman, Skeleton, Skeleton, Zombie, Bat, Bat, Cow, Cow, Bat, Zombie, Zombie, Egg, Skeleton, Zombie, Spider, Cow, Bat, Bat, Zombie, Zombie, Zombie, Spider, Creeper, Pig, Minecart with Chest, Egg, Chicken, Sheep, Chicken, Egg, Enderman, Zombie, Zombie, Zombie, Creeper, Creeper, Glow Squid, Enderman, Enderman, Enderman, Bat, Bat, Skeleton, Creeper, Minecart with Chest, Chicken, Chicken, Egg, Egg, Cow, Cow, Cow, Egg, Zombie, Spider, Creeper, Bee, Bee, Bat, Bat, Bat, Bat, Bat, Bat, Armadillo, Chicken, Armadillo, Chicken, Egg, Chicken, Egg, Chicken, Egg, Arrow, Egg, Chicken, Bee, Minecart with Chest, Chicken, Egg, Pig, Zombie, Zombie, Glow Squid, Glow Squid, Spider, Squid, Squid, Squid, Bee, Sheep, Sheep, Chicken, Chicken, Skeleton, Skeleton, Egg, Skeleton, Zombie, Zombie, Egg, Spider, Bat, Bat, Bee, Egg, Egg, Skeleton, Bat, Bat, Zombie, Creeper, Creeper, Creeper, Skeleton, Spider, Spider, Skeleton, Skeleton, Skeleton, Skeleton, Zombie, Creeper, Glow Ink Sac, Bat, Bat, Bat, Creeper, Creeper, Creeper, Creeper, Bat, Zombie, Skeleton, Skeleton, Creeper, Creeper, Skeleton, Zombie, Zombie, Zombie, Zombie, Zombie, Skeleton, Creeper, Skeleton, Skeleton, Skeleton, Creeper, Creeper, Creeper, Creeper, Creeper, Spider, Zombie, Zombie, Skeleton, Spider, Bat, Bat, Minecart with Chest, Skeleton, Zombie, Zombie, Zombie, Zombie, Skeleton, Skeleton, Skeleton, Zombie, Zombie, Creeper, Skeleton, Minecart with Chest, Minecart with Chest, Pig, Glow Squid, Skeleton, Creeper, Creeper, Creeper, Creeper, Zombie, Creeper, Creeper, Spider, Spider, Bat, Zombie, Zombie, Creeper, Creeper, Creeper, Chicken, Chicken, Zombie, Zombie, Bee, Spider, Creeper, Skeleton, Skeleton, Bat, Creeper, Bat, Egg, Bee, Skeleton, Skeleton, Skeleton, Egg, Skeleton, Skeleton, Skeleton, Egg, Bat, Bat, Bat, Zombie, Bee, Drowned, Egg, Egg, Zombie, Creeper, Minecart with Chest, Creeper, Zombie, Glow Squid, Skeleton, Creeper, Creeper, Creeper, Creeper, Bat, Skeleton, Skeleton, Witch, Creeper, Creeper, Skeleton, Skeleton, Bat, Zombie, Enderman, Sheep, Sheep, Minecart with Chest, Chicken, Chicken do
+[16:39:56] [Server thread/INFO]: [Not Secure] [inshallah] Armor Stand, Horse, Bronny, Wolf, Wolf, Bisakol, Allay, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Cow, Librarian, Librarian, Librarian, Librarian, Fletcher, Librarian, Librarian, Fletcher, Fletcher, Weaponsmith, Armorer, Toolsmith, Zombie, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Cartographer, Allay, Allay, Allay, Allay, Allay, Chicken, Chicken, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Librarian, Cleric, Mason, Fisherman, Chicken, Chicken, Chicken, Chicken, Chicken, Leash Knot, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Wolf, Axolotl, Axolotl, Wolf, Wolf, Armadillo, bogartnani, Wolf, Wolf, Chicken, Chicken, Chicken, Chicken, Minecart with Chest, Kumi, Minecart with Chest, Minecart with Chest, Sheep, Donkey, Farmer, Chicken, Chicken, Chicken, Egg, Farmer, inshallah, Egg, Egg, Egg, Egg, Pig, Chicken, Chicken, Egg, Wolf, Wolf, Chicken, Wolf, Chicken, Wolf, Chicken, Sheep, Sheep, Wolf, Wolf, Wolf, Wolf, Egg, Egg, Pig, Egg, Pig, Pig, Enderman, Wolf, Wolf, Wolf, Wolf, Wolf, Enderman, Sheep, Chicken, Chicken, Sheep, Sheep, Chicken, Sheep, Chicken, Chicken, Wolf, Pig, Chicken, Chicken, Wolf, Pig, Egg, Armadillo, Pig, Pig, Pig, Pig, Pig, Pig, Pig, Armadillo, Enderman, Egg, Bee, Egg, Egg, Egg, Egg, Bee, Egg, Chicken, Donkey, Bee, Egg, Bee, Pig, Armadillo Scute, Armadillo, Armadillo, Armadillo Scute, Armadillo, Armadillo, Egg, Armadillo, Armadillo Scute, Cod, Armadillo, Armadillo Scute, Armadillo, Armadillo Scute, Armadillo, Iron Golem, Glow Ink Sac, Wolf, Pig, Wolf, Pig, Chicken, Pig, Enderman, Villager, Glow Ink Sac, Iron Golem, Farmer, Villager, Pig, Egg, Pig, Chicken, Chicken, Sheep, Sheep, Cow, Pig, Chicken, Egg, Wolf, Chicken, Egg, Iron Golem, Nitwit, Villager, Villager, Villager, Villager, Villager, Iron Golem, Wolf, Wolf, Armadillo Scute, Sheep, Chicken, Chicken, Sheep, Egg, Villager, Villager, Villager, Villager, Glow Ink Sac, Wolf, Armadillo Scute, Armadillo, Pig, Chicken, Wolf, Chicken, Egg, Armadillo, Horse, Armadillo Scute, Armadillo, Armadillo Scute, Armadillo, Chicken, Chicken, Egg, Egg, Cow, Cow, Cow, Sheep, Sheep, Pig, Chicken, Wolf, Horse, Pig, Sheep, Chicken, Egg, Egg, Enderman, Sheep, Chicken, Chicken, Egg, Parrot, Wolf, Creeper, Cow, Chicken, Egg, Egg, Chicken, Egg, Minecart with Chest, Egg, Egg, Chicken, Spider, Minecart with Chest, Pig, Minecart with Chest, Chicken, Chicken, Zombie, Egg, Bee, Creeper, Creeper, Sheep, Minecart with Chest, Pig, Minecart with Chest, Creeper, Egg, Minecart with Chest, Chicken, Bee, Cow, Armadillo, Bat, Zombie, Minecart with Chest, Chicken, Chicken, Egg, Egg, Chicken, Chicken, Egg, Minecart with Chest, Creeper, Creeper, Zombie, Zombie, Armadillo, Armadillo, Chicken, Armadillo, Bat, Bee, Minecart with Chest, Wolf, Wolf, Chicken, Chicken, Armadillo Scute, Cow, Chicken, Chicken, Egg, Sheep, Minecart with Chest, Cow, Egg, Bat, Glow Squid, Bee, Minecart with Chest, Enderman, Minecart with Chest, Minecart with Chest, Creeper, Creeper, Chicken, Egg, Sheep, Sheep, Armadillo, Wolf, Armadillo, Armadillo, Bat, Bat, Minecart with Chest, Wolf, Chicken, Chicken, Egg, Chicken, Egg, Egg, Skeleton, Slime, Skeleton, Zombie, Zombie, Creeper, Enderman, Pig, Pig, Minecart with Chest, Minecart with Chest, Bat, Glow Ink Sac, Chicken, Chicken, Cow, Cow, Sheep, Glow Ink Sac, Sheep, Cow, Egg, Bee, Creeper, Creeper, Minecart with Chest, Minecart with Chest, Wolf, Wolf, Chicken, Minecart with Chest, Minecart with Chest, Cow, Cow, Cow, Cow, Sheep, Wheat Seeds, Minecart with Chest, Creeper, Cow, Chicken, Wheat Seeds, Wheat Seeds, Wheat Seeds, Cow, Cow, Skeleton, Skeleton, Skeleton, Skeleton, Egg, Bat, Egg, Cat, Cow, Cow, Cow, Creeper, Minecart with Chest, Sheep, Skeleton, Spider, Creeper, Pig, Pig, Pig, Creeper, Minecart with Chest, Skeleton, Bat, Egg, Egg, Pig, Zombie, Rail, Rail, Egg, Skeleton, Bat, Pig, Pig, Pig, Pig, Pig, Pig, Bee, Creeper, Zombie, Armadillo Scute, Sheep, Sheep, Tropical Fish, Creeper, Skeleton, Glow Ink Sac, Skeleton, Bat, Bat, Armadillo Scute, Rail, Sheep, Tropical Fish, Skeleton, Spider, Bat, Zombie, Zombie, Sheep, Skeleton, Creeper, Creeper, Zombie, Creeper, Creeper, Creeper, Creeper, Spider, Skeleton, Chicken, Chicken, Chicken, Egg, Egg, Chicken, Egg, Creeper, Zombie, Zombie, Creeper, Creeper, Zombie, Spider, Spider, Bat, Glow Squid, Glow Squid, Bee, Bat, Bat, Bat, Bat, Spider, Skeleton, Creeper, Zombie, Spider, Skeleton, Zombie, Zombie, Zombie, Bat, Skeleton, Skeleton, Skeleton, Skeleton, Creeper, Creeper, Zombie, Creeper, Creeper, Zombie, Zombie, Skeleton, Pig, Creeper, Skeleton, Zombie, Creeper, Skeleton, Glow Ink Sac, Skeleton, Cocoa Beans, Jungle Log, Bat, Bat, Zombie, Skeleton, Zombie Villager, Spider, Skeleton, Egg, Spider, Chicken, Egg, Creeper, Creeper, Zombie, Cow, Cow, Sheep, Sheep, Sheep, Sheep, Creeper, Zombie, Creeper, Zombie, Bee, Egg, Spider, Creeper, Creeper, Creeper, Bat, Bat, Bat, Bat, Zombie, Zombie, Glow Squid, Glow Squid, Glow Squid, Glow Squid, Cat, Turtle, Spider, Skeleton, Skeleton, Creeper, Creeper, Bat, Bat, Sheep, Pig, Glow Ink Sac, Arrow, Bone, Glow Squid, Glow Squid, Glow Squid, Creeper, Skeleton, Skeleton, Pig, Sheep, Bat, Bat, Skeleton, Skeleton, Creeper, Creeper, Spider, Glow Ink Sac, Zombie, Creeper, Creeper, Bat, Bat, Bat, Cow, Sheep, Sheep, Sheep, Rail, Zombie, Squid, Squid, Squid, Zombie, Creeper, Zombie, Creeper, Skeleton, Spider, Squid, Squid, Squid, Squid, Spider, Egg, Chicken, Chicken, Egg, Cow, Cow, Bee, Zombie, Skeleton, Creeper, Skeleton, Skeleton, Bat, Armadillo Scute, Pig, Pig, Armadillo, Chicken, Egg, Cow, Cow, Wheat Seeds, Moss Carpet, Bee, Zombie, Creeper, Creeper, Drowned, Zombie, Bee, Bat, Skeleton, Skeleton, Skeleton, Skeleton, Bat, Bat, Bat, Bat, Spider, Creeper, Minecart with Chest, Cow, Cow, Bee, Bee, Villager, Bee, Zombie, Zombie, Zombie, Zombie, Skeleton, Zombie, Skeleton, Glow Squid, Glow Squid, Skeleton, Skeleton, Skeleton, Minecart with Chest, Skeleton, Creeper, Axolotl, Zombie, Skeleton, Skeleton, Creeper, Zombie, Glow Squid, Glow Squid, Glow Squid, Creeper, Zombie, Creeper, Zombie, Zombie, Zombie, Zombie, Chicken, Chicken, Egg, Villager, Chicken, Egg, Creeper, Bat, Minecart with Chest, Pig, Zombie, Zombie, Pig, Cow, Sheep, Sheep, Wolf, Sheep, Bat, Skeleton, Skeleton, Enderman, Creeper, Creeper, Creeper, Enderman, Creeper, Creeper, Zombie, Skeleton, Creeper, Creeper, Creeper, Skeleton, Creeper, Axolotl, Bat, Zombie, Skeleton, Creeper, Creeper, Villager, Cat, Zombie, Creeper, Zombie, Skeleton, Skeleton, Zombie, Zombie, Skeleton, Skeleton, Zombie, Skeleton, Skeleton, Bat, Zombie, Bat, Bat, Creeper, Bat, Zombie do
+[16:40:10] [Server thread/INFO]: [Not Secure] <Kumi> para san ba yan
+[16:40:16] [Server thread/INFO]: [Not Secure] <inshallah> naghahanap ako aso
+[16:40:19] [Server thread/INFO]: [Not Secure] <Kumi> hindi ko makita dinadaanan ko
+[16:40:31] [Server thread/INFO]: [Not Secure] <Kumi> dito sakin meron
+[16:40:35] [Server thread/INFO]: [Not Secure] <inshallah> imporrtate ba cocoa bry
+[16:40:45] [Server thread/INFO]: [Not Secure] <bogartnani> dye lang saka cookies
+[16:40:54] [Server thread/INFO]: [Not Secure] <Kumi> 566 350
+[16:41:51] [Server thread/INFO]: [Not Secure] <inshallah> sleep
+[16:41:53] [Server thread/INFO]: [Not Secure] <inshallah> sleep
+[16:42:14] [Server thread/INFO]: [Not Secure] <inshallah> sleep
+[16:44:06] [Server thread/INFO]: [Not Secure] <inshallah> may parrot dito
+[16:44:08] [Server thread/INFO]: [Not Secure] <inshallah> pano tame to
+[16:48:23] [Server thread/INFO]: [Not Secure] <inshallah> may nakita ako buong ship
+[16:48:27] [Server thread/INFO]: [Not Secure] <inshallah> analubog sa lupa
+[16:50:28] [Server thread/INFO]: [Not Secure] <Kumi> bry
+[16:50:35] [Server thread/INFO]: [Not Secure] <bogartnani> oy
+[16:50:44] [Server thread/INFO]: [Not Secure] <Kumi> hindi ba magaaway yung aso ko pag nilagay ko jan
+[16:50:50] [Server thread/INFO]: [Not Secure] <bogartnani> deins
+[16:51:03] [Server thread/INFO]: [Not Secure] <Kumi> ok
+[16:51:59] [Server thread/INFO]: [Not Secure] <Kumi> paano iheal to pre
+[16:52:02] [Server thread/INFO]: [Not Secure] <Kumi> natamaan ko
+[16:52:04] [Server thread/INFO]: [Not Secure] <bogartnani> meat
+[16:52:22] [Server thread/INFO]: [Not Secure] <bogartnani> gawa na ko sabunga
+[16:52:24] [Server thread/INFO]: [Not Secure] <bogartnani> n
+[16:52:35] [Server thread/INFO]: [Not Secure] <inshallah> aso secured
+[16:52:39] [Server thread/INFO]: [Not Secure] <inshallah> paano sila pag kantutin pre
+[16:52:43] [Server thread/INFO]: [Not Secure] <bogartnani> meat
+[16:53:00] [Server thread/INFO]: [Not Secure] <inshallah> HAHAHAHAHHA
+[16:53:01] [Server thread/INFO]: [Not Secure] <bogartnani> pede rotten flesh
+[16:53:03] [Server thread/INFO]: [Not Secure] <inshallah> MAGPAPADAMI NA REN AKO
+[16:53:17] [Server thread/INFO]: [Not Secure] <inshallah> parrot gage sayang kulang pa ko isa
+[16:53:23] [Server thread/INFO]: [Not Secure] <Kumi> yown para tuluyang maglag
+[16:53:27] [Server thread/INFO]: [Not Secure] <bogartnani> gago nakakuha kami ganyan ni dre
+[16:53:31] [Server thread/INFO]: [Not Secure] <bogartnani> pag uwi namin dito nawala
+[16:53:33] [Server thread/INFO]: [Not Secure] <bogartnani> puta
+[16:53:35] [Server thread/INFO]: [Not Secure] <inshallah> parrot?
+[16:53:37] [Server thread/INFO]: [Not Secure] <inshallah> pre
+[16:53:39] [Server thread/INFO]: [Not Secure] <bogartnani> oo
+[16:53:40] [Server thread/INFO]: [Not Secure] <inshallah> mamamatay saglit server
+[16:53:44] [Server thread/INFO]: [Not Secure] <inshallah> uuwi na kasi ako e
+[16:53:46] [Server thread/INFO]: [Not Secure] <inshallah> i ppush ko
+[16:53:51] [Server thread/INFO]: [Not Secure] <inshallah> sabihan nyo si dre sya mag on
+[16:53:55] [Server thread/INFO]: inshallah lost connection: Disconnected
+[16:53:55] [Server thread/INFO]: inshallah left the game
+[16:54:06] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[16:54:06] [Server thread/INFO]: bogartnani left the game
+[16:54:08] [Server thread/INFO]: Kumi lost connection: Disconnected
+[16:54:08] [Server thread/INFO]: Kumi left the game
+[16:54:11] [Server thread/INFO]: Stopping server
+[16:54:11] [Server thread/INFO]: Saving players
+[16:54:11] [Server thread/INFO]: Saving worlds
+[16:54:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:54:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:54:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:54:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:54:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:54:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:54:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

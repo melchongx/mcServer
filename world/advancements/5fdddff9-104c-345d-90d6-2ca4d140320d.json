@@ -262,7 +262,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-03-11 01:13:32 +0800",
-      "minecraft:chicken": "2025-03-10 00:36:05 +0800"
+      "minecraft:chicken": "2025-03-10 00:36:05 +0800",
+      "minecraft:wolf": "2025-03-26 16:52:33 +0800"
     },
     "done": false
   },
@@ -3820,6 +3821,30 @@
   "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2025-03-26 00:48:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-26 16:24:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-03-26 16:39:11 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-26 16:24:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-03-26 16:24:03 +0800"
     },
     "done": true
   },

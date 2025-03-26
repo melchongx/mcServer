@@ -15,6 +15,7 @@
       "minecraft:eroded_badlands": "2025-03-10 22:39:52 +0800",
       "minecraft:desert": "2025-03-12 21:52:59 +0800",
       "minecraft:ocean": "2025-03-23 16:58:22 +0800",
+      "minecraft:jungle": "2025-03-26 16:38:43 +0800",
       "minecraft:cherry_grove": "2025-03-10 01:37:36 +0800",
       "minecraft:sunflower_plains": "2025-03-10 01:37:21 +0800",
       "minecraft:wooded_badlands": "2025-03-12 21:53:03 +0800",
@@ -384,6 +385,7 @@
     "criteria": {
       "minecraft:cow": "2025-03-11 23:55:29 +0800",
       "minecraft:chicken": "2025-03-08 16:43:07 +0800",
+      "minecraft:wolf": "2025-03-26 16:52:52 +0800",
       "minecraft:sheep": "2025-03-26 02:15:08 +0800"
     },
     "done": false
@@ -3833,23 +3835,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "has_terracotta": "2025-03-26 02:08:44 +0800"
+      "kill_mob_near_sculk_catalyst": "2025-03-25 21:23:48 +0800"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-03-26 02:08:44 +0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
-    "criteria": {
-      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-03-26 02:10:38 +0800"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
@@ -3875,15 +3865,75 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-03-25 21:23:48 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-03-26 00:57:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
+    "criteria": {
+      "has_raiser_armor_trim_smithing_template": "2025-03-26 02:07:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-26 02:07:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 02:08:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-26 02:08:44 +0800"
     },
     "done": true
   },
@@ -3899,39 +3949,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raiser_armor_trim_smithing_template": {
-    "criteria": {
-      "has_raiser_armor_trim_smithing_template": "2025-03-26 02:07:47 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-26 02:08:44 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-26 02:08:44 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
     },
     "done": true
   },
@@ -3983,18 +4009,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:raiser_armor_trim_smithing_template_smithing_trim": "2025-03-26 02:10:27 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-26 02:08:44 +0800"
@@ -4007,27 +4021,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raiser_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "has_smithing_trim_template": "2025-03-26 02:07:47 +0800"
+      "armor_trimmed_minecraft:raiser_armor_trim_smithing_template_smithing_trim": "2025-03-26 02:10:27 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lodestone": {
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-03-26 02:10:38 +0800"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-26 07:48:32 +0800"
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "netherite_armor": "2025-03-26 00:57:09 +0800"
+      "minecraft:woods": "2025-03-26 16:51:25 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-26 16:31:05 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_netherite_ingot": "2025-03-26 00:55:33 +0800"
+      "has_cocoa_beans": "2025-03-26 16:39:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-26 16:31:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-03-26 16:39:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-26 16:31:05 +0800"
     },
     "done": true
   },
