@@ -3830,12 +3830,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/whole_pack": {
-    "criteria": {
-      "minecraft:woods": "2025-03-26 16:39:11 +0800"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-03-26 16:24:03 +0800"
@@ -3847,6 +3841,12 @@
       "has_light_gray_wool": "2025-03-26 16:24:03 +0800"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-03-26 16:39:11 +0800"
+    },
+    "done": false
   },
   "DataVersion": 4189
 }

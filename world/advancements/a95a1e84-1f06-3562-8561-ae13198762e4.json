@@ -152,6 +152,7 @@
       "minecraft:piglin": "2025-03-14 23:54:27 +0800",
       "minecraft:guardian": "2025-03-23 03:04:55 +0800",
       "minecraft:enderman": "2025-03-21 20:18:58 +0800",
+      "minecraft:silverfish": "2025-03-27 23:06:07 +0800",
       "minecraft:magma_cube": "2025-03-14 23:12:52 +0800",
       "minecraft:spider": "2025-03-10 01:18:01 +0800",
       "minecraft:zombie": "2025-03-08 16:36:24 +0800",
@@ -3234,6 +3235,7 @@
     "criteria": {
       "minecraft:cat": "2025-03-22 03:44:42 +0800",
       "minecraft:cow": "2025-03-20 00:37:31 +0800",
+      "minecraft:wolf": "2025-03-28 01:42:43 +0800",
       "minecraft:panda": "2025-03-23 04:34:27 +0800",
       "minecraft:sheep": "2025-03-18 01:56:42 +0800"
     },
@@ -4804,6 +4806,30 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-25 18:17:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-03-28 00:17:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-28 00:25:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-28 00:25:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-28 00:25:27 +0800"
     },
     "done": true
   },
