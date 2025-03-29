@@ -1,15 +1,48 @@
-[00:05:12] [Server thread/INFO]: kumi666[/26.108.248.240:56416] logged in with entity id 4681 at (6.085549011818765, 95.0, -74.79304646596648)
-[00:05:12] [Server thread/INFO]: kumi666 joined the game
-[00:05:37] [Server thread/INFO]: kumi666 has made the advancement [Voluntary Exile]
-[00:06:42] [Server thread/INFO]: kumi666 lost connection: Disconnected
-[00:06:42] [Server thread/INFO]: kumi666 left the game
-[00:54:16] [Server thread/INFO]: Stopping server
-[00:54:16] [Server thread/INFO]: Saving players
-[00:54:16] [Server thread/INFO]: Saving worlds
-[00:54:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:54:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:54:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:54:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:54:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:54:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:54:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:46:13] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:46:14] [ServerMain/INFO]: Loaded 1370 recipes
+[13:46:14] [ServerMain/INFO]: Loaded 1481 advancements
+[13:46:15] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:46:15] [Server thread/INFO]: Loading properties
+[13:46:15] [Server thread/INFO]: Default game type: SURVIVAL
+[13:46:15] [Server thread/INFO]: Generating keypair
+[13:46:15] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:1849) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:175) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
+	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
+[13:46:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:46:15] [Server thread/INFO]: Using default channel type
+[13:46:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:46:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:46:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:46:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:46:15] [Server thread/INFO]: Preparing level "world"
+[13:46:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:46:16] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:46:16] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[13:46:17] [Server thread/INFO]: Time elapsed: 1043 ms
+[13:46:17] [Server thread/INFO]: Done (1.346s)! For help, type "help"
+[13:47:00] [Server thread/INFO]: opalitez[/26.81.134.220:49753] logged in with entity id 174 at (-81.55720972428136, 131.0, -4.914469609551657)
+[13:47:00] [Server thread/INFO]: opalitez joined the game
+[13:50:31] [Server thread/INFO]: opalitez lost connection: Disconnected
+[13:50:31] [Server thread/INFO]: opalitez left the game
+[13:53:04] [Server thread/INFO]: Stopping server
+[13:53:04] [Server thread/INFO]: Saving players
+[13:53:04] [Server thread/INFO]: Saving worlds
+[13:53:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:53:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:53:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:53:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:53:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:53:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:53:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
