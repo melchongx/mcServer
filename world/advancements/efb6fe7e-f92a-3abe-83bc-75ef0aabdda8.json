@@ -5591,5 +5591,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-03-30 14:54:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-03-30 15:13:04 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }

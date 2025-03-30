@@ -155,6 +155,7 @@
       "minecraft:silverfish": "2025-03-27 23:06:07 +0800",
       "minecraft:magma_cube": "2025-03-14 23:12:52 +0800",
       "minecraft:spider": "2025-03-10 01:18:01 +0800",
+      "minecraft:piglin_brute": "2025-03-30 15:47:32 +0800",
       "minecraft:zombie": "2025-03-08 16:36:24 +0800",
       "minecraft:creeper": "2025-03-10 00:31:49 +0800",
       "minecraft:drowned": "2025-03-12 01:54:47 +0800",
@@ -2813,9 +2814,10 @@
       "minecraft:crimson_forest": "2025-03-14 23:13:20 +0800",
       "minecraft:nether_wastes": "2025-03-14 23:09:16 +0800",
       "minecraft:soul_sand_valley": "2025-03-14 23:01:55 +0800",
-      "minecraft:basalt_deltas": "2025-03-17 01:23:42 +0800"
+      "minecraft:basalt_deltas": "2025-03-17 01:23:42 +0800",
+      "minecraft:warped_forest": "2025-03-30 16:13:23 +0800"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -4830,6 +4832,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-03-28 00:25:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-03-30 15:13:54 +0800"
     },
     "done": true
   },
