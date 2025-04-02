@@ -1,96 +1,11 @@
-[13:14:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:14:09] [ServerMain/INFO]: Loaded 1370 recipes
-[13:14:09] [ServerMain/INFO]: Loaded 1481 advancements
-[13:14:10] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[13:14:10] [Server thread/INFO]: Loading properties
-[13:14:10] [Server thread/INFO]: Default game type: SURVIVAL
-[13:14:10] [Server thread/INFO]: Generating keypair
-[13:14:10] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
-	at java.base/java.lang.System$In.read(System.java:1849) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
-	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:175) ~[?:?]
-	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
-	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
-[13:14:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:14:10] [Server thread/INFO]: Using default channel type
-[13:14:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:14:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:14:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:14:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:14:10] [Server thread/INFO]: Preparing level "world"
-[13:14:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:14:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:14:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:14:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[13:14:12] [Server thread/INFO]: Time elapsed: 1262 ms
-[13:14:12] [Server thread/INFO]: Done (1.587s)! For help, type "help"
-[13:20:50] [Server thread/INFO]: opalitez[/26.81.134.220:51099] logged in with entity id 158 at (-34.62503771152019, 125.9375, -4.211762236290039)
-[13:20:50] [Server thread/INFO]: opalitez joined the game
-[13:53:38] [Server thread/INFO]: opalitez lost connection: Disconnected
-[13:53:38] [Server thread/INFO]: opalitez left the game
-[13:59:35] [Server thread/INFO]: bogartnani[/26.185.22.198:53518] logged in with entity id 6696 at (-43.07499998807907, 137.0, 27.96891147850942)
-[13:59:35] [Server thread/INFO]: bogartnani joined the game
-[14:05:09] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[14:05:09] [Server thread/INFO]: bogartnani left the game
-[14:05:38] [Server thread/INFO]: bogartnani[/26.185.22.198:53696] logged in with entity id 8017 at (92.60220329143316, 99.0, -82.51926487847317)
-[14:05:38] [Server thread/INFO]: bogartnani joined the game
-[14:22:28] [Server thread/INFO]: Named entity cmh['R KELLY'/10294, l='ServerLevel[world]', x=98.24, y=99.00, z=-82.45] died: R KELLY burned to death
-[14:54:14] [Server thread/INFO]: bogartnani has completed the challenge [Sniper Duel]
-[15:01:29] [Server thread/INFO]: opalitez[/26.81.134.220:51484] logged in with entity id 20681 at (-80.7907640758016, 131.0, -3.4101288740163422)
-[15:01:29] [Server thread/INFO]: opalitez joined the game
-[15:01:38] [Server thread/INFO]: [Not Secure] <opalitez> astion
-[15:01:39] [Server thread/INFO]: [Not Secure] <opalitez> san ka
-[15:01:42] [Server thread/INFO]: [Not Secure] <bogartnani> TARA
-[15:01:46] [Server thread/INFO]: [Not Secure] <bogartnani> NAG FAFARM DISC
-[15:01:56] [Server thread/INFO]: [Not Secure] <opalitez> g
-[15:02:00] [Server thread/INFO]: [Not Secure] <opalitez> san yan
-[15:02:05] [Server thread/INFO]: [Not Secure] <opalitez> dc
-[15:13:04] [Server thread/INFO]: bogartnani has made the advancement [This Boat Has Legs]
-[15:13:54] [Server thread/INFO]: opalitez has made the advancement [This Boat Has Legs]
-[15:49:37] [Server thread/INFO]: opalitez lost connection: Disconnected
-[15:49:37] [Server thread/INFO]: opalitez left the game
-[15:49:45] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[15:49:45] [Server thread/INFO]: bogartnani left the game
-[15:50:14] [Server thread/INFO]: opalitez[/26.81.134.220:51545] logged in with entity id 28213 at (-929.3000000119209, 33.0, 619.3000000119209)
-[15:50:14] [Server thread/INFO]: opalitez joined the game
-[15:50:22] [Server thread/INFO]: opalitez lost connection: Disconnected
-[15:50:22] [Server thread/INFO]: opalitez left the game
-[15:51:41] [Server thread/INFO]: bogartnani[/26.185.22.198:55845] logged in with entity id 28439 at (-932.3000000119209, 32.0, 618.1697254259392)
-[15:51:41] [Server thread/INFO]: bogartnani joined the game
-[15:52:27] [Server thread/INFO]: opalitez[/26.81.134.220:51552] logged in with entity id 28766 at (-928.3000000119209, 35.92159999847412, 620.4090841333137)
-[15:52:27] [Server thread/INFO]: opalitez joined the game
-[16:10:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-745, y=30, z=205} ji{x=-746, y=30, z=205}
-[16:10:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-712, y=32, z=204} ji{x=-711, y=32, z=204}
-[16:10:25] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-712, y=32, z=204} ji{x=-711, y=32, z=204}
-[16:10:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-712, y=32, z=204} ji{x=-711, y=32, z=204}
-[16:10:26] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-712, y=32, z=204} ji{x=-711, y=32, z=204}
-[16:11:46] [Server thread/INFO]: MamaMo[/26.139.251.172:50322] logged in with entity id 32498 at (-45.960547670538126, 127.0625, -24.974772328602942)
-[16:11:46] [Server thread/INFO]: MamaMo joined the game
-[16:13:23] [Server thread/INFO]: opalitez has completed the challenge [Hot Tourist Destinations]
-[16:17:33] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-462, y=36, z=107} ji{x=-463, y=37, z=110}
-[16:30:22] [Server thread/WARN]: bogartnani moved wrongly!
-[16:33:43] [Server thread/INFO]: opalitez lost connection: Disconnected
-[16:33:43] [Server thread/INFO]: opalitez left the game
-[16:39:05] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[16:39:05] [Server thread/INFO]: MamaMo left the game
-[16:39:05] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[16:39:05] [Server thread/INFO]: bogartnani left the game
-[16:39:16] [Server thread/INFO]: Stopping server
-[16:39:16] [Server thread/INFO]: Saving players
-[16:39:16] [Server thread/INFO]: Saving worlds
-[16:39:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:39:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:39:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:39:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:04:50] [Server thread/INFO]: Server empty for 7200 seconds, pausing
+[07:28:54] [Server thread/INFO]: Stopping server
+[07:28:54] [Server thread/INFO]: Saving players
+[07:28:54] [Server thread/INFO]: Saving worlds
+[07:28:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:28:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:28:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:28:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:28:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:28:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:28:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
