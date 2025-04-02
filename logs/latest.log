@@ -1,11 +1,48 @@
-[01:04:50] [Server thread/INFO]: Server empty for 7200 seconds, pausing
-[07:28:54] [Server thread/INFO]: Stopping server
-[07:28:54] [Server thread/INFO]: Saving players
-[07:28:54] [Server thread/INFO]: Saving worlds
-[07:28:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:28:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:28:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:28:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:28:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:28:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:28:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:10:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:10:25] [ServerMain/INFO]: Loaded 1370 recipes
+[20:10:25] [ServerMain/INFO]: Loaded 1481 advancements
+[20:10:25] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:10:25] [Server thread/INFO]: Loading properties
+[20:10:25] [Server thread/INFO]: Default game type: SURVIVAL
+[20:10:25] [Server thread/INFO]: Generating keypair
+[20:10:25] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:1849) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:175) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
+	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
+[20:10:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:10:26] [Server thread/INFO]: Using default channel type
+[20:10:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:10:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:10:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:10:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:10:26] [Server thread/INFO]: Preparing level "world"
+[20:10:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:10:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:10:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:10:27] [Server thread/INFO]: Time elapsed: 957 ms
+[20:10:27] [Server thread/INFO]: Done (1.301s)! For help, type "help"
+[20:11:25] [Server thread/INFO]: opalitez[/26.81.134.220:54143] logged in with entity id 166 at (-16.30000001192093, 112.0, -52.149166921093304)
+[20:11:25] [Server thread/INFO]: opalitez joined the game
+[20:31:20] [Server thread/INFO]: opalitez lost connection: Disconnected
+[20:31:20] [Server thread/INFO]: opalitez left the game
+[20:31:30] [Server thread/INFO]: Stopping server
+[20:31:30] [Server thread/INFO]: Saving players
+[20:31:30] [Server thread/INFO]: Saving worlds
+[20:31:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:31:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:31:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:31:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:31:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:31:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:31:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
