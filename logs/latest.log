@@ -1,58 +1,95 @@
-[00:00:16] [Server thread/INFO]: bogartnani has reached the goal [You Need a Mint]
-[00:01:52] [Server thread/INFO]: MamaMo has reached the goal [You Need a Mint]
-[00:02:03] [Server thread/INFO]: inshallah has reached the goal [You Need a Mint]
-[00:02:27] [Server thread/INFO]: MamaMo has made the advancement [Free the End]
-[00:04:11] [Server thread/INFO]: bogartnani has reached the goal [The Next Generation]
-[00:04:18] [Server thread/INFO]: inshallah has reached the goal [The Next Generation]
-[00:04:37] [Server thread/INFO]: MamaMo has reached the goal [The Next Generation]
-[00:04:47] [Server thread/INFO]: opalitez has reached the goal [The Next Generation]
-[00:07:04] [Server thread/INFO]: opalitez has made the advancement [Remote Getaway]
-[00:07:20] [Server thread/INFO]: inshallah has made the advancement [Remote Getaway]
-[00:07:35] [Server thread/INFO]: bogartnani has made the advancement [Remote Getaway]
-[00:09:01] [Server thread/INFO]: MamaMo has made the advancement [Remote Getaway]
-[00:09:38] [Server thread/INFO]: [Not Secure] <bogartnani> t-113, 12155
-[00:19:48] [Server thread/INFO]: inshallah has made the advancement [The City at the End of the Game]
-[00:20:02] [Server thread/INFO]: MamaMo has made the advancement [The City at the End of the Game]
-[00:20:33] [Server thread/INFO]: opalitez has made the advancement [The City at the End of the Game]
-[00:20:35] [Server thread/INFO]: bogartnani has made the advancement [The City at the End of the Game]
-[00:21:08] [Server thread/WARN]: opalitez moved too quickly! 3.7915174556391094,-23.839905679671773,-5.438462331995879
-[00:21:08] [Server thread/WARN]: opalitez moved too quickly! 3.7915174556391094,-23.839905679671773,-5.438462331995879
-[00:22:11] [Server thread/INFO]: MamaMo has reached the goal [Sky's the Limit]
-[00:22:35] [Server thread/WARN]: bogartnani moved too quickly! 4.596477259238668,-43.3681125606231,5.344140260699874
-[00:22:49] [Server thread/WARN]: opalitez moved too quickly! 7.854471864242555,-52.845537540324884,0.7567011220568247
-[00:44:18] [Server thread/INFO]: opalitez lost connection: Disconnected
-[00:44:18] [Server thread/INFO]: opalitez left the game
-[00:49:28] [Server thread/WARN]: bogartnani moved too quickly! 5.075933679387958,-17.84293253813179,5.792602243665215
-[00:52:56] [Server thread/INFO]: [inshallah: Teleported inshallah to MamaMo]
-[00:53:35] [Server thread/WARN]: bogartnani moved too quickly! 6.10470117768125,-18.34646982054764,-1.496544781863804
-[00:55:33] [Server thread/INFO]: [inshallah: Teleported inshallah to 0.500000, 120.000000, 0.500000]
-[00:55:37] [Server thread/INFO]: [inshallah: Teleported inshallah to 0.500000, 150.000000, 0.500000]
-[00:57:33] [Server thread/WARN]: bogartnani moved too quickly! 1.8903568662577754,-15.991643519683606,4.537521657933212
-[00:59:37] [Server thread/WARN]: inshallah moved too quickly! -4.213162637191992,-12.791670171810182,-3.3822678822461736
-[00:59:49] [Server thread/WARN]: inshallah moved too quickly! -7.304749288425263,0.7766077712296351,-6.819731613407633
-[01:05:11] [Server thread/WARN]: bogartnani moved too quickly! 6.798712038466988,-40.857526453411836,-1.3599109915996905
-[01:05:42] [Server thread/WARN]: bogartnani moved too quickly! 6.052221805680233,-12.145548277665895,-7.5485131595701205
-[01:07:37] [Server thread/INFO]: [inshallah: Teleported MamaMo to bogartnani]
-[01:07:50] [Server thread/INFO]: [inshallah: Teleported MamaMo to inshallah]
-[01:07:56] [Server thread/WARN]: bogartnani moved too quickly! -5.456430483927193,-10.203004308807223,3.71765410580997
-[01:08:04] [Server thread/INFO]: [inshallah: Teleported inshallah to bogartnani]
-[01:08:15] [Server thread/INFO]: [inshallah: Teleported inshallah to bogartnani]
-[01:08:19] [Server thread/WARN]: bogartnani moved too quickly! -7.364081899520215,-12.644966769117886,-4.017026368177085
-[01:08:23] [Server thread/INFO]: [inshallah: Teleported inshallah to MamaMo]
-[01:08:37] [Server thread/WARN]: bogartnani moved too quickly! 2.2630587987067656,-10.740581879605188,6.594113117355846
-[01:10:36] [Server thread/INFO]: inshallah lost connection: Disconnected
-[01:10:36] [Server thread/INFO]: inshallah left the game
-[01:10:37] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[01:10:37] [Server thread/INFO]: bogartnani left the game
-[01:10:38] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[01:10:38] [Server thread/INFO]: MamaMo left the game
-[01:10:47] [Server thread/INFO]: Stopping server
-[01:10:47] [Server thread/INFO]: Saving players
-[01:10:47] [Server thread/INFO]: Saving worlds
-[01:10:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:10:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:10:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:10:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:45:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:45:04] [ServerMain/INFO]: Loaded 1370 recipes
+[00:45:04] [ServerMain/INFO]: Loaded 1481 advancements
+[00:45:04] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:45:04] [Server thread/INFO]: Loading properties
+[00:45:04] [Server thread/INFO]: Default game type: SURVIVAL
+[00:45:04] [Server thread/INFO]: Generating keypair
+[00:45:04] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:328) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:2252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:190) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
+[00:45:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:45:05] [Server thread/INFO]: Using default channel type
+[00:45:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:45:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:45:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:45:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:45:05] [Server thread/INFO]: Preparing level "world"
+[00:45:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:45:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:45:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:45:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:45:07] [Server thread/INFO]: Time elapsed: 1554 ms
+[00:45:07] [Server thread/INFO]: Done (1.963s)! For help, type "help"
+[00:45:07] [Server thread/INFO]: inshallah[/26.25.220.70:62429] logged in with entity id 147 at (-37.5, 137.0, 4.5)
+[00:45:07] [Server thread/INFO]: inshallah joined the game
+[00:45:13] [Server thread/INFO]: bogartnani[/26.185.22.198:54234] logged in with entity id 409 at (-852.7238223915376, 122.0, 1645.8732668073374)
+[00:45:13] [Server thread/INFO]: bogartnani joined the game
+[00:45:23] [Server thread/INFO]: opalitez[/26.81.134.220:56033] logged in with entity id 523 at (1696.5, 9.0, 159.5)
+[00:45:23] [Server thread/INFO]: opalitez joined the game
+[00:45:29] [Server thread/INFO]: MamaMo[/26.139.251.172:53810] logged in with entity id 842 at (-43.43270608179183, 127.0, -25.33307630794174)
+[00:45:29] [Server thread/INFO]: MamaMo joined the game
+[00:45:38] [Server thread/INFO]: [inshallah: Set own game mode to Creative Mode]
+[00:45:46] [Server thread/INFO]: [inshallah: Teleported inshallah to bogartnani]
+[00:45:46] [Server thread/INFO]: inshallah has reached the goal [Sky's the Limit]
+[00:46:35] [Server thread/INFO]: [inshallah: Teleported inshallah to 1700.500000, 200.000000, 1400.500000]
+[00:46:54] [Server thread/INFO]: [inshallah: Teleported inshallah to 1400.500000, 200.000000, 1700.500000]
+[00:47:02] [Server thread/INFO]: bogartnani has reached the goal [Sky's the Limit]
+[00:47:17] [Server thread/INFO]: [inshallah: Set own game mode to Survival Mode]
+[00:47:59] [Server thread/WARN]: bogartnani moved too quickly! 6.932202937627267,-83.38720642027025,0.7605253329581956
+[00:47:59] [Server thread/INFO]: bogartnani has completed the challenge [Great View From Up Here]
+[00:48:07] [Server thread/INFO]: [Not Secure] <inshallah> te
+[00:51:04] [Server thread/WARN]: bogartnani moved too quickly! -6.772403727166534,-57.607314897043054,4.381291884847769
+[00:52:01] [Server thread/INFO]: opalitez lost connection: Disconnected
+[00:52:01] [Server thread/INFO]: opalitez left the game
+[00:55:19] [Server thread/WARN]: bogartnani moved too quickly! 4.267309426388124,-101.03588605428675,-7.276479863036684
+[00:59:56] [Server thread/INFO]: [inshallah: Teleported MamaMo to inshallah]
+[01:00:16] [Server thread/WARN]: bogartnani moved too quickly! -6.26047003481608,2.2180746706598313,-7.640428636602337
+[01:01:18] [Server thread/INFO]: [inshallah: The difficulty has been set to Hard]
+[01:04:34] [Server thread/WARN]: bogartnani moved too quickly! -1.8777851444406224,-29.402143924779452,-4.041550734618795
+[01:04:35] [Server thread/INFO]: [inshallah: Set own game mode to Creative Mode]
+[01:04:40] [Server thread/WARN]: bogartnani moved too quickly! -7.553558432060981,2.398939596849857,-7.1098191432065505
+[01:04:58] [Server thread/INFO]: [inshallah: Set own game mode to Survival Mode]
+[01:06:37] [Server thread/INFO]: [inshallah: Teleported MamaMo to inshallah]
+[01:06:51] [Server thread/WARN]: bogartnani moved too quickly! -6.779178638783833,-11.595497308629788,1.2426159315264158
+[01:06:54] [Server thread/WARN]: bogartnani moved too quickly! -7.6764253058127,-13.973090404125657,-2.07997510470841
+[01:07:02] [Server thread/INFO]: [inshallah: Teleported bogartnani to inshallah]
+[01:16:55] [Server thread/INFO]: inshallah lost connection: Disconnected
+[01:16:55] [Server thread/INFO]: inshallah left the game
+[01:35:32] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=100, y=64, z=-2808} ji{x=100, y=63, z=-2808}
+[01:40:27] [Server thread/WARN]: bogartnani moved too quickly! 16.307765025109276,-3.9939121960258888,4.8944404041981215
+[01:45:10] [Server thread/WARN]: bogartnani moved too quickly! -13.282111740165476,0.5226171348567163,-11.730374775023847
+[01:48:04] [Server thread/WARN]: bogartnani moved too quickly! -16.108682970906102,-5.956341014046345,4.397273314076301
+[01:49:01] [Server thread/WARN]: bogartnani moved too quickly! -17.321654758427485,2.170727950161833,4.737225170203146
+[01:49:21] [Server thread/WARN]: bogartnani moved too quickly! -16.57193861145788,-0.49585676378710275,-6.0132968435355
+[01:49:47] [Server thread/WARN]: bogartnani moved too quickly! -17.72559779616131,-2.353410366658764,1.7274627885171867
+[01:50:39] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[01:50:39] [Server thread/INFO]: bogartnani left the game
+[01:50:40] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[01:50:40] [Server thread/INFO]: MamaMo left the game
+[03:50:40] [Server thread/INFO]: Server empty for 7200 seconds, pausing
+[05:56:08] [Server thread/INFO]: Stopping server
+[05:56:08] [Server thread/INFO]: Saving players
+[05:56:08] [Server thread/INFO]: Saving worlds
+[05:56:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:56:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:56:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:56:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

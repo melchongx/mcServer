@@ -4395,93 +4395,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-04-02 23:42:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-04-02 23:43:30 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_shulker_box": {
+  "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+      "in_stronghold": "2025-04-02 23:48:51 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
+  "minecraft:end/root": {
     "criteria": {
-      "has_chorus_fruit": "2025-04-03 00:07:37 +0800"
+      "entered_end": "2025-04-02 23:57:07 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_end_stone_brick": "2025-04-03 00:21:00 +0800"
+      "entered_end": "2025-04-02 23:57:07 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_shulker_box": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-03 01:01:56 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-04-03 00:21:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-04-03 00:58:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-04-03 01:01:38 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-04-03 01:01:38 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/white_bundle": {
-    "criteria": {
-      "has_white_dye": "2025-04-03 00:58:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2025-04-03 00:22:41 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2025-04-03 01:01:38 +0800"
+      "dragon_breath": "2025-04-03 00:02:03 +0800"
     },
     "done": true
   },
@@ -4491,117 +4437,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-04-03 00:21:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-04-03 00:58:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-04-03 00:58:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2025-04-03 01:01:38 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2025-04-03 01:01:53 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-04-03 00:12:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-04-03 00:21:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-04-03 00:29:09 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2025-04-03 01:01:38 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-04-03 01:01:56 +0800"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "salmon_bucket": "2025-04-02 23:42:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-04-03 00:19:48 +0800"
-    },
-    "done": true
-  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-04-03 00:07:20 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_red_dye": "2025-04-03 01:01:38 +0800"
+      "has_chorus_fruit": "2025-04-03 00:07:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-03 00:12:39 +0800"
     },
     "done": true
   },
@@ -4617,45 +4467,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/red_bundle": {
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
-      "has_red_dye": "2025-04-03 01:01:38 +0800"
+      "has_end_stone": "2025-04-03 00:12:39 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
-      "has_purpur_block": "2025-04-03 00:22:41 +0800"
+      "has_end_stone": "2025-04-03 00:12:39 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
+  "minecraft:end/find_end_city": {
     "criteria": {
-      "has_needed_dye": "2025-04-03 00:58:04 +0800"
+      "in_city": "2025-04-03 00:19:48 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "has_purpur_block": "2025-04-03 00:22:41 +0800"
+      "has_shulker_shell": "2025-04-03 00:20:00 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
-      "has_smithing_trim_template": "2025-04-03 01:01:53 +0800"
+      "has_end_stone_brick": "2025-04-03 00:21:00 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_candle": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
-      "has_white_dye": "2025-04-03 00:58:04 +0800"
+      "has_end_stone_bricks": "2025-04-03 00:21:00 +0800"
     },
     "done": true
   },
-  "minecraft:end/dragon_breath": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
-      "dragon_breath": "2025-04-03 00:02:03 +0800"
+      "has_end_stone_brick": "2025-04-03 00:21:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-03 00:21:00 +0800"
     },
     "done": true
   },
@@ -4665,51 +4521,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-04-02 23:48:51 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-04-03 00:58:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-04-02 23:57:07 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2025-04-03 00:21:00 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
+  "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
-      "has_needed_dye": "2025-04-03 01:01:38 +0800"
+      "has_purpur_block": "2025-04-03 00:22:41 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_shulker_box": {
+  "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+      "has_purpur_block": "2025-04-03 00:22:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-03 00:22:41 +0800"
     },
     "done": true
   },
@@ -4719,27 +4551,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_shulker_box": {
+  "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
-      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+      "has_purpur_block": "2025-04-03 00:22:41 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
-      "has_needed_dye": "2025-04-03 00:58:04 +0800"
+      "has_purpur_block": "2025-04-03 00:22:41 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_white_dye": "2025-04-03 00:58:04 +0800"
+      "has_ender_eye": "2025-04-03 00:29:09 +0800"
     },
     "done": true
   },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-04-03 00:29:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-03 00:56:50 +0800"
     },
     "done": true
   },
@@ -4755,45 +4665,141 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-04-03 00:12:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-04-03 00:12:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-04-03 00:20:00 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2025-04-03 00:22:41 +0800"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-04-02 23:57:07 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-04-03 00:56:50 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
-      "has_purpur_block": "2025-04-03 00:22:41 +0800"
+      "has_white_dye": "2025-04-03 00:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_white_dye": "2025-04-03 00:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-03 00:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-03 00:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-03 00:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-04-03 00:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-03 00:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-03 00:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-04-03 00:58:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-03 01:01:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-03 01:01:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 01:01:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 01:01:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 01:01:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 01:01:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2025-04-03 01:01:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-03 01:01:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-04-03 01:01:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-03 01:01:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-03 01:01:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-04-03 01:01:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-04 00:45:46 +0800"
     },
     "done": true
   },
