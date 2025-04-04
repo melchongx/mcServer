@@ -547,6 +547,7 @@
       "minecraft:hoglin": "2025-03-14 23:14:04 +0800",
       "minecraft:shulker": "2025-04-03 00:20:45 +0800",
       "minecraft:piglin": "2025-03-14 23:44:23 +0800",
+      "minecraft:vindicator": "2025-04-04 23:15:13 +0800",
       "minecraft:enderman": "2025-03-14 23:29:31 +0800",
       "minecraft:silverfish": "2025-03-27 23:07:14 +0800",
       "minecraft:magma_cube": "2025-03-14 23:45:55 +0800",
@@ -4597,12 +4598,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-04 01:12:04 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-04-04 00:54:05 +0800"
@@ -4633,6 +4628,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 00:54:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 00:54:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 00:54:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 00:54:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 00:54:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 00:54:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 00:54:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-04 01:12:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-04 01:12:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-04 01:12:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-04-04 01:22:21 +0800"
@@ -4640,6 +4695,24 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-04 01:22:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-04 01:22:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-04 01:22:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-04 01:22:21 +0800"
     },
@@ -4663,57 +4736,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-04 01:12:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-04 00:54:05 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-04-04 01:22:21 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-04 00:54:05 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/yellow_bundle": {
-    "criteria": {
-      "has_yellow_dye": "2025-04-04 01:22:21 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/pink_bundle": {
     "criteria": {
       "has_pink_dye": "2025-04-04 01:22:23 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-04 00:54:05 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-04-04 01:12:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-04 00:54:05 +0800"
     },
     "done": true
   },
@@ -4723,33 +4748,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-04-04 01:48:40 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-04-04 01:22:21 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-04-04 01:43:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-04 00:54:05 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2025-04-04 00:54:05 +0800"
     },
     "done": true
   },
@@ -4759,9 +4760,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_shulker_box": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "has_shulker_box": "2025-04-04 00:54:05 +0800"
+      "has_ice": "2025-04-04 01:48:40 +0800"
     },
     "done": true
   },

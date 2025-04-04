@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-04 23:12:10 +0800",
       "minecraft:snowy_slopes": "2025-03-12 02:43:50 +0800",
       "minecraft:forest": "2025-03-08 16:43:45 +0800",
       "minecraft:taiga": "2025-03-24 14:54:03 +0800",
@@ -18,8 +19,10 @@
       "minecraft:cherry_grove": "2025-03-12 02:48:22 +0800",
       "minecraft:sunflower_plains": "2025-03-12 02:46:41 +0800",
       "minecraft:birch_forest": "2025-03-24 14:50:21 +0800",
+      "minecraft:old_growth_spruce_taiga": "2025-04-04 23:11:55 +0800",
       "minecraft:wooded_badlands": "2025-03-22 01:49:57 +0800",
       "minecraft:bamboo_jungle": "2025-03-23 02:48:37 +0800",
+      "minecraft:windswept_savanna": "2025-04-04 23:20:02 +0800",
       "minecraft:warm_ocean": "2025-03-22 01:48:23 +0800",
       "minecraft:deep_lukewarm_ocean": "2025-03-23 02:53:32 +0800",
       "minecraft:badlands": "2025-03-10 21:44:57 +0800",
@@ -152,6 +155,7 @@
       "minecraft:cave_spider": "2025-03-10 22:43:28 +0800",
       "minecraft:piglin": "2025-03-14 23:54:27 +0800",
       "minecraft:guardian": "2025-03-23 03:04:55 +0800",
+      "minecraft:vindicator": "2025-04-04 23:15:11 +0800",
       "minecraft:enderman": "2025-03-21 20:18:58 +0800",
       "minecraft:silverfish": "2025-03-27 23:06:07 +0800",
       "minecraft:magma_cube": "2025-03-14 23:12:52 +0800",
@@ -5082,6 +5086,120 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-04-03 00:31:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-04 22:24:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-04 22:59:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-04 22:59:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
     },
     "done": true
   },
