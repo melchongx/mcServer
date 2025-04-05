@@ -1,11 +1,11 @@
-[19:11:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:11:57] [ServerMain/INFO]: Loaded 1370 recipes
-[19:11:57] [ServerMain/INFO]: Loaded 1481 advancements
-[19:11:58] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:11:58] [Server thread/INFO]: Loading properties
-[19:11:58] [Server thread/INFO]: Default game type: SURVIVAL
-[19:11:58] [Server thread/INFO]: Generating keypair
-[19:11:58] [Server console handler/ERROR]: Exception handling console input
+[19:40:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:40:27] [ServerMain/INFO]: Loaded 1370 recipes
+[19:40:27] [ServerMain/INFO]: Loaded 1481 advancements
+[19:40:28] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:40:28] [Server thread/INFO]: Loading properties
+[19:40:28] [Server thread/INFO]: Default game type: SURVIVAL
+[19:40:28] [Server thread/INFO]: Generating keypair
+[19:40:28] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
 	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
@@ -20,68 +20,120 @@ java.io.IOException: The handle is invalid
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
 	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
-[19:11:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:11:58] [Server thread/INFO]: Using default channel type
-[19:11:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:11:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:11:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:11:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:11:59] [Server thread/INFO]: Preparing level "world"
-[19:11:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:12:00] [Server thread/INFO]: Time elapsed: 1235 ms
-[19:12:00] [Server thread/INFO]: Done (1.596s)! For help, type "help"
-[19:12:06] [Server thread/INFO]: opalitez[/26.81.134.220:63441] logged in with entity id 125 at (-48.759399581661526, 125.9375, -13.816838038501606)
-[19:12:06] [Server thread/INFO]: opalitez joined the game
-[19:24:25] [Server thread/INFO]: bogartnani[/26.185.22.198:59420] logged in with entity id 7237 at (3.5881173730407747, -45.0, -168.28249142469912)
-[19:24:25] [Server thread/INFO]: bogartnani joined the game
-[19:28:04] [Server thread/INFO]: [Not Secure] <bogartnani> SAN KLA
-[19:28:06] [Server thread/INFO]: [Not Secure] <bogartnani> KA
-[19:28:20] [Server thread/INFO]: [Not Secure] <opalitez> base
-[19:28:27] [Server thread/INFO]: [Not Secure] <opalitez> bkit
-[19:28:33] [Server thread/INFO]: [Not Secure] <bogartnani> PUNTA KA BA CREEPER
-[19:28:39] [Server thread/INFO]: [Not Secure] <opalitez> pumunta na me
-[19:28:40] [Server thread/INFO]: [Not Secure] <bogartnani> PENGE STONE KAHIT ANO URI
-[19:28:44] [Server thread/INFO]: [Not Secure] <bogartnani> MGA ISA STACK
-[19:28:44] [Server thread/INFO]: [Not Secure] <opalitez> ge
-[19:28:51] [Server thread/INFO]: [Not Secure] <opalitez> bkit ka naka caps
-[19:28:55] [Server thread/INFO]: [Not Secure] <opalitez> galit ka ba :C
-[19:28:59] [Server thread/INFO]: [Not Secure] <bogartnani> ayan na tangina mo
-[19:30:02] [Server thread/INFO]: [Not Secure] <bogartnani> puta
-[19:30:08] [Server thread/INFO]: [Not Secure] <bogartnani> san ka galing HAAHAHAHAAH inaabangan kita
-[19:30:27] [Server thread/INFO]: [Not Secure] <opalitez> secret hehehehehehhehehehe
-[19:31:45] [Server thread/INFO]: [Not Secure] <opalitez> ano to
-[19:31:56] [Server thread/INFO]: [Not Secure] <bogartnani> landing pad
-[19:31:58] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAH
-[19:32:00] [Server thread/INFO]: [Not Secure] <bogartnani> kalandian
-[19:32:15] [Server thread/INFO]: [Not Secure] <bogartnani> nakaturo papunta base
-[19:32:16] [Server thread/INFO]: [Not Secure] <opalitez> tara trial na
-[19:32:33] [Server thread/INFO]: [Not Secure] <opalitez> nagpunta kami woodland mansion saglit kagabi nung gumawa ka creeper farm e
-[19:32:37] [Server thread/INFO]: [Not Secure] <opalitez> angina anlalakas pala nila don
-[19:32:39] [Server thread/INFO]: [Not Secure] <bogartnani> kita ko nga
-[19:32:41] [Server thread/INFO]: [Not Secure] <bogartnani> oo haahahha
-[19:32:52] [Server thread/INFO]: MamaMo[/26.139.251.172:52950] logged in with entity id 11121 at (-47.76249998807907, 127.0, -23.30000001192093)
-[19:32:52] [Server thread/INFO]: MamaMo joined the game
-[19:32:58] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[19:32:58] [Server thread/INFO]: MamaMo left the game
-[19:33:55] [Server thread/WARN]: bogartnani moved too quickly! -8.443685687758947,-1.5302455666064247,15.781590733409331
-[19:34:15] [Server thread/INFO]: [Not Secure] <bogartnani> isang glide lang makakauwi na hahahha
-[19:34:19] [Server thread/INFO]: [Not Secure] <bogartnani> di na need rockets
-[19:34:24] [Server thread/INFO]: [Not Secure] <opalitez> legit
-[19:34:27] [Server thread/INFO]: [Not Secure] <opalitez> try ko nga
-[19:34:43] [Server thread/INFO]: MamaMo[/26.139.251.172:52982] logged in with entity id 12425 at (-47.76249998807907, 127.0, -23.30000001192093)
-[19:34:43] [Server thread/INFO]: MamaMo joined the game
-[19:35:09] [Server thread/INFO]: [Not Secure] <bogartnani> owshi
-[19:36:22] [Server thread/INFO]: [Not Secure] <opalitez> smooth
-[19:36:27] [Server thread/INFO]: [Not Secure] <opalitez> like a nigger
-[19:36:32] [Server thread/INFO]: [Not Secure] <bogartnani> indeed
-[19:37:23] [Server thread/INFO]: [Not Secure] <MamaMo> gala
-[19:37:26] [Server thread/INFO]: [Not Secure] <opalitez> tara
-[19:37:28] [Server thread/INFO]: [Not Secure] <opalitez> dc po
-[19:37:31] [Server thread/INFO]: [Not Secure] <MamaMo> san
-[19:37:51] [Server thread/INFO]: [Not Secure] <bogartnani> wait
-[19:37:58] [Server thread/INFO]: [Not Secure] <MamaMo> wait nanaman
-[19:38:56] [Server thread/INFO]: [Not Secure] <MamaMo> gagi bry
-[19:38:59] [Server thread/INFO]: [Not Secure] <MamaMo> sumabog
+[19:40:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:40:28] [Server thread/INFO]: Using default channel type
+[19:40:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:40:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:40:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:40:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:40:28] [Server thread/INFO]: Preparing level "world"
+[19:40:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:40:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:40:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:40:30] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[19:40:30] [Server thread/INFO]: Time elapsed: 1174 ms
+[19:40:30] [Server thread/INFO]: Done (1.560s)! For help, type "help"
+[19:40:55] [Server thread/INFO]: bogartnani[/26.185.22.198:59530] logged in with entity id 128 at (103.40106770271487, 250.0, -857.3000000119209)
+[19:40:55] [Server thread/INFO]: bogartnani joined the game
+[19:40:57] [Server thread/WARN]: UUID of added entity already exists: cln['Drowned'/177, l='ServerLevel[world]', x=127.31, y=50.00, z=-1072.02]
+[19:41:00] [Server thread/INFO]: MamaMo[/26.139.251.172:53024] logged in with entity id 183 at (111.12118912519992, 250.1212968405392, -859.6309767216312)
+[19:41:00] [Server thread/INFO]: MamaMo joined the game
+[19:41:19] [Server thread/INFO]: [Not Secure] <bogartnani> je penge woo
+[19:41:21] [Server thread/INFO]: [Not Secure] <bogartnani> d
+[19:41:27] [Server thread/INFO]: opalitez[/26.81.134.220:49873] logged in with entity id 209 at (111.30000001192093, 173.02613197970805, -862.8216678352603)
+[19:41:27] [Server thread/INFO]: opalitez joined the game
+[19:41:38] [Server thread/INFO]: [Not Secure] <bogartnani> enge
+[19:41:39] [Server thread/INFO]: [Not Secure] <bogartnani> wood
+[19:41:43] [Server thread/INFO]: [Not Secure] <bogartnani> lagyan ko trapdoor
+[19:41:56] [Server thread/INFO]: [Not Secure] <bogartnani> aw
+[19:42:01] [Server thread/INFO]: [Not Secure] <opalitez> gago
+[19:42:02] [Server thread/INFO]: [Not Secure] <bogartnani> not so smooth landing
+[19:42:04] [Server thread/INFO]: [Not Secure] <opalitez> untink na
+[19:42:10] [Server thread/INFO]: [Not Secure] <bogartnani> lalagyan ko trapdoor
+[19:42:12] [Server thread/INFO]: [Not Secure] <bogartnani> penge wood
+[19:42:21] [Server thread/INFO]: [Not Secure] <opalitez> teka
+[19:42:49] [Server thread/INFO]: [Not Secure] <opalitez> ilan
+[19:43:53] [Server thread/INFO]: [Not Secure] <MamaMo> san kayo
+[19:43:58] [Server thread/INFO]: [Not Secure] <bogartnani> woodland
+[19:44:14] [Server thread/INFO]: [Not Secure] <MamaMo> wow
+[19:44:20] [Server thread/INFO]: [Not Secure] <opalitez> dc bry
+[19:44:28] [Server thread/INFO]: [Not Secure] <bogartnani> teka
+[19:44:33] [Server thread/INFO]: [Not Secure] <bogartnani> paalis ako e irl
+[19:44:37] [Server thread/INFO]: [Not Secure] <bogartnani> HAAHHAHA maya na lang ako sama
+[19:44:39] [Server thread/INFO]: [Not Secure] <bogartnani> kayo muna
+[19:44:40] [Server thread/INFO]: [Not Secure] <opalitez> ge
+[19:44:58] [Server thread/WARN]: MamaMo moved too quickly! -10.088232393829927,-0.13492780368044066,-1.2161903671379282
+[19:45:05] [Server thread/INFO]: [Not Secure] <bogartnani> dito tayo land sa deepslate
+[19:45:15] [Server thread/INFO]: [Not Secure] <bogartnani> para di tayo mashoot don sa creeper HAHA
+[19:48:07] [Server thread/INFO]: [Not Secure] <bogartnani> ggs muna ko
+[19:48:08] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[19:48:08] [Server thread/INFO]: bogartnani left the game
+[20:09:29] [Server thread/WARN]: MamaMo moved too quickly! -15.875099187048818,-5.933272311263593,6.394689722789053
+[20:26:17] [Server thread/WARN]: opalitez moved too quickly! -6.399165358346181,-15.62512947170356,6.608041086594994
+[20:26:17] [Server thread/WARN]: MamaMo moved too quickly! -15.499411225900076,-4.90608159789781,7.864532098662949
+[20:34:57] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[20:34:57] [Server thread/INFO]: MamaMo left the game
+[20:37:54] [Server thread/INFO]: opalitez lost connection: Disconnected
+[20:37:54] [Server thread/INFO]: opalitez left the game
+[21:22:39] [Server thread/INFO]: inshallah[/26.25.220.70:53231] logged in with entity id 79364 at (-31.04037429675723, 140.0, -3.3959916054345016)
+[21:22:39] [Server thread/INFO]: inshallah joined the game
+[21:23:49] [Server thread/INFO]: inshallah lost connection: Disconnected
+[21:23:49] [Server thread/INFO]: inshallah left the game
+[21:46:36] [Server thread/INFO]: inshallah[/26.25.220.70:53406] logged in with entity id 79849 at (-32.259853618582085, 138.0, 2.915639368765077)
+[21:46:36] [Server thread/INFO]: inshallah joined the game
+[21:49:07] [Server thread/INFO]: bogartnani[/26.185.22.198:63660] logged in with entity id 81053 at (-84.90607589148608, 123.0, -42.32405188922228)
+[21:49:07] [Server thread/INFO]: bogartnani joined the game
+[21:51:34] [Server thread/INFO]: [Not Secure] <inshallah> gago
+[21:51:38] [Server thread/INFO]: [Not Secure] <inshallah> nagulat ako
+[21:51:43] [Server thread/INFO]: [Not Secure] <bogartnani> gugulat hahahha
+[21:51:44] [Server thread/INFO]: [Not Secure] <inshallah> akala ko na herobrine ako
+[21:52:18] [Server thread/INFO]: [Not Secure] <bogartnani> woodland
+[22:09:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1048421ms or 20968 ticks behind
+[22:09:49] [Server thread/INFO]: inshallah lost connection: Disconnected
+[22:09:49] [Server thread/INFO]: inshallah left the game
+[22:09:49] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[22:09:49] [Server thread/INFO]: bogartnani left the game
+[22:14:44] [Server thread/INFO]: MamaMo[/26.139.251.172:58568] logged in with entity id 82420 at (-6607.806502800107, 68.0, -801.0342826157155)
+[22:14:44] [Server thread/INFO]: MamaMo joined the game
+[22:16:45] [Server thread/INFO]: opalitez[/26.81.134.220:51192] logged in with entity id 87456 at (-81.23714350303695, 131.0, -4.249413131108981)
+[22:16:45] [Server thread/INFO]: opalitez joined the game
+[22:17:02] [Server thread/WARN]: MamaMo moved too quickly! 11.372973076192466,0.7377544172811952,-1.9656447950205802
+[22:17:06] [Server thread/WARN]: MamaMo was kicked for floating too long!
+[22:17:06] [Server thread/INFO]: MamaMo lost connection: Flying is not enabled on this server
+[22:17:06] [Server thread/INFO]: MamaMo left the game
+[22:17:06] [Server thread/WARN]: handleDisconnection() called twice
+[22:17:23] [Server thread/INFO]: bogartnani[/26.185.22.198:63854] logged in with entity id 88905 at (106.92050885312695, 251.18883597911216, -853.8646403337838)
+[22:17:23] [Server thread/INFO]: bogartnani joined the game
+[22:17:53] [Server thread/INFO]: [Not Secure] <opalitez> dc
+[22:18:00] [Server thread/INFO]: [Not Secure] <bogartnani> wait
+[22:18:04] [Server thread/INFO]: [Not Secure] <bogartnani> laggers ako
+[22:18:10] [Server thread/INFO]: MamaMo[/26.139.251.172:58677] logged in with entity id 89817 at (-4946.205560121142, 71.47177796850792, -627.2694645431312)
+[22:18:10] [Server thread/INFO]: MamaMo joined the game
+[22:18:35] [Server thread/INFO]: [Not Secure] <opalitez> dc
+[22:19:29] [Server thread/INFO]: [Not Secure] <opalitez> salita je
+[22:19:36] [Server thread/WARN]: MamaMo moved too quickly! 7.576410226713506,15.80794369744872,0.7581126866381283
+[22:19:51] [Server thread/WARN]: MamaMo moved wrongly!
+[22:19:54] [Server thread/INFO]: [Not Secure] <MamaMo> la ka sounds
+[22:20:20] [Server thread/INFO]: [Not Secure] <opalitez> naka open mic ako je
+[22:20:23] [Server thread/WARN]: MamaMo moved wrongly!
+[22:20:55] [Server thread/INFO]: [Not Secure] <MamaMo> wait akin
+[22:21:25] [Server thread/INFO]: [Not Secure] <bogartnani> laggers
+[22:21:34] [Server thread/INFO]: [Not Secure] <opalitez> dahil ata saken
+[22:21:38] [Server thread/WARN]: bogartnani moved too quickly! -17.829451758245682,-1.9979740275630604,-0.6293119869651491
+[22:21:55] [Server thread/WARN]: bogartnani moved too quickly! 16.782204339089397,-2.082039767018074,4.995563587786364
+[22:23:21] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[22:23:21] [Server thread/INFO]: bogartnani left the game
+[22:23:22] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[22:23:22] [Server thread/INFO]: MamaMo left the game
+[22:23:23] [Server thread/INFO]: opalitez lost connection: Disconnected
+[22:23:23] [Server thread/INFO]: opalitez left the game
+[22:23:36] [Server thread/INFO]: Stopping server
+[22:23:36] [Server thread/INFO]: Saving players
+[22:23:36] [Server thread/INFO]: Saving worlds
+[22:23:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:23:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:23:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:23:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:23:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:23:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:23:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

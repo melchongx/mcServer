@@ -4804,18 +4804,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-04-04 23:15:02 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-04 23:15:02 +0800"
-    },
-    "done": true
-  },
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-04-04 22:26:57 +0800"
@@ -4825,6 +4813,18 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-04-04 22:42:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-04 23:15:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-04 23:15:02 +0800"
     },
     "done": true
   },
