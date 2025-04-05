@@ -5149,12 +5149,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-04-04 22:59:03 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-04-04 22:27:11 +0800"
@@ -5191,15 +5185,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-04-04 22:59:03 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_shulker_box": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_shulker_box": "2025-04-04 22:27:11 +0800"
+      "has_pumpkin": "2025-04-04 22:59:03 +0800"
     },
     "done": true
   },

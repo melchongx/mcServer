@@ -1,39 +1,87 @@
-[00:19:07] [Server thread/WARN]: bogartnani moved wrongly!
-[00:21:29] [Server thread/WARN]: bogartnani moved too quickly! 11.10850994210577,-2.345562484745642,-14.452618347837756
-[00:59:08] [Server thread/WARN]: bogartnani moved too quickly! 18.461493109036553,-3.848134598938003,-0.2507114765927554
-[00:59:42] [Server thread/WARN]: bogartnani moved too quickly! -3.4581461025845783,6.012333495990205,16.294755503734564
-[00:59:52] [Server thread/WARN]: bogartnani moved too quickly! -9.457961044709748,-2.213000345084467,15.145215376195551
-[01:00:03] [Server thread/WARN]: bogartnani moved too quickly! -4.100803124828516,-1.9748266083110622,16.98993905423606
-[01:00:14] [Server thread/WARN]: bogartnani moved too quickly! -9.195478581687617,0.0010209038663049341,15.81928782141216
-[01:00:31] [Server thread/WARN]: bogartnani moved too quickly! -7.351333886896269,12.371489865623516,10.621066573865093
-[01:16:24] [Server thread/WARN]: bogartnani moved too quickly! -10.221075865686686,-1.6432526913939967,-14.129496760087719
-[01:20:54] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[01:20:54] [Server thread/INFO]: bogartnani left the game
-[03:20:54] [Server thread/INFO]: Server empty for 7200 seconds, pausing
-[03:54:57] [Server thread/INFO]: bogartnani[/26.185.22.198:59895] logged in with entity id 127223 at (-45.37443369155892, 127.0625, -25.15719535777853)
-[03:54:57] [Server thread/INFO]: bogartnani joined the game
-[04:00:38] [Server thread/WARN]: bogartnani moved too quickly! -18.269083061516824,-1.5858151834049607,-0.9845368209354035
-[04:06:06] [Server thread/WARN]: bogartnani moved too quickly! -5.523889449922535,-3.1509191725576216,16.786846965274748
-[04:07:44] [Server thread/WARN]: bogartnani moved too quickly! -18.04312053841022,-2.403037257071645,-0.1633409273550228
-[04:08:00] [Server thread/WARN]: bogartnani moved too quickly! 13.611572500147304,9.09757609658024,-8.017296234291592
-[04:08:10] [Server thread/WARN]: bogartnani moved too quickly! 16.52384726795208,-1.9589424731152008,-5.741589081282285
-[04:08:25] [Server thread/WARN]: bogartnani moved too quickly! 14.6580626998134,-2.3649366501379347,11.128394442036267
-[04:13:02] [Server thread/WARN]: bogartnani moved too quickly! 6.349463553403993,1.1724776953053322,-16.51144205483672
-[04:13:15] [Server thread/WARN]: bogartnani moved too quickly! 5.2552276303102445,-3.9949157401680537,-17.205824925191934
-[04:15:39] [Server thread/WARN]: bogartnani moved too quickly! 0.014971723122116032,-1.9703678228008243,17.987647704422898
-[04:15:57] [Server thread/WARN]: bogartnani moved too quickly! -17.361757436059435,-2.3746960858040893,-3.7127039121476173
-[04:20:53] [Server thread/WARN]: bogartnani moved too quickly! 12.600699913370534,-7.703950170269906,-12.01290410155957
-[04:23:42] [Server thread/WARN]: bogartnani moved too quickly! -9.691926053941472,-2.0809530931495317,14.505556172498075
-[04:24:57] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[04:24:57] [Server thread/INFO]: bogartnani left the game
-[06:24:57] [Server thread/INFO]: Server empty for 7200 seconds, pausing
-[06:26:36] [Server thread/INFO]: Stopping server
-[06:26:36] [Server thread/INFO]: Saving players
-[06:26:36] [Server thread/INFO]: Saving worlds
-[06:26:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:26:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:26:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:26:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:26:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:26:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:26:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:11:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:11:57] [ServerMain/INFO]: Loaded 1370 recipes
+[19:11:57] [ServerMain/INFO]: Loaded 1481 advancements
+[19:11:58] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:11:58] [Server thread/INFO]: Loading properties
+[19:11:58] [Server thread/INFO]: Default game type: SURVIVAL
+[19:11:58] [Server thread/INFO]: Generating keypair
+[19:11:58] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:1849) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:175) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
+	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
+[19:11:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:11:58] [Server thread/INFO]: Using default channel type
+[19:11:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:11:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:11:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:11:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:11:59] [Server thread/INFO]: Preparing level "world"
+[19:11:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:12:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:12:00] [Server thread/INFO]: Time elapsed: 1235 ms
+[19:12:00] [Server thread/INFO]: Done (1.596s)! For help, type "help"
+[19:12:06] [Server thread/INFO]: opalitez[/26.81.134.220:63441] logged in with entity id 125 at (-48.759399581661526, 125.9375, -13.816838038501606)
+[19:12:06] [Server thread/INFO]: opalitez joined the game
+[19:24:25] [Server thread/INFO]: bogartnani[/26.185.22.198:59420] logged in with entity id 7237 at (3.5881173730407747, -45.0, -168.28249142469912)
+[19:24:25] [Server thread/INFO]: bogartnani joined the game
+[19:28:04] [Server thread/INFO]: [Not Secure] <bogartnani> SAN KLA
+[19:28:06] [Server thread/INFO]: [Not Secure] <bogartnani> KA
+[19:28:20] [Server thread/INFO]: [Not Secure] <opalitez> base
+[19:28:27] [Server thread/INFO]: [Not Secure] <opalitez> bkit
+[19:28:33] [Server thread/INFO]: [Not Secure] <bogartnani> PUNTA KA BA CREEPER
+[19:28:39] [Server thread/INFO]: [Not Secure] <opalitez> pumunta na me
+[19:28:40] [Server thread/INFO]: [Not Secure] <bogartnani> PENGE STONE KAHIT ANO URI
+[19:28:44] [Server thread/INFO]: [Not Secure] <bogartnani> MGA ISA STACK
+[19:28:44] [Server thread/INFO]: [Not Secure] <opalitez> ge
+[19:28:51] [Server thread/INFO]: [Not Secure] <opalitez> bkit ka naka caps
+[19:28:55] [Server thread/INFO]: [Not Secure] <opalitez> galit ka ba :C
+[19:28:59] [Server thread/INFO]: [Not Secure] <bogartnani> ayan na tangina mo
+[19:30:02] [Server thread/INFO]: [Not Secure] <bogartnani> puta
+[19:30:08] [Server thread/INFO]: [Not Secure] <bogartnani> san ka galing HAAHAHAHAAH inaabangan kita
+[19:30:27] [Server thread/INFO]: [Not Secure] <opalitez> secret hehehehehehhehehehe
+[19:31:45] [Server thread/INFO]: [Not Secure] <opalitez> ano to
+[19:31:56] [Server thread/INFO]: [Not Secure] <bogartnani> landing pad
+[19:31:58] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAH
+[19:32:00] [Server thread/INFO]: [Not Secure] <bogartnani> kalandian
+[19:32:15] [Server thread/INFO]: [Not Secure] <bogartnani> nakaturo papunta base
+[19:32:16] [Server thread/INFO]: [Not Secure] <opalitez> tara trial na
+[19:32:33] [Server thread/INFO]: [Not Secure] <opalitez> nagpunta kami woodland mansion saglit kagabi nung gumawa ka creeper farm e
+[19:32:37] [Server thread/INFO]: [Not Secure] <opalitez> angina anlalakas pala nila don
+[19:32:39] [Server thread/INFO]: [Not Secure] <bogartnani> kita ko nga
+[19:32:41] [Server thread/INFO]: [Not Secure] <bogartnani> oo haahahha
+[19:32:52] [Server thread/INFO]: MamaMo[/26.139.251.172:52950] logged in with entity id 11121 at (-47.76249998807907, 127.0, -23.30000001192093)
+[19:32:52] [Server thread/INFO]: MamaMo joined the game
+[19:32:58] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[19:32:58] [Server thread/INFO]: MamaMo left the game
+[19:33:55] [Server thread/WARN]: bogartnani moved too quickly! -8.443685687758947,-1.5302455666064247,15.781590733409331
+[19:34:15] [Server thread/INFO]: [Not Secure] <bogartnani> isang glide lang makakauwi na hahahha
+[19:34:19] [Server thread/INFO]: [Not Secure] <bogartnani> di na need rockets
+[19:34:24] [Server thread/INFO]: [Not Secure] <opalitez> legit
+[19:34:27] [Server thread/INFO]: [Not Secure] <opalitez> try ko nga
+[19:34:43] [Server thread/INFO]: MamaMo[/26.139.251.172:52982] logged in with entity id 12425 at (-47.76249998807907, 127.0, -23.30000001192093)
+[19:34:43] [Server thread/INFO]: MamaMo joined the game
+[19:35:09] [Server thread/INFO]: [Not Secure] <bogartnani> owshi
+[19:36:22] [Server thread/INFO]: [Not Secure] <opalitez> smooth
+[19:36:27] [Server thread/INFO]: [Not Secure] <opalitez> like a nigger
+[19:36:32] [Server thread/INFO]: [Not Secure] <bogartnani> indeed
+[19:37:23] [Server thread/INFO]: [Not Secure] <MamaMo> gala
+[19:37:26] [Server thread/INFO]: [Not Secure] <opalitez> tara
+[19:37:28] [Server thread/INFO]: [Not Secure] <opalitez> dc po
+[19:37:31] [Server thread/INFO]: [Not Secure] <MamaMo> san
+[19:37:51] [Server thread/INFO]: [Not Secure] <bogartnani> wait
+[19:37:58] [Server thread/INFO]: [Not Secure] <MamaMo> wait nanaman
+[19:38:56] [Server thread/INFO]: [Not Secure] <MamaMo> gagi bry
+[19:38:59] [Server thread/INFO]: [Not Secure] <MamaMo> sumabog
