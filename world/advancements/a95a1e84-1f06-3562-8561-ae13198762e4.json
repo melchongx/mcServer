@@ -14,6 +14,7 @@
       "minecraft:taiga": "2025-03-24 14:54:03 +0800",
       "minecraft:deep_ocean": "2025-03-23 03:02:27 +0800",
       "minecraft:deep_cold_ocean": "2025-04-05 20:12:01 +0800",
+      "minecraft:ice_spikes": "2025-04-06 00:20:35 +0800",
       "minecraft:frozen_ocean": "2025-04-05 20:10:16 +0800",
       "minecraft:eroded_badlands": "2025-03-10 22:35:26 +0800",
       "minecraft:desert": "2025-03-22 01:44:52 +0800",
@@ -43,6 +44,7 @@
       "minecraft:river": "2025-03-10 22:29:19 +0800",
       "minecraft:lukewarm_ocean": "2025-03-10 22:29:26 +0800",
       "minecraft:stony_shore": "2025-03-10 22:33:34 +0800",
+      "minecraft:snowy_plains": "2025-04-06 00:08:11 +0800",
       "minecraft:dripstone_caves": "2025-03-08 19:59:04 +0800",
       "minecraft:snowy_taiga": "2025-04-05 20:19:32 +0800",
       "minecraft:old_growth_birch_forest": "2025-03-23 17:11:17 +0800",
@@ -51,7 +53,8 @@
       "minecraft:meadow": "2025-03-12 02:43:46 +0800",
       "minecraft:savanna": "2025-03-08 16:47:42 +0800",
       "minecraft:plains": "2025-03-08 19:47:46 +0800",
-      "minecraft:jagged_peaks": "2025-03-25 18:10:04 +0800"
+      "minecraft:jagged_peaks": "2025-03-25 18:10:04 +0800",
+      "minecraft:pale_garden": "2025-04-05 23:35:24 +0800"
     },
     "done": false
   },
@@ -156,24 +159,28 @@
       "minecraft:pillager": "2025-03-11 23:30:00 +0800",
       "minecraft:blaze": "2025-03-18 02:21:57 +0800",
       "minecraft:skeleton": "2025-03-08 19:15:56 +0800",
+      "minecraft:ravager": "2025-04-06 00:01:32 +0800",
+      "minecraft:ghast": "2025-03-17 00:36:14 +0800",
+      "minecraft:hoglin": "2025-03-14 23:14:41 +0800",
+      "minecraft:guardian": "2025-03-23 03:04:55 +0800",
+      "minecraft:vindicator": "2025-04-04 23:15:11 +0800",
+      "minecraft:creaking": "2025-04-05 23:47:19 +0800",
+      "minecraft:magma_cube": "2025-03-14 23:12:52 +0800",
+      "minecraft:spider": "2025-03-10 01:18:01 +0800",
+      "minecraft:piglin_brute": "2025-03-30 15:47:32 +0800",
+      "minecraft:creeper": "2025-03-10 00:31:49 +0800",
+      "minecraft:evoker": "2025-04-05 23:21:42 +0800",
       "minecraft:phantom": "2025-03-24 02:31:45 +0800",
       "minecraft:zombified_piglin": "2025-03-18 02:28:59 +0800",
       "minecraft:witch": "2025-04-05 20:07:22 +0800",
       "minecraft:wither_skeleton": "2025-03-18 02:26:51 +0800",
-      "minecraft:ghast": "2025-03-17 00:36:14 +0800",
-      "minecraft:hoglin": "2025-03-14 23:14:41 +0800",
       "minecraft:shulker": "2025-04-03 00:24:53 +0800",
       "minecraft:cave_spider": "2025-03-10 22:43:28 +0800",
       "minecraft:piglin": "2025-03-14 23:54:27 +0800",
-      "minecraft:guardian": "2025-03-23 03:04:55 +0800",
-      "minecraft:vindicator": "2025-04-04 23:15:11 +0800",
       "minecraft:enderman": "2025-03-21 20:18:58 +0800",
       "minecraft:silverfish": "2025-03-27 23:06:07 +0800",
-      "minecraft:magma_cube": "2025-03-14 23:12:52 +0800",
-      "minecraft:spider": "2025-03-10 01:18:01 +0800",
-      "minecraft:piglin_brute": "2025-03-30 15:47:32 +0800",
+      "minecraft:vex": "2025-04-05 23:21:24 +0800",
       "minecraft:zombie": "2025-03-08 16:36:24 +0800",
-      "minecraft:creeper": "2025-03-10 00:31:49 +0800",
       "minecraft:drowned": "2025-03-12 01:54:47 +0800",
       "minecraft:zombie_villager": "2025-03-11 23:59:52 +0800"
     },
@@ -5248,6 +5255,162 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-04-05 19:52:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2025-04-05 23:22:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-04-05 22:49:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-04-05 22:49:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2025-04-05 23:36:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-05 23:22:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-04-05 23:43:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2025-04-05 23:43:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-05 23:48:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2025-04-05 23:22:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-06 00:05:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-04-06 00:16:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-05 23:48:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-04-05 23:22:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-04-05 23:08:01 +0800"
     },
     "done": true
   },
