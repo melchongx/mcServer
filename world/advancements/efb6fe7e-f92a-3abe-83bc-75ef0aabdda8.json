@@ -6014,15 +6014,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2025-04-05 23:22:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pale_oak_planks": {
     "criteria": {
       "has_log": "2025-04-05 23:35:56 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/resin_brick": {
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
     "criteria": {
-      "has_resin_clump": "2025-04-05 23:22:18 +0800"
+      "has_log": "2025-04-05 23:35:56 +0800"
     },
     "done": true
   },
@@ -6038,9 +6044,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pale_oak_wood": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_log": "2025-04-05 23:35:56 +0800"
+      "has_smithing_trim_template": "2025-04-06 18:23:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-04-06 18:23:56 +0800"
     },
     "done": true
   },
