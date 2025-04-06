@@ -4929,7 +4929,8 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-04-06 22:42:29 +0800"
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-04-06 22:42:29 +0800",
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2025-04-06 23:14:18 +0800"
     },
     "done": false
   },

@@ -1,11 +1,11 @@
-[17:21:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:21:13] [ServerMain/INFO]: Loaded 1370 recipes
-[17:21:13] [ServerMain/INFO]: Loaded 1481 advancements
-[17:21:14] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[17:21:14] [Server thread/INFO]: Loading properties
-[17:21:14] [Server thread/INFO]: Default game type: SURVIVAL
-[17:21:14] [Server thread/INFO]: Generating keypair
-[17:21:14] [Server console handler/ERROR]: Exception handling console input
+[23:09:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:09:49] [ServerMain/INFO]: Loaded 1370 recipes
+[23:09:49] [ServerMain/INFO]: Loaded 1481 advancements
+[23:09:50] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[23:09:50] [Server thread/INFO]: Loading properties
+[23:09:50] [Server thread/INFO]: Default game type: SURVIVAL
+[23:09:50] [Server thread/INFO]: Generating keypair
+[23:09:50] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
 	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
@@ -20,341 +20,71 @@ java.io.IOException: The handle is invalid
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
 	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
-[17:21:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:21:14] [Server thread/INFO]: Using default channel type
-[17:21:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:21:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:21:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:21:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:21:14] [Server thread/INFO]: Preparing level "world"
-[17:21:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:21:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[17:21:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[17:21:15] [Server thread/INFO]: Time elapsed: 1087 ms
-[17:21:15] [Server thread/INFO]: Done (1.454s)! For help, type "help"
-[17:22:36] [Server thread/INFO]: opalitez[/26.81.134.220:49873] logged in with entity id 141 at (-84.31876361199429, 131.0, -4.61366307057474)
-[17:22:36] [Server thread/INFO]: opalitez joined the game
-[17:22:44] [Server thread/INFO]: opalitez lost connection: Disconnected
-[17:22:44] [Server thread/INFO]: opalitez left the game
-[17:39:04] [Server thread/INFO]: bogartnani[/26.185.22.198:58286] logged in with entity id 430 at (-76.7804974948008, 128.0, -28.38228608531685)
-[17:39:04] [Server thread/INFO]: bogartnani joined the game
-[18:03:45] [Server thread/INFO]: opalitez[/26.81.134.220:50294] logged in with entity id 5110 at (-84.31876361199429, 131.0, -4.61366307057474)
-[18:03:45] [Server thread/INFO]: opalitez joined the game
-[18:05:49] [Server thread/INFO]: [Not Secure] <opalitez> san ka bry
-[18:05:54] [Server thread/INFO]: [Not Secure] <bogartnani> base
-[18:08:59] [Server thread/INFO]: [Not Secure] <opalitez> pwede ba lagyan prot 4 elytra
-[18:09:06] [Server thread/INFO]: [Not Secure] <bogartnani> deins
-[18:18:28] [Server thread/INFO]: [Not Secure] <opalitez> san kaw
-[18:18:35] [Server thread/INFO]: [Not Secure] <bogartnani> creeper
-[18:18:53] [Server thread/INFO]: [Not Secure] <bogartnani> penge ako isa creaking heart
-[18:18:56] [Server thread/INFO]: [Not Secure] <bogartnani> may ttry aq
-[18:19:33] [Server thread/INFO]: [Not Secure] <opalitez> ala ako dala
-[18:19:34] [Server thread/INFO]: [Not Secure] <opalitez> ahahaha
-[18:19:35] [Server thread/INFO]: [Not Secure] <opalitez> teka
-[18:19:54] [Server thread/INFO]: [Not Secure] <bogartnani> balik ako dyan sa base wait
-[18:21:39] [Server thread/INFO]: [Not Secure] <opalitez> dito
-[18:21:42] [Server thread/INFO]: [Not Secure] <opalitez> kumuha ka naba
-[18:21:44] [Server thread/INFO]: [Not Secure] <bogartnani> ay gago iba pala vex saka sentry
-[18:21:47] [Server thread/INFO]: [Not Secure] <bogartnani> na trim
-[18:23:02] [Server thread/INFO]: [Not Secure] <bogartnani> pa dupe vex
-[18:24:41] [Server thread/INFO]: [Not Secure] <bogartnani> penge cobble
-[18:25:58] [Server thread/INFO]: inshallah[/26.25.220.70:56434] logged in with entity id 14494 at (112.56036002974294, 250.0, -864.8445929336006)
-[18:25:58] [Server thread/INFO]: inshallah joined the game
-[18:26:14] [Server thread/INFO]: [Not Secure] <inshallah> san kayo
-[18:26:26] [Server thread/INFO]: [Not Secure] <bogartnani> trials
-[18:26:29] [Server thread/INFO]: [Not Secure] <bogartnani> chamber
-[18:26:36] [Server thread/INFO]: [Not Secure] <inshallah> legit
-[18:26:42] [Server thread/INFO]: [Not Secure] <opalitez> kailangan ng silk touch para sa ender??
-[18:26:45] [Server thread/INFO]: [Not Secure] <opalitez> chest
-[18:26:47] [Server thread/INFO]: [Not Secure] <bogartnani> jokes only
-[18:26:49] [Server thread/INFO]: [Not Secure] <bogartnani> oo
-[18:26:55] [Server thread/INFO]: [Not Secure] <inshallah> tatampo na ko e namue
-[18:27:09] [Server thread/INFO]: [Not Secure] <inshallah> halimaw ako mag tampo pre
-[18:27:13] [Server thread/INFO]: [Not Secure] <inshallah> nag ttransform
-[18:27:24] [Server thread/INFO]: [Not Secure] <inshallah> ang angas nung landing pad mo dito ah
-[18:27:25] [Server thread/INFO]: [Not Secure] <bogartnani> 'O'
-[18:27:28] [Server thread/INFO]: [Not Secure] <inshallah> pakyu bry
-[18:27:31] [Server thread/INFO]: [Not Secure] <inshallah> HAHHhahahahaha
-[18:27:43] [Server thread/INFO]: [Not Secure] <bogartnani> hahahahahahaha
-[18:28:17] [Server thread/INFO]: [Not Secure] <opalitez> may obsidian pa kayo?
-[18:28:23] [Server thread/INFO]: [Not Secure] <inshallah> dre gala daw sabi mav
-[18:28:26] [Server thread/INFO]: [Not Secure] <inshallah> rug
-[18:28:30] [Server thread/INFO]: [Not Secure] <opalitez> when ba
-[18:28:34] [Server thread/INFO]: [Not Secure] <inshallah> fri ata
-[18:28:39] [Server thread/INFO]: [Not Secure] <opalitez> g
-[18:28:47] [Server thread/INFO]: [Not Secure] <inshallah> si kla tues night naman nag aaya
-[18:28:48] [Server thread/INFO]: [Not Secure] <inshallah> HAHHAHHA
-[18:28:48] [Server thread/INFO]: [Not Secure] <opalitez> nang magkaalaman na
-[18:28:52] [Server thread/INFO]: [Not Secure] <opalitez> potangina HAHAHAHA
-[18:29:31] [Server thread/INFO]: [Not Secure] <bogartnani> ilan ba need mo
-[18:29:31] [Server thread/INFO]: MamaMo[/26.139.251.172:64038] logged in with entity id 15650 at (-42.97194942002962, 127.0, -22.51249998807907)
-[18:29:31] [Server thread/INFO]: MamaMo joined the game
-[18:29:31] [Server thread/INFO]: [Not Secure] <opalitez> pang ender chest lang
-[18:29:32] [Server thread/INFO]: [Not Secure] <inshallah> paano magkaron nung ulo bry
-[18:29:38] [Server thread/INFO]: [Not Secure] <bogartnani> dragon ba
-[18:29:40] [Server thread/INFO]: [Not Secure] <inshallah> oms
-[18:29:43] [Server thread/INFO]: [Not Secure] <opalitez> ebge pa
-[18:29:46] [Server thread/INFO]: [Not Secure] <bogartnani> sa end ship
-[18:29:51] [Server thread/INFO]: [Not Secure] <bogartnani> lagi meron
-[18:29:53] [Server thread/INFO]: [Not Secure] <bogartnani> nakakabit
-[18:29:56] [Server thread/INFO]: [Not Secure] <bogartnani> tingnan mo to
-[18:30:04] [Server thread/INFO]: [Not Secure] <inshallah> sayang di ko nakuha dun sa ship na nahanap ko
-[18:30:07] [Server thread/INFO]: [Not Secure] <inshallah> diko nakikita ahhaha
-[18:30:09] [Server thread/INFO]: [Not Secure] <opalitez> yan pala yung maingay ampota
-[18:30:38] [Server thread/INFO]: [Not Secure] <bogartnani> ay wait
-[18:30:45] [Server thread/INFO]: [Not Secure] <bogartnani> lagay ko sa labas hahah
-[18:30:45] [Server thread/INFO]: [Not Secure] <inshallah> gago
-[18:30:47] [Server thread/INFO]: [Not Secure] <inshallah> GAGO
-[18:30:55] [Server thread/INFO]: [Not Secure] <inshallah> PRE
-[18:31:04] [Server thread/INFO]: [Not Secure] <opalitez> bkit
-[18:31:15] [Server thread/INFO]: [Not Secure] <bogartnani> puta hahhahahhaha
-[18:31:24] [Server thread/INFO]: [Not Secure] <bogartnani> pano ka nagkasya dyan
-[18:31:31] [Server thread/INFO]: [Not Secure] <inshallah> sumuot ako nung naka elytra
-[18:32:25] [Server thread/INFO]: [Not Secure] <inshallah> gago pre
-[18:32:29] [Server thread/INFO]: [Not Secure] <inshallah> may groot sa bahay ni roi
-[18:32:32] [Server thread/INFO]: [Not Secure] <inshallah> frienddly ba yon
-[18:32:38] [Server thread/INFO]: [Not Secure] <inshallah> o hostile mob
-[18:32:41] [Server thread/INFO]: [Not Secure] <bogartnani> lezgo
-[18:33:09] [Server thread/INFO]: [Not Secure] <inshallah> ano ya n gago
-[18:33:13] [Server thread/INFO]: [Not Secure] <bogartnani> gago si herovbrine
-[18:33:32] [Server thread/INFO]: [Not Secure] <inshallah> gago
-[18:33:33] [Server thread/INFO]: [Not Secure] <inshallah> hahhahahha
-[18:33:38] [Server thread/INFO]: [Not Secure] <bogartnani> talikod ka mel
-[18:33:45] [Server thread/INFO]: [Not Secure] <inshallah> parang weeping angel ba yan
-[18:33:48] [Server thread/INFO]: [Not Secure] <bogartnani> oo hahahha
-[18:33:53] [Server thread/INFO]: [Not Secure] <inshallah> HAHHAHHAHHA
-[18:33:56] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHHAHAHHAHA
-[18:33:57] [Server thread/INFO]: [Not Secure] <inshallah> ISA PA
-[18:34:01] [Server thread/INFO]: [Not Secure] <inshallah> WAG GAGE
-[18:34:03] [Server thread/INFO]: [Not Secure] <inshallah> KULONG NATIN
-[18:34:34] [Server thread/INFO]: [Not Secure] <inshallah> name tag ko
-[18:34:39] [Server thread/INFO]: [Not Secure] <bogartnani> mamamatay sa umaga yan
-[18:34:44] [Server thread/INFO]: [Not Secure] <inshallah> underground?
-[18:34:48] [Server thread/INFO]: [Not Secure] <bogartnani> di rin pwede
-[18:34:58] [Server thread/INFO]: [Not Secure] <inshallah> ay sayang
-[18:35:07] [Server thread/INFO]: [Not Secure] <MamaMo> mel may totem ka
-[18:35:11] [Server thread/INFO]: [Not Secure] <inshallah> meron pre
-[18:35:17] [Server thread/INFO]: [Not Secure] <MamaMo> oks
-[18:35:18] [Server thread/INFO]: [Not Secure] <inshallah> bilin mo sakin 3 stacks eme
-[18:35:23] [Server thread/INFO]: [Not Secure] <MamaMo> bigyan sana kita eh
-[18:35:26] [Server thread/INFO]: [Not Secure] <MamaMo> meron na pla
-[18:35:29] [Server thread/INFO]: [Not Secure] <inshallah> hasdhahhhaah tanginamo
-[18:35:31] [Server thread/INFO]: [Not Secure] <inshallah> wala pa ko
-[18:35:37] [Server thread/INFO]: [Not Secure] <inshallah> di ako kasama mag woodland kagabi eh
-[18:35:50] [Server thread/INFO]: [Not Secure] <inshallah> aga nakatulog nagloko server nung mga 10 e
-[18:36:04] [Server thread/INFO]: [Not Secure] <bogartnani> gago ka
-[18:36:07] [Server thread/INFO]: [Not Secure] <inshallah> AY
-[18:36:14] [Server thread/INFO]: [Not Secure] <inshallah> ano yon pre
-[18:36:20] [Server thread/INFO]: [Not Secure] <bogartnani> pang resin natin hahahha
-[18:36:24] [Server thread/INFO]: [Not Secure] <bogartnani> kailangan silk touch e
-[18:36:27] [Server thread/INFO]: [Not Secure] <inshallah> mbmb
-[18:36:30] [Server thread/INFO]: [Not Secure] <inshallah> wala na ba yon
-[18:36:33] [Server thread/INFO]: [Not Secure] <bogartnani> meron ka pa ba dre
-[18:36:36] [Server thread/INFO]: [Not Secure] <bogartnani> heart
-[18:37:05] [Server thread/INFO]: [Not Secure] <bogartnani> tangina
-[18:37:13] [Server thread/INFO]: [Not Secure] <bogartnani> may kumuha nung isang dragon head
-[18:37:26] [Server thread/INFO]: [Not Secure] <inshallah> may nakita ako na suot suot HAHAHHAA
-[18:37:37] [Server thread/INFO]: [Not Secure] <bogartnani> susunugin ko bahay mo dre pag di mo binalik
-[18:38:23] [Server thread/INFO]: [Not Secure] <inshallah> patay yung bangungot sa thorns taena
-[18:39:58] [Server thread/INFO]: [Not Secure] <bogartnani> trials na
-[18:40:24] [Server thread/INFO]: [Not Secure] <inshallah> k lang ba maya maya
-[18:40:28] [Server thread/INFO]: [Not Secure] <inshallah> mabibitin bulacan mode ako e
-[18:40:30] [Server thread/INFO]: [Not Secure] <bogartnani> poide naman
-[18:40:35] [Server thread/INFO]: [Not Secure] <inshallah> mga 9 para dire diretso
-[18:40:37] [Server thread/INFO]: [Not Secure] <bogartnani> pag kumpleto maya g
-[18:41:04] [Server thread/INFO]: [Not Secure] <inshallah> pag ba namatay lang yung creeper sa fall dmg walang loot
-[18:41:12] [Server thread/INFO]: [Not Secure] <bogartnani> meron pa rin
-[18:41:18] [Server thread/INFO]: [Not Secure] <bogartnani> pwede lagyan campfire yan
-[18:41:24] [Server thread/INFO]: [Not Secure] <inshallah> y not para auto pre
-[18:41:37] [Server thread/INFO]: [Not Secure] <inshallah> tas nether portal pang chunk loader?
-[18:41:39] [Server thread/INFO]: [Not Secure] <inshallah> o bedrock lang yon
-[18:41:50] [Server thread/INFO]: [Not Secure] <bogartnani> pwede chunk loader na ender pearl lang
-[18:42:18] [Server thread/INFO]: [Not Secure] <inshallah> soulsand tsaka water lang yon diba
-[18:42:18] [Server thread/INFO]: [Not Secure] <inshallah> oms
-[18:42:19] [Server thread/INFO]: [Not Secure] <bogartnani> isword na lang hindi afk
-[18:42:27] [Server thread/INFO]: [Not Secure] <inshallah> okicakes po bb :>>>
-[18:42:34] [Server thread/INFO]: [Not Secure] <bogartnani> ou mga 5 block deep na bubble column
-[18:42:48] [Server thread/INFO]: [Not Secure] <bogartnani> gawa ako campfire
-[18:44:18] [Server thread/INFO]: [Not Secure] <inshallah> AHHAHAHHA
-[18:46:09] [Server thread/INFO]: [Not Secure] <inshallah> pwede ba yung wall bry
-[18:46:19] [Server thread/INFO]: [Not Secure] <inshallah> wall na may water
-[18:46:35] [Server thread/INFO]: [Not Secure] <bogartnani> di ko alam hahhaha
-[18:46:40] [Server thread/INFO]: [Not Secure] <inshallah> para sa sapulan nalang
-[18:46:55] [Server thread/INFO]: [Not Secure] <bogartnani> ay gago
-[18:47:05] [Server thread/INFO]: [Not Secure] <bogartnani> baka pala walang mag spawn
-[18:47:12] [Server thread/INFO]: [Not Secure] <bogartnani> kasi liliwanag
-[18:47:16] [Server thread/INFO]: [Not Secure] <inshallah> pag?
-[18:47:18] [Server thread/INFO]: [Not Secure] <inshallah> ay
-[18:47:21] [Server thread/INFO]: [Not Secure] <inshallah> oo nga
-[18:47:54] [Server thread/INFO]: [Not Secure] <inshallah> dre paki balik 3 shulker hehe
-[18:47:56] [Server thread/INFO]: [Not Secure] <inshallah> l8ter
-[18:48:12] [Server thread/INFO]: [Not Secure] <inshallah> mag grind ako deepslate pang bahay maya eh
-[18:48:35] [Server thread/INFO]: [Not Secure] <inshallah> ang bilis magutom sa hard
-[18:48:36] [Server thread/INFO]: [Not Secure] <bogartnani> mabagal spawn
-[18:48:50] [Server thread/INFO]: [Not Secure] <inshallah> ay naka norm lang pala to
-[18:50:07] [Server thread/INFO]: [Not Secure] <opalitez> HAHAHAHA
-[18:50:12] [Server thread/INFO]: [Not Secure] <opalitez> lupet gago
-[18:51:27] [Server thread/INFO]: [Not Secure] <inshallah> MB
-[18:52:16] [Server thread/INFO]: [Not Secure] <inshallah> tangina HAHHAHAHHA
-[18:52:19] [Server thread/INFO]: [Not Secure] <inshallah> drive by
-[18:52:28] [Server thread/INFO]: [Not Secure] <opalitez> height limit na
-[18:54:35] [Server thread/INFO]: [Not Secure] <inshallah> mamamataay sa thors yan dr
-[18:54:39] [Server thread/INFO]: [Not Secure] <inshallah> 1 hit
-[18:55:16] [Server thread/INFO]: [Not Secure] <inshallah> namamana yung isang bangungot HAHHAHAH
-[18:57:31] [Server thread/INFO]: [Not Secure] <opalitez> sakit je
-[18:57:37] [Server thread/INFO]: [Not Secure] <MamaMo> ou
-[18:57:39] [Server thread/INFO]: [Not Secure] <bogartnani> lalaglag HAHAHAH
-[18:57:44] [Server thread/INFO]: [Not Secure] <MamaMo> strength bayan
-[18:57:44] [Server thread/INFO]: [Not Secure] <opalitez> HAHAHAHAw
-[18:57:50] [Server thread/INFO]: [Not Secure] <opalitez> power v lang
-[18:57:56] [Server thread/INFO]: [Not Secure] <opalitez> naka elytra ka e
-[18:59:54] [Server thread/INFO]: [Not Secure] <bogartnani> HAHAHAHAH
-[18:59:57] [Server thread/INFO]: [Not Secure] <bogartnani> sakit ah
-[19:00:48] [Server thread/INFO]: [Not Secure] <MamaMo> gg mua
-[19:00:49] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[19:00:49] [Server thread/INFO]: MamaMo left the game
-[19:00:55] [Server thread/INFO]: [Not Secure] <opalitez> maganda ata naka ender chest idot
-[19:00:58] [Server thread/INFO]: [Not Secure] <opalitez> or di
-[19:01:09] [Server thread/INFO]: [Not Secure] <opalitez> sa creeper farm
-[19:01:27] [Server thread/INFO]: opalitez lost connection: Disconnected
-[19:01:27] [Server thread/INFO]: opalitez left the game
-[19:02:06] [Server thread/INFO]: [Not Secure] <bogartnani> ggs rin muna ko
-[19:02:08] [Server thread/INFO]: [Not Secure] <bogartnani> maya ulit
-[19:02:09] [Server thread/INFO]: [Not Secure] <inshallah> sames
-[19:02:11] [Server thread/INFO]: [Not Secure] <inshallah> maya ult
-[19:02:12] [Server thread/INFO]: inshallah lost connection: Disconnected
-[19:02:12] [Server thread/INFO]: inshallah left the game
-[19:02:12] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[19:02:12] [Server thread/INFO]: bogartnani left the game
-[21:02:12] [Server thread/INFO]: Server empty for 7200 seconds, pausing
-[22:09:51] [Server thread/INFO]: MamaMo[/26.139.251.172:64144] logged in with entity id 29387 at (110.9921794524257, 250.0, -865.7045947807061)
-[22:09:51] [Server thread/INFO]: MamaMo joined the game
-[22:09:54] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[22:09:54] [Server thread/INFO]: MamaMo left the game
-[22:11:27] [Server thread/INFO]: MamaMo[/26.139.251.172:64204] logged in with entity id 29426 at (110.9921794524257, 250.0, -865.7045947807061)
-[22:11:27] [Server thread/INFO]: MamaMo joined the game
-[22:14:25] [Server thread/INFO]: opalitez[/26.81.134.220:51164] logged in with entity id 29747 at (109.53139914176641, 250.0, -862.9196152652847)
-[22:14:25] [Server thread/INFO]: opalitez joined the game
-[22:15:43] [Server thread/INFO]: inshallah[/26.25.220.70:57070] logged in with entity id 29840 at (-37.06815786732742, 144.0, -8.063451668861473)
-[22:15:43] [Server thread/INFO]: inshallah joined the game
-[22:19:29] [Server thread/INFO]: [Not Secure] <inshallah> that's my supervisor talaga
-[22:19:34] [Server thread/INFO]: [Not Secure] <inshallah> sunday 9pm nag eemail
-[22:23:26] [Server thread/INFO]: [Not Secure] <MamaMo> tara
-[22:23:29] [Server thread/INFO]: [Not Secure] <opalitez> WHERE
-[22:23:31] [Server thread/INFO]: [Not Secure] <inshallah> wait c bry
-[22:23:42] [Server thread/INFO]: [Not Secure] <inshallah> trial b
-[22:23:48] [Server thread/INFO]: [Not Secure] <MamaMo> de
-[22:23:57] [Server thread/INFO]: [Not Secure] <MamaMo> warden dre
-[22:24:01] [Server thread/INFO]: [Not Secure] <inshallah> sama
-[22:24:02] [Server thread/INFO]: [Not Secure] <MamaMo> sa maluwang
-[22:24:05] [Server thread/INFO]: [Not Secure] <MamaMo> tara
-[22:24:07] [Server thread/INFO]: [Not Secure] <inshallah> wait
-[22:24:18] [Server thread/INFO]: [Not Secure] <opalitez> g
-[22:24:22] [Server thread/INFO]: [Not Secure] <inshallah> pabalik na
-[22:24:23] [Server thread/INFO]: [Not Secure] <MamaMo> kuha lng arrows
-[22:24:27] [Server thread/WARN]: inshallah moved too quickly! -4.153005359796111,7.785457027118412,15.197284159533638
-[22:25:47] [Server thread/INFO]: [Not Secure] <inshallah> dre
-[22:25:49] [Server thread/INFO]: [Not Secure] <inshallah> shulker
-[22:25:58] [Server thread/INFO]: [Not Secure] <opalitez> bakt
-[22:26:10] [Server thread/INFO]: [Not Secure] <opalitez> akin na lang yung isa
-[22:26:14] [Server thread/INFO]: [Not Secure] <inshallah> egs
-[22:26:17] [Server thread/INFO]: [Not Secure] <inshallah> ahsdhahdhaha
-[22:26:40] [Server thread/INFO]: [Not Secure] <opalitez> nawawala yung isa gagi
-[22:27:24] [Server thread/INFO]: [Not Secure] <opalitez> nasan ka
-[22:27:47] [Server thread/INFO]: [Not Secure] <inshallah> san kayo
-[22:27:50] [Server thread/INFO]: [Not Secure] <opalitez> bahay mo
-[22:27:50] [Server thread/INFO]: [Not Secure] <inshallah> ay
-[22:27:53] [Server thread/INFO]: [Not Secure] <inshallah> sige wait
-[22:27:55] [Server thread/INFO]: kumi666[/26.108.248.240:60217] logged in with entity id 35974 at (-35.55010286026846, 126.0, -9.59242395494418)
-[22:27:55] [Server thread/INFO]: kumi666 joined the game
-[22:27:57] [Server thread/INFO]: [Not Secure] <inshallah> palapag nalang jan kahit san
-[22:28:02] [Server thread/INFO]: [Not Secure] <inshallah> lapag as lbock
-[22:28:19] [Server thread/INFO]: [Not Secure] <MamaMo> ra
-[22:28:36] [Server thread/INFO]: [Not Secure] <kumi666> angas
-[22:28:47] [Server thread/INFO]: [Not Secure] <inshallah> je
-[22:28:53] [Server thread/INFO]: [Not Secure] <inshallah> bato ka ng ender pearl dito
-[22:28:59] [Server thread/INFO]: [Not Secure] <MamaMo> lam ko yan
-[22:29:11] [Server thread/INFO]: [Not Secure] <inshallah> hahahah
-[22:29:16] [Server thread/INFO]: [Not Secure] <opalitez> ano yon gago
-[22:29:18] [Server thread/INFO]: [Not Secure] <MamaMo> nuyun
-[22:29:49] [Server thread/INFO]: [Not Secure] <opalitez> teka
-[22:29:51] [Server thread/INFO]: [Not Secure] <opalitez> minecart
-[22:29:54] [Server thread/INFO]: [Not Secure] <inshallah> san ba warden
-[22:29:57] [Server thread/INFO]: [Not Secure] <inshallah> sa cave ko>?
-[22:30:00] [Server thread/INFO]: [Not Secure] <MamaMo> ou
-[22:30:55] [Server thread/INFO]: [Not Secure] <opalitez> hahahaha
-[22:31:00] [Server thread/INFO]: [Not Secure] <opalitez> ahahahahhaa
-[22:31:02] [Server thread/INFO]: [Not Secure] <opalitez> tanga
-[22:31:20] [Server thread/INFO]: [Not Secure] <opalitez> wag na pls
-[22:31:37] [Server thread/INFO]: [Not Secure] <inshallah> kinuha pa talaga
-[22:31:38] [Server thread/INFO]: [Not Secure] <MamaMo> cart ko
-[22:31:46] [Server thread/INFO]: [Not Secure] <inshallah> eto
-[22:32:08] [Server thread/INFO]: [Not Secure] <inshallah> meron dito extra sa chest
-[22:33:04] [Server thread/INFO]: [Not Secure] <inshallah> gago
-[22:33:10] [Server thread/INFO]: [Not Secure] <inshallah> tkelan pa nagka rails dito
-[22:33:21] [Server thread/INFO]: [Not Secure] <MamaMo> si roi gumawa nyan
-[22:34:03] [Server thread/INFO]: [Not Secure] <MamaMo> ayaw magtuloy
-[22:34:59] [Server thread/INFO]: [Not Secure] <MamaMo> tagal ni bry
-[22:35:10] [Server thread/INFO]: [Not Secure] <opalitez> sino yon
-[22:35:50] [Server thread/WARN]: kumi666 moved too quickly! 9.869532388614928,-1.1661092609382138,-1.3008973151937653
-[22:36:05] [Server thread/WARN]: kumi666 moved too quickly! -8.700757791616311,5.0,-1.2820114594730398
-[22:37:31] [Server thread/INFO]: [Not Secure] <inshallah> di na ba gagana yasnd
-[22:38:43] [Server thread/INFO]: [Not Secure] <opalitez> sakit hahaha
-[22:38:52] [Server thread/INFO]: [Not Secure] <inshallah> 3 sinalo mo na sonic?
-[22:38:55] [Server thread/INFO]: [Not Secure] <opalitez> oo
-[22:38:58] [Server thread/INFO]: [Not Secure] <inshallah> AHHAAHHAHA
-[22:38:58] [Server thread/INFO]: [Not Secure] <opalitez> natatangke ng golden apple pre
-[22:39:02] [Server thread/INFO]: [Not Secure] <opalitez> kain lang nang kain hahaha
-[22:39:40] [Server thread/INFO]: [Not Secure] <kumi666> san endgate pre
-[22:40:16] [Server thread/INFO]: opalitez was slain by Warden
-[22:40:23] [Server thread/INFO]: [Not Secure] <opalitez> HAHAHAHAHAHA
-[22:40:25] [Server thread/INFO]: [Not Secure] <MamaMo> kalimutan ko coords
-[22:40:31] [Server thread/INFO]: [Not Secure] <MamaMo> pero east
-[22:40:34] [Server thread/INFO]: [Not Secure] <opalitez> patayu mo mel
-[22:40:35] [Server thread/INFO]: inshallah lost connection: Disconnected
-[22:40:35] [Server thread/INFO]: inshallah left the game
-[22:40:45] [Server thread/INFO]: [Not Secure] <opalitez> magdedespwan gamit ko
-[22:41:40] [Server thread/INFO]: inshallah[/26.25.220.70:57186] logged in with entity id 40133 at (-177.514983099458, -54.0, 212.13384697711692)
-[22:41:41] [Server thread/INFO]: inshallah joined the game
-[22:41:58] [Server thread/WARN]: MamaMo moved too quickly! -7.773183400239169,1.0,6.554890191772296
-[22:42:00] [Server thread/INFO]: inshallah lost connection: Disconnected
-[22:42:00] [Server thread/INFO]: inshallah left the game
-[22:42:18] [Server thread/INFO]: opalitez lost connection: Disconnected
-[22:42:18] [Server thread/INFO]: opalitez left the game
-[22:42:24] [Server thread/INFO]: [Not Secure] <kumi666> napulot nita daw gamit mo dre
-[22:42:29] [Server thread/INFO]: MamaMo has made the advancement [Crafting a New Look]
-[22:42:44] [Server thread/INFO]: opalitez[/26.81.134.220:51252] logged in with entity id 40506 at (-119.42831232879378, -51.0, 148.30000001192093)
-[22:42:44] [Server thread/INFO]: opalitez joined the game
-[22:42:51] [Server thread/INFO]: [Not Secure] <kumi666> napulot daw ni mel
-[22:43:01] [Server thread/INFO]: opalitez lost connection: Disconnected
-[22:43:01] [Server thread/INFO]: opalitez left the game
-[22:43:18] [Server thread/INFO]: inshallah[/26.25.220.70:57191] logged in with entity id 40762 at (-139.06665893512385, -54.0, 184.56603658422307)
-[22:43:18] [Server thread/INFO]: inshallah joined the game
-[22:44:48] [Server thread/INFO]: opalitez[/26.81.134.220:51260] logged in with entity id 41818 at (-98.60765471784491, -43.0, 152.59950508020822)
-[22:44:48] [Server thread/INFO]: opalitez joined the game
-[22:45:36] [Server thread/INFO]: bogartnani[/26.185.22.198:50814] logged in with entity id 42352 at (109.80119644205861, 250.0, -862.9639010758267)
-[22:45:36] [Server thread/INFO]: bogartnani joined the game
-[22:46:19] [Server thread/INFO]: [Not Secure] <opalitez> commit ko muna
-[22:46:21] [Server thread/INFO]: [Not Secure] <opalitez> disconnect
-[22:46:23] [Server thread/INFO]: kumi666 lost connection: Disconnected
-[22:46:23] [Server thread/INFO]: kumi666 left the game
-[22:46:23] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[22:46:23] [Server thread/INFO]: bogartnani left the game
-[22:46:24] [Server thread/INFO]: [Not Secure] <opalitez> lahat
-[22:46:25] [Server thread/INFO]: inshallah lost connection: Disconnected
-[22:46:25] [Server thread/INFO]: inshallah left the game
-[22:46:25] [Server thread/INFO]: [Not Secure] <opalitez> now
-[22:46:28] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[22:46:28] [Server thread/INFO]: MamaMo left the game
-[22:46:30] [Server thread/INFO]: opalitez lost connection: Disconnected
-[22:46:30] [Server thread/INFO]: opalitez left the game
-[22:47:07] [Server thread/INFO]: Stopping server
-[22:47:07] [Server thread/INFO]: Saving players
-[22:47:07] [Server thread/INFO]: Saving worlds
-[22:47:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:47:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:47:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:47:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:09:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:09:50] [Server thread/INFO]: Using default channel type
+[23:09:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:09:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:09:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:09:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:09:50] [Server thread/INFO]: Preparing level "world"
+[23:09:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:09:51] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:09:51] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[23:09:51] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[23:09:52] [Server thread/INFO]: Time elapsed: 1353 ms
+[23:09:52] [Server thread/INFO]: Done (1.646s)! For help, type "help"
+[23:10:04] [Server thread/INFO]: kumi666[/26.108.248.240:60297] logged in with entity id 132 at (581.6999999880791, 64.0, 109.67120290025237)
+[23:10:04] [Server thread/INFO]: kumi666 joined the game
+[23:10:06] [Server thread/INFO]: inshallah[/26.25.220.70:57297] logged in with entity id 180 at (-45.5, 68.06093750000026, 58.58906249999974)
+[23:10:06] [Server thread/INFO]: inshallah joined the game
+[23:10:20] [Server thread/INFO]: opalitez[/26.81.134.220:51383] logged in with entity id 759 at (-89.90708438639778, -50.0, 177.97498151644294)
+[23:10:20] [Server thread/INFO]: opalitez joined the game
+[23:10:21] [Server thread/INFO]: bogartnani[/26.185.22.198:50970] logged in with entity id 767 at (110.12084435992952, 250.0, -862.4527292902866)
+[23:10:21] [Server thread/INFO]: bogartnani joined the game
+[23:10:29] [Server thread/INFO]: MamaMo[/26.139.251.172:64574] logged in with entity id 964 at (-47.94258583651216, 119.0, -9.658685779929877)
+[23:10:29] [Server thread/INFO]: MamaMo joined the game
+[23:13:07] [Server thread/WARN]: inshallah moved too quickly! 17.589793580517153,-0.1353980181144152,2.3988482483289317
+[23:13:44] [Server thread/WARN]: inshallah moved too quickly! 15.173972363122402,-0.8205763637157162,8.837418923254205
+[23:13:47] [Server thread/WARN]: bogartnani moved too quickly! -0.4132479290895219,-2.2416379459384927,17.956548632346994
+[23:14:03] [Server thread/WARN]: bogartnani moved too quickly! -4.297338293631782,-2.2125805505095,17.173748748649075
+[23:14:19] [Server thread/WARN]: bogartnani moved too quickly! -8.039696761980986,-1.5315245595798501,16.55522163128751
+[23:18:31] [Server thread/INFO]: inshallah lost connection: Disconnected
+[23:18:31] [Server thread/INFO]: inshallah left the game
+[23:18:37] [Server thread/INFO]: inshallah[/26.25.220.70:57324] logged in with entity id 10520 at (-63.82383437966674, -50.0, 179.9966178390443)
+[23:18:37] [Server thread/INFO]: inshallah joined the game
+[23:18:43] [Server thread/WARN]: kumi666 moved too quickly! -9.009542419615713,1.188367361141573,4.640477956465936
+[23:18:50] [Server thread/WARN]: kumi666 moved too quickly! -8.725556581523861,-4.312635602194575,2.9613302963295762
+[23:19:56] [Server thread/INFO]: kumi666 has reached the goal [Sky's the Limit]
+[23:21:26] [Server thread/WARN]: kumi666 moved too quickly! 9.937551477689986,-3.828867993957516,0.8124818137380103
+[23:21:56] [Server thread/INFO]: inshallah lost connection: Disconnected
+[23:21:56] [Server thread/INFO]: inshallah left the game
+[23:23:01] [Server thread/INFO]: kumi666 has made the advancement [What a Deal!]
+[23:23:14] [Server thread/INFO]: inshallah[/26.25.220.70:57368] logged in with entity id 12806 at (-48.19499347541887, 119.0, -10.205442904543622)
+[23:23:14] [Server thread/INFO]: inshallah joined the game
+[23:24:15] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[23:24:15] [Server thread/INFO]: MamaMo left the game
+[23:24:58] [Server thread/INFO]: MamaMo[/26.139.251.172:64631] logged in with entity id 13026 at (-43.140899701089154, 127.0, -24.16701791652431)
+[23:24:58] [Server thread/INFO]: MamaMo joined the game
+[23:31:27] [Server thread/WARN]: inshallah moved too quickly! -12.930400911148553,-1.0171730331731226,11.941098293736339
+[23:31:54] [Server thread/WARN]: kumi666 moved too quickly! 17.40821598707141,-0.16395303472029354,-3.201200473840075
+[23:32:18] [Server thread/WARN]: kumi666 moved too quickly! 6.201892112835151,-5.088983671903918,15.85013140202409
+[23:32:25] [Server thread/INFO]: opalitez lost connection: Disconnected
+[23:32:25] [Server thread/INFO]: opalitez left the game
+[23:32:26] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[23:32:26] [Server thread/INFO]: bogartnani left the game
+[23:32:36] [Server thread/INFO]: kumi666 lost connection: Disconnected
+[23:32:36] [Server thread/INFO]: kumi666 left the game
+[23:32:36] [Server thread/INFO]: inshallah lost connection: Disconnected
+[23:32:36] [Server thread/INFO]: inshallah left the game
+[23:32:36] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[23:32:36] [Server thread/INFO]: MamaMo left the game
+[23:32:39] [Server thread/INFO]: Stopping server
+[23:32:39] [Server thread/INFO]: Saving players
+[23:32:39] [Server thread/INFO]: Saving worlds
+[23:32:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:32:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:32:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:32:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
