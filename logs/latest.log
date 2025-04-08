@@ -1,49 +1,134 @@
-[16:20:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:20:57] [ServerMain/INFO]: Loaded 1370 recipes
-[16:20:57] [ServerMain/INFO]: Loaded 1481 advancements
-[16:20:58] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[16:20:58] [Server thread/INFO]: Loading properties
-[16:20:58] [Server thread/INFO]: Default game type: SURVIVAL
-[16:20:58] [Server thread/INFO]: Generating keypair
-[16:20:58] [Server console handler/ERROR]: Exception handling console input
+[21:59:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:59:48] [ServerMain/INFO]: Loaded 1370 recipes
+[21:59:48] [ServerMain/INFO]: Loaded 1481 advancements
+[21:59:49] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[21:59:49] [Server thread/INFO]: Loading properties
+[21:59:49] [Server thread/INFO]: Default game type: SURVIVAL
+[21:59:49] [Server thread/INFO]: Generating keypair
+[21:59:49] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
-	at java.base/java.lang.System$In.read(System.java:1849) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
-	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:175) ~[?:?]
-	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:328) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:2252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:190) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
 	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
-[16:20:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:20:58] [Server thread/INFO]: Using default channel type
-[16:20:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:20:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:20:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:20:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:20:58] [Server thread/INFO]: Preparing level "world"
-[16:20:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:21:00] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:21:00] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:21:00] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:21:00] [Server thread/INFO]: Time elapsed: 1416 ms
-[16:21:00] [Server thread/INFO]: Done (1.824s)! For help, type "help"
-[16:22:37] [Server thread/INFO]: opalitez[/26.81.134.220:56614] logged in with entity id 141 at (-85.33680459272571, 131.0, -2.3003241364498423)
-[16:22:37] [Server thread/INFO]: opalitez joined the game
-[16:59:53] [Server thread/INFO]: opalitez lost connection: Disconnected
-[16:59:53] [Server thread/INFO]: opalitez left the game
-[17:00:01] [Server thread/INFO]: Stopping server
-[17:00:01] [Server thread/INFO]: Saving players
-[17:00:01] [Server thread/INFO]: Saving worlds
-[17:00:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:00:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:00:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:59:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:59:49] [Server thread/INFO]: Using default channel type
+[21:59:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:59:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:59:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:59:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:59:49] [Server thread/INFO]: Preparing level "world"
+[21:59:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:59:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:59:50] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:59:50] [Server thread/INFO]: Time elapsed: 1011 ms
+[21:59:50] [Server thread/INFO]: Done (1.297s)! For help, type "help"
+[22:03:26] [Server thread/INFO]: inshallah[/26.25.220.70:61700] logged in with entity id 141 at (-90.9151518965951, 128.0, -7.313617967475259)
+[22:03:26] [Server thread/INFO]: inshallah joined the game
+[22:05:00] [Server thread/INFO]: inshallah lost connection: Disconnected
+[22:05:00] [Server thread/INFO]: inshallah left the game
+[22:12:07] [Server thread/INFO]: bogartnani[/26.185.22.198:51914] logged in with entity id 1677 at (-79.51087074702555, 127.9375, -30.475458136118235)
+[22:12:07] [Server thread/INFO]: bogartnani joined the game
+[22:19:06] [Server thread/WARN]: bogartnani moved too quickly! 9.425021474043888,-1.1943213025709412,-15.774733274959772
+[22:29:36] [Server thread/INFO]: opalitez[/26.81.134.220:63726] logged in with entity id 10979 at (-79.92522284750109, 131.0, -5.374695414105701)
+[22:29:36] [Server thread/INFO]: opalitez joined the game
+[22:29:46] [Server thread/INFO]: [Not Secure] <opalitez> where you at nigger
+[22:29:50] [Server thread/INFO]: [Not Secure] <bogartnani> exxploring
+[22:30:12] [Server thread/INFO]: [Not Secure] <bogartnani> desert village somewhere
+[22:30:15] [Server thread/INFO]: [Not Secure] <opalitez> aint no way
+[22:30:39] [Server thread/INFO]: [Not Secure] <bogartnani> gago
+[22:30:45] [Server thread/INFO]: [Not Secure] <bogartnani> may katabi temple
+[22:30:49] [Server thread/INFO]: [Not Secure] <bogartnani> desert temple
+[22:30:53] [Server thread/INFO]: [Not Secure] <opalitez> san ka
+[22:30:54] [Server thread/INFO]: [Not Secure] <opalitez> sama
+[22:30:55] [Server thread/INFO]: [Not Secure] <bogartnani> di ko napansin kala ko part ng village
+[22:30:56] [Server thread/INFO]: [Not Secure] <bogartnani> wait
+[22:31:09] [Server thread/INFO]: [Not Secure] <bogartnani> 1123, -2357
+[22:31:21] [Server thread/INFO]: [Not Secure] <bogartnani> may trim din dito
+[22:31:29] [Server thread/INFO]: [Not Secure] <bogartnani> dala ka nga brush
+[22:31:43] [Server thread/INFO]: [Not Secure] <bogartnani> may artifacts din dito alam ko e
+[22:32:40] [Server thread/INFO]: [Not Secure] <bogartnani> tulog pls
+[22:33:53] [Server thread/INFO]: [Not Secure] <bogartnani> dc tayo
+[22:33:55] [Server thread/WARN]: opalitez moved too quickly! 9.053902004088513,-2.1438262899000904,-15.311128125494633
+[22:34:24] [Server thread/WARN]: opalitez moved too quickly! 6.791582580271552,-2.8661714235883267,-16.130783154261962
+[22:37:30] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=1162, y=55, z=-2374} ji{x=1164, y=52, z=-2374}
+[22:37:41] [Server thread/INFO]: MamaMo[/26.139.251.172:58113] logged in with entity id 19326 at (-46.67533359725085, 127.0625, -25.421424760101697)
+[22:37:41] [Server thread/INFO]: MamaMo joined the game
+[22:38:18] [Server thread/INFO]: MamaMo lost connection: Timed out
+[22:38:18] [Server thread/INFO]: MamaMo left the game
+[22:39:16] [Server thread/INFO]: MamaMo[/26.139.251.172:58182] logged in with entity id 19862 at (-46.67533359725085, 127.0625, -25.421424760101697)
+[22:39:16] [Server thread/INFO]: MamaMo joined the game
+[22:40:02] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[22:40:02] [Server thread/INFO]: MamaMo left the game
+[22:41:11] [Server thread/INFO]: MamaMo[/26.139.251.172:58234] logged in with entity id 21173 at (-46.67533359725085, 127.0625, -25.421424760101697)
+[22:41:11] [Server thread/INFO]: MamaMo joined the game
+[22:43:32] [Server thread/WARN]: bogartnani moved too quickly! 6.053792281529695,-6.117436541558817,16.069897959444916
+[22:45:16] [Server thread/WARN]: opalitez moved too quickly! -8.482622600233753,4.813466729245604,14.886305214146887
+[22:45:33] [Server thread/WARN]: opalitez moved too quickly! -3.735335654042956,-1.9393965975407923,17.636594522999985
+[22:45:40] [Server thread/WARN]: opalitez moved too quickly! -6.629146974426476,0.23399824389596802,17.03800113193347
+[22:46:29] [Server thread/WARN]: MamaMo moved too quickly! -0.03372216625859403,14.64913085289841,-10.549778188737037
+[22:51:35] [Server thread/INFO]: inshallah[/26.25.220.70:64464] logged in with entity id 41037 at (-31.77883461675235, 125.9375, -4.563009090600683)
+[22:51:35] [Server thread/INFO]: inshallah joined the game
+[22:52:51] [Server thread/INFO]: [Not Secure] <bogartnani> 2800, -33300
+[22:53:00] [Server thread/INFO]: [Not Secure] <bogartnani> -3300
+[22:58:24] [Server thread/INFO]: inshallah lost connection: Disconnected
+[22:58:24] [Server thread/INFO]: inshallah left the game
+[22:58:33] [Server thread/INFO]: inshallah[/26.25.220.70:64494] logged in with entity id 55488 at (2836.084255191701, 123.0625, -3545.544893832222)
+[22:58:33] [Server thread/INFO]: inshallah joined the game
+[23:00:45] [Server thread/INFO]: kumi666[/26.108.248.240:59622] logged in with entity id 56598 at (-59.22750861403023, 125.9375, -19.074849530381833)
+[23:00:45] [Server thread/INFO]: kumi666 joined the game
+[23:01:45] [Server thread/INFO]: kumi666 lost connection: Timed out
+[23:01:45] [Server thread/INFO]: kumi666 left the game
+[23:02:38] [Server thread/INFO]: kumi666[/26.108.248.240:59637] logged in with entity id 57494 at (-50.06751080395998, 118.5, -5.981356286762492)
+[23:02:38] [Server thread/INFO]: kumi666 joined the game
+[23:04:15] [Server thread/WARN]: bogartnani moved too quickly! 12.067172194164414,1.2968002136087762,13.552670007941288
+[23:05:24] [Server thread/WARN]: opalitez moved too quickly! -16.706075182812583,-3.8172795944732343,-4.168439152692372
+[23:05:34] [Server thread/WARN]: opalitez moved too quickly! -15.85039044342193,-1.9538044970162787,7.2211880842023675
+[23:05:42] [Server thread/WARN]: opalitez moved too quickly! -2.065614853302577,-0.9291998436352458,17.44838084305502
+[23:05:57] [Server thread/WARN]: opalitez moved too quickly! 1.5706730840370255,-2.4900586144347585,17.898663104473144
+[23:07:15] [Server thread/WARN]: opalitez moved too quickly! -11.198131373967044,6.539859139276743,-12.63932710568588
+[23:08:14] [Server thread/WARN]: kumi666 was kicked for floating too long!
+[23:08:14] [Server thread/INFO]: kumi666 lost connection: Flying is not enabled on this server
+[23:08:14] [Server thread/INFO]: kumi666 left the game
+[23:11:12] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[23:11:12] [Server thread/INFO]: MamaMo left the game
+[23:11:20] [Server thread/WARN]: bogartnani moved too quickly! -17.121059325612805,-2.838905464554969,-2.5170836893644264
+[23:13:46] [Server thread/INFO]: Villager coj['Fletcher'/84940, l='ServerLevel[world]', x=5322.33, y=67.19, z=-5957.77] died, message: 'Fletcher was slain by inshallah using [BISAKOL SLAYER]'
+[23:18:17] [Server thread/WARN]: inshallah moved too quickly! -10.94298742076262,-3.674253947896773,15.256500824417344
+[23:18:17] [Server thread/WARN]: opalitez moved too quickly! 0.3456353766373468,17.87000261803078,-0.15340608968381275
+[23:21:22] [Server thread/WARN]: inshallah moved too quickly! -16.321107954795707,-3.2978957692086226,6.22915125948748
+[23:21:24] [Server thread/WARN]: opalitez moved too quickly! 12.513897370839913,4.584530914297005,-11.598521380076818
+[23:21:25] [Server thread/WARN]: bogartnani moved too quickly! 15.291860486523547,-3.1243097135794926,-9.317699605125199
+[23:28:59] [Server thread/INFO]: inshallah lost connection: Disconnected
+[23:28:59] [Server thread/INFO]: inshallah left the game
+[23:29:37] [Server thread/INFO]: inshallah[/26.25.220.70:64614] logged in with entity id 109670 at (1.33634993179318, -45.0, -165.61353320973325)
+[23:29:37] [Server thread/INFO]: inshallah joined the game
+[23:37:14] [Server thread/WARN]: bogartnani moved too quickly! 10.915593611543954,-1.0641210946772475,-13.969291364664059
+[23:45:29] [Server thread/INFO]: inshallah lost connection: Disconnected
+[23:45:29] [Server thread/INFO]: inshallah left the game
+[23:46:17] [Server thread/INFO]: opalitez lost connection: Disconnected
+[23:46:17] [Server thread/INFO]: opalitez left the game
+[23:46:18] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[23:46:18] [Server thread/INFO]: bogartnani left the game
+[23:46:25] [Server thread/INFO]: Stopping server
+[23:46:25] [Server thread/INFO]: Saving players
+[23:46:25] [Server thread/INFO]: Saving worlds
+[23:46:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:46:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:46:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
