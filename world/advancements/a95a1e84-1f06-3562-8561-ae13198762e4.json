@@ -5755,9 +5755,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+  "minecraft:adventure/brush_armadillo": {
     "criteria": {
-      "has_dark_prismarine": "2025-04-09 14:25:02 +0800"
+      "brush_armadillo": "2025-04-09 13:48:42 +0800"
     },
     "done": true
   },
@@ -5773,21 +5773,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2025-04-09 14:25:02 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-04-09 14:20:22 +0800"
     },
     "done": true
   },
-  "minecraft:adventure/brush_armadillo": {
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
-      "brush_armadillo": "2025-04-09 13:48:42 +0800"
+      "has_dark_prismarine": "2025-04-09 14:25:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-09 14:25:02 +0800"
     },
     "done": true
   },
