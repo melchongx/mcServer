@@ -1,11 +1,11 @@
-[12:58:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:58:05] [ServerMain/INFO]: Loaded 1370 recipes
-[12:58:05] [ServerMain/INFO]: Loaded 1481 advancements
-[12:58:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[12:58:05] [Server thread/INFO]: Loading properties
-[12:58:05] [Server thread/INFO]: Default game type: SURVIVAL
-[12:58:05] [Server thread/INFO]: Generating keypair
-[12:58:05] [Server console handler/ERROR]: Exception handling console input
+[13:18:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:18:17] [ServerMain/INFO]: Loaded 1370 recipes
+[13:18:17] [ServerMain/INFO]: Loaded 1481 advancements
+[13:18:18] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:18:18] [Server thread/INFO]: Loading properties
+[13:18:18] [Server thread/INFO]: Default game type: SURVIVAL
+[13:18:18] [Server thread/INFO]: Generating keypair
+[13:18:18] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
 	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
@@ -20,35 +20,97 @@ java.io.IOException: The handle is invalid
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
 	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
 	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
-[12:58:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:58:06] [Server thread/INFO]: Using default channel type
-[12:58:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:58:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:58:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:58:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:58:06] [Server thread/INFO]: Preparing level "world"
-[12:58:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:58:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:58:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:58:07] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[12:58:07] [Server thread/INFO]: Time elapsed: 1252 ms
-[12:58:07] [Server thread/INFO]: Done (1.642s)! For help, type "help"
-[12:59:41] [Server thread/INFO]: opalitez[/26.81.134.220:64437] logged in with entity id 128 at (6167.698107554844, 70.0, -6532.874538614525)
-[12:59:41] [Server thread/INFO]: opalitez joined the game
-[13:03:05] [Server thread/INFO]: MamaMo[/26.139.251.172:54720] logged in with entity id 4020 at (-47.22835010242975, 127.5, -8.666479821147918)
-[13:03:05] [Server thread/INFO]: MamaMo joined the game
-[13:03:09] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[13:03:09] [Server thread/INFO]: MamaMo left the game
-[13:03:22] [Server thread/WARN]: opalitez moved too quickly! 2.3854706744168652,-0.7971330726516186,-18.311939979155795
-[13:03:43] [Server thread/INFO]: MamaMo[/26.139.251.172:54737] logged in with entity id 5881 at (-47.22835010242975, 127.5, -8.666479821147918)
-[13:03:43] [Server thread/INFO]: MamaMo joined the game
-[13:03:47] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[13:03:47] [Server thread/INFO]: MamaMo left the game
-[13:05:11] [Server thread/INFO]: MamaMo[/26.139.251.172:54785] logged in with entity id 6970 at (-47.22835010242975, 127.5, -8.666479821147918)
-[13:05:11] [Server thread/INFO]: MamaMo joined the game
-[13:05:14] [Server thread/INFO]: MamaMo lost connection: Disconnected
-[13:05:14] [Server thread/INFO]: MamaMo left the game
-[13:06:19] [Server thread/INFO]: MamaMo[/26.139.251.172:54809] logged in with entity id 7428 at (-47.22835010242975, 127.5, -8.666479821147918)
-[13:06:19] [Server thread/INFO]: MamaMo joined the game
-[13:10:51] [Server thread/INFO]: Villager coj['Farmer'/78, l='ServerLevel[world]', x=-8.49, y=136.00, z=25.30] died, message: 'Farmer was slain by burat'
-[13:15:38] [Server thread/INFO]: [Not Secure] <opalitez> tsleep
+[13:18:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:18:18] [Server thread/INFO]: Using default channel type
+[13:18:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:18:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:18:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:18:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:18:18] [Server thread/INFO]: Preparing level "world"
+[13:18:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:18:19] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[13:18:19] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[13:18:19] [Worker-Main-9/INFO]: Preparing spawn area: 2%
+[13:18:20] [Server thread/INFO]: Time elapsed: 1189 ms
+[13:18:20] [Server thread/INFO]: Done (1.631s)! For help, type "help"
+[13:18:26] [Server thread/INFO]: opalitez[/26.81.134.220:49874] logged in with entity id 145 at (6231.669259266684, 113.17469365516283, -8133.380264835523)
+[13:18:26] [Server thread/INFO]: opalitez joined the game
+[13:18:36] [Server thread/INFO]: bogartnani[/26.185.22.198:50010] logged in with entity id 446 at (6164.3377165853535, 71.0, -6532.57361276957)
+[13:18:36] [Server thread/INFO]: bogartnani joined the game
+[13:19:17] [Server thread/WARN]: opalitez moved too quickly! -1.2518784883532135,1.332432168299917,17.860481667414206
+[13:19:25] [Server thread/INFO]: [Not Secure] <bogartnani> san ka
+[13:19:29] [Server thread/INFO]: [Not Secure] <opalitez> malayo na
+[13:19:51] [Server thread/INFO]: [Not Secure] <bogartnani> malayo pa pero malayo na?
+[13:20:02] [Server thread/INFO]: [Not Secure] <opalitez> 63063 -8100\
+[13:20:08] [Server thread/INFO]: [Not Secure] <bogartnani> tangina totoo ba
+[13:20:10] [Server thread/INFO]: [Not Secure] <bogartnani> ahahahahahaah
+[13:20:14] [Server thread/INFO]: [Not Secure] <opalitez> 6300*
+[13:20:20] [Server thread/INFO]: [Not Secure] <opalitez> typo
+[13:20:24] [Server thread/WARN]: opalitez moved too quickly! 17.731772887155785,-4.9782582733032115,3.1284856678803408
+[13:21:08] [Server thread/WARN]: opalitez moved too quickly! 8.252900260844399,3.6573462354977977,-15.50461594753233
+[13:21:08] [Server thread/WARN]: bogartnani moved too quickly! 5.982335890087597,-3.7951612177946714,-16.74171291766106
+[13:21:55] [Server thread/INFO]: [Not Secure] <bogartnani> dito ko
+[13:22:09] [Server thread/INFO]: [Not Secure] <opalitez> 7987 -8066
+[13:22:13] [Server thread/INFO]: [Not Secure] <opalitez> village to hintayin kita
+[13:22:14] [Server thread/INFO]: [Not Secure] <opalitez> dc nga
+[13:22:25] [Server thread/INFO]: MamaMo[/26.139.251.172:54988] logged in with entity id 10228 at (-42.74536457429766, 138.0, 33.777616420816834)
+[13:22:25] [Server thread/INFO]: MamaMo joined the game
+[13:22:32] [Server thread/INFO]: [Not Secure] <MamaMo> bry
+[13:22:45] [Server thread/INFO]: [Not Secure] <MamaMo> patulong mag zombify
+[13:23:03] [Server thread/INFO]: [Not Secure] <MamaMo> bry
+[13:23:14] [Server thread/INFO]: [Not Secure] <bogartnani> wag muyna
+[13:23:16] [Server thread/INFO]: [Not Secure] <MamaMo> my nigga bry
+[13:23:17] [Server thread/INFO]: [Not Secure] <bogartnani> naka normal hahahha
+[13:23:24] [Server thread/INFO]: [Not Secure] <bogartnani> mamamatay zombie
+[13:23:28] [Server thread/INFO]: [Not Secure] <MamaMo> pabili nlng saglit
+[13:23:29] [Server thread/INFO]: [Not Secure] <bogartnani> i mean villager
+[13:23:38] [Server thread/INFO]: [Not Secure] <bogartnani> 10k blocks kami hahahah
+[13:24:02] [Server thread/INFO]: [Not Secure] <MamaMo> geh
+[13:28:27] [Server thread/WARN]: bogartnani moved too quickly! 4.966024632543849,-6.212581696048744,15.544295598452663
+[13:28:38] [Server thread/WARN]: bogartnani moved too quickly! -13.760089309498653,-5.811932707350209,9.453846806858564
+[13:30:24] [Server thread/WARN]: bogartnani moved too quickly! -15.36074548187753,-2.499597258229727,9.703229455422843
+[13:30:33] [Server thread/WARN]: bogartnani moved too quickly! -10.129463360650334,0.6343784249286273,14.191519425958177
+[13:30:47] [Server thread/WARN]: bogartnani moved too quickly! -12.483375091534981,-1.8006339672816125,-13.1077896034476
+[13:35:01] [Server thread/WARN]: bogartnani moved too quickly! 16.772004956101227,-1.9167462431967692,6.402658396689731
+[13:48:42] [Server thread/INFO]: opalitez has made the advancement [Isn't It Scute?]
+[13:50:16] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[13:50:16] [Server thread/INFO]: bogartnani left the game
+[13:50:49] [Server thread/INFO]: bogartnani[/26.185.22.198:51468] logged in with entity id 46050 at (10375.842589325217, 94.0, -10029.406168201682)
+[13:50:49] [Server thread/INFO]: bogartnani joined the game
+[14:00:57] [Server thread/WARN]: bogartnani moved wrongly!
+[14:00:58] [Server thread/WARN]: bogartnani moved wrongly!
+[14:01:47] [Server thread/WARN]: bogartnani moved too quickly! -0.20792261978749593,-2.603110148802955,17.688287303644756
+[14:02:05] [Server thread/WARN]: bogartnani moved too quickly! -2.899903905024985,-4.028569245805272,18.239417466589657
+[14:02:22] [Server thread/WARN]: bogartnani moved too quickly! -1.5298371045319072,-1.7516955911305274,17.70191207429889
+[14:02:28] [Server thread/WARN]: bogartnani moved too quickly! 0.35518068593410135,7.679538294252552,16.536736766884133
+[14:02:49] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[14:02:49] [Server thread/INFO]: bogartnani left the game
+[14:03:26] [Server thread/INFO]: bogartnani[/26.185.22.198:52014] logged in with entity id 61961 at (8934.5516184755, 167.0, -9434.483840088666)
+[14:03:26] [Server thread/INFO]: bogartnani joined the game
+[14:07:46] [Server thread/WARN]: bogartnani moved too quickly! -14.799766083936447,-1.6536991729216908,11.764156974329126
+[14:07:55] [Server thread/WARN]: bogartnani moved too quickly! -14.070825506234542,-1.102226331752405,11.169276438068664
+[14:08:07] [Server thread/WARN]: bogartnani moved too quickly! -14.575887372813668,-1.68042984865518,10.649937466347183
+[14:08:25] [Server thread/WARN]: bogartnani moved too quickly! -15.98428810248879,-1.020079794981271,8.800031393210702
+[14:09:38] [Server thread/WARN]: bogartnani moved too quickly! -5.207754331510387,2.015067607537901,17.117498457379952
+[14:09:46] [Server thread/WARN]: bogartnani moved too quickly! -4.035596804240868,0.048959104275780874,17.92834043467883
+[14:09:58] [Server thread/WARN]: bogartnani moved too quickly! -10.618645615447349,-0.7951482545017967,13.990721774533995
+[14:10:07] [Server thread/WARN]: bogartnani moved too quickly! -9.326543506678718,-1.6874030314307333,15.437478180836479
+[14:10:38] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[14:10:38] [Server thread/INFO]: bogartnani left the game
+[14:10:46] [Server thread/INFO]: bogartnani[/26.185.22.198:52370] logged in with entity id 86689 at (3243.5477008417456, 85.0, -3983.540544430873)
+[14:10:46] [Server thread/INFO]: bogartnani joined the game
+[14:11:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3791, y=46, z=-2770} ji{x=3791, y=47, z=-2770}
+[14:12:33] [Server thread/WARN]: bogartnani moved too quickly! 7.599049752936253,-1.6468395563923082,16.486845565169006
+[14:13:00] [Server thread/WARN]: bogartnani moved too quickly! 12.05979928234774,-1.0835852778192816,13.86612996382155
+[14:13:09] [Server thread/INFO]: MamaMo has made the advancement [Under Lock and Key]
+[14:14:26] [Server thread/WARN]: bogartnani moved too quickly! 17.480332023676056,-0.5762850537417847,0.8333556734587546
+[14:16:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3756, y=48, z=-2753} ji{x=3756, y=49, z=-2753}
+[14:16:59] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=3756, y=48, z=-2754} ji{x=3756, y=49, z=-2754}
+[14:23:01] [Server thread/WARN]: Couldn't smelt 1 minecraft:pufferfish because there is no smelting recipe
+[14:23:06] [Server thread/WARN]: Couldn't smelt 1 minecraft:pufferfish because there is no smelting recipe
+[14:43:47] [Server thread/INFO]: bogartnani lost connection: Disconnected
+[14:43:47] [Server thread/INFO]: bogartnani left the game
+[14:45:06] [Server thread/INFO]: MamaMo lost connection: Disconnected
+[14:45:06] [Server thread/INFO]: MamaMo left the game
+[14:46:20] [Server thread/INFO]: opalitez lost connection: Disconnected
+[14:46:20] [Server thread/INFO]: opalitez left the game

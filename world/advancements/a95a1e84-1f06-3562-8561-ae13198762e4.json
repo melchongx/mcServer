@@ -159,6 +159,7 @@
       "minecraft:pillager": "2025-03-11 23:30:00 +0800",
       "minecraft:blaze": "2025-03-18 02:21:57 +0800",
       "minecraft:skeleton": "2025-03-08 19:15:56 +0800",
+      "minecraft:elder_guardian": "2025-04-09 14:15:29 +0800",
       "minecraft:ravager": "2025-04-06 00:01:32 +0800",
       "minecraft:bogged": "2025-04-06 23:42:40 +0800",
       "minecraft:ghast": "2025-03-17 00:36:14 +0800",
@@ -5751,6 +5752,54 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-08 23:37:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-09 14:25:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-04-09 13:54:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-09 13:54:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-09 14:25:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-04-09 14:20:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/brush_armadillo": {
+    "criteria": {
+      "brush_armadillo": "2025-04-09 13:48:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-09 14:25:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-09 14:25:02 +0800"
     },
     "done": true
   },
