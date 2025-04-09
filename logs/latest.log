@@ -114,3 +114,13 @@ java.io.IOException: The handle is invalid
 [14:45:06] [Server thread/INFO]: MamaMo left the game
 [14:46:20] [Server thread/INFO]: opalitez lost connection: Disconnected
 [14:46:20] [Server thread/INFO]: opalitez left the game
+[14:46:48] [Server thread/INFO]: Stopping server
+[14:46:48] [Server thread/INFO]: Saving players
+[14:46:48] [Server thread/INFO]: Saving worlds
+[14:46:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:46:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:46:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:46:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:46:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:46:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:46:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
