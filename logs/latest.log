@@ -1,90 +1,69 @@
-[19:03:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:03:13] [ServerMain/INFO]: Loaded 1370 recipes
-[19:03:13] [ServerMain/INFO]: Loaded 1481 advancements
-[19:03:14] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:03:14] [Server thread/INFO]: Loading properties
-[19:03:14] [Server thread/INFO]: Default game type: SURVIVAL
-[19:03:14] [Server thread/INFO]: Generating keypair
-[19:03:14] [Server console handler/ERROR]: Exception handling console input
+[17:11:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:11:32] [ServerMain/INFO]: Loaded 1370 recipes
+[17:11:32] [ServerMain/INFO]: Loaded 1481 advancements
+[17:11:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[17:11:32] [Server thread/INFO]: Loading properties
+[17:11:32] [Server thread/INFO]: Default game type: SURVIVAL
+[17:11:32] [Server thread/INFO]: Generating keypair
+[17:11:32] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.base/java.io.FileInputStream.read(FileInputStream.java:328) ~[?:?]
-	at java.base/java.lang.System$In.read(System.java:2252) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
-	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
-	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
-	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:190) ~[?:?]
-	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
-	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
-	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:294) ~[?:?]
+	at java.base/java.lang.System$In.read(System.java:1849) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:328) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:388) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:279) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:322) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:186) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:175) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:166) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:333) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:400) ~[?:?]
 	at apu$1.run(SourceFile:102) [server-1.21.4.jar:?]
-[19:03:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:03:14] [Server thread/INFO]: Using default channel type
-[19:03:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:03:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:03:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:03:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:03:14] [Server thread/INFO]: Preparing level "world"
-[19:03:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:03:15] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[19:03:15] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[19:03:15] [Server thread/INFO]: Time elapsed: 946 ms
-[19:03:15] [Server thread/INFO]: Done (1.220s)! For help, type "help"
-[19:11:12] [Server thread/INFO]: opalitez[/26.81.134.220:51194] logged in with entity id 138 at (-81.3896105127249, 131.0, -3.948315578690535)
-[19:11:12] [Server thread/INFO]: opalitez joined the game
-[19:17:33] [Server thread/INFO]: bogartnani[/26.185.22.198:52254] logged in with entity id 1632 at (-52.89937565999282, 129.5, 16.344844451171276)
-[19:17:33] [Server thread/INFO]: bogartnani joined the game
-[19:19:45] [Server thread/WARN]: opalitez moved too quickly! -7.770783039754207,-2.324019164606483,8.771792012889314
-[19:20:04] [Server thread/INFO]: [Not Secure] <opalitez> soafer lag
-[19:20:18] [Server thread/INFO]: [Not Secure] <bogartnani> sumbong kita
-[19:20:21] [Server thread/INFO]: [Not Secure] <opalitez> hehe
-[19:20:23] [Server thread/INFO]: [Not Secure] <opalitez> wag pls
-[19:21:39] [Server thread/INFO]: [Not Secure] <opalitez> gago
-[19:21:41] [Server thread/INFO]: [Not Secure] <opalitez> yung trident ko
-[19:21:43] [Server thread/INFO]: [Not Secure] <opalitez> nawala
-[19:21:50] [Server thread/INFO]: [Not Secure] <bogartnani> totoo ba
-[19:21:54] [Server thread/INFO]: [Not Secure] <opalitez> binato ko siya sa may creeper farm
-[19:21:59] [Server thread/INFO]: [Not Secure] <opalitez> tas di pa bumabalik
-[19:22:09] [Server thread/INFO]: [Not Secure] <bogartnani> punta ka ulit
-[19:22:16] [Server thread/INFO]: [Not Secure] <bogartnani> nag unload lang chunk ata
-[19:22:39] [Server thread/INFO]: [Not Secure] <bogartnani> mag reaDY NA tayo sa ocean monument
-[19:22:42] [Server thread/INFO]: [Not Secure] <bogartnani> need natin mga tnt
-[19:22:47] [Server thread/INFO]: [Not Secure] <bogartnani> tulog nga
-[19:22:55] [Server thread/INFO]: [Not Secure] <opalitez> ayon bumalik na hehehehehehee
-[19:27:34] [Server thread/INFO]: opalitez lost connection: Disconnected
-[19:27:34] [Server thread/INFO]: opalitez left the game
-[19:41:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
-[19:45:31] [Server thread/INFO]: bogartnani has made the advancement [Smells Interesting]
-[19:54:20] [Server thread/INFO]: [Not Secure] [Server] soafer lag pala ah
-[19:54:35] [Server thread/INFO]: [Not Secure] <bogartnani> hahahaha kay dre lang ata
-[19:54:46] [Server thread/INFO]: [Not Secure] [Server] may ginagawa ka ba
-[19:54:58] [Server thread/INFO]: [Not Secure] [Server] nasa mabagal na net pala ako lipat ko lang saglet
-[19:54:58] [Server thread/INFO]: [Not Secure] <bogartnani> maghahanap dias
-[19:55:03] [Server thread/INFO]: [Not Secure] <bogartnani> g langs
-[19:55:06] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[19:55:06] [Server thread/INFO]: bogartnani left the game
-[19:57:25] [Server thread/INFO]: bogartnani[/26.185.22.198:53985] logged in with entity id 11460 at (-31.258597174366653, 71.0, -1037.3822008070788)
-[19:57:25] [Server thread/INFO]: bogartnani joined the game
-[20:00:46] [Server thread/WARN]: bogartnani moved too quickly! -4.720751158474492,-1.9368716303858093,17.058602227052347
-[20:01:08] [Server thread/WARN]: bogartnani moved too quickly! -2.466797810052668,-2.6213751789211983,17.10710276172449
-[20:07:29] [Server thread/WARN]: bogartnani moved too quickly! -16.389055863994827,-2.4835685114211685,9.441907258448666
-[20:09:36] [Server thread/INFO]: bogartnani has made the advancement [Wax Off]
-[21:04:52] [Server thread/WARN]: bogartnani moved too quickly! -16.81029627812714,-5.115965893501766,-2.901581545033075
-[21:05:52] [Server thread/WARN]: bogartnani moved wrongly!
-[21:06:25] [Server thread/INFO]: bogartnani lost connection: Disconnected
-[21:06:25] [Server thread/INFO]: bogartnani left the game
-[22:56:45] [Server thread/INFO]: Stopping server
-[22:56:45] [Server thread/INFO]: Saving players
-[22:56:45] [Server thread/INFO]: Saving worlds
-[22:56:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:56:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:56:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:56:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:56:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:56:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:56:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:11:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:11:32] [Server thread/INFO]: Using default channel type
+[17:11:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:11:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:11:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:11:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:11:33] [Server thread/INFO]: Preparing level "world"
+[17:11:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:11:34] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:11:34] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[17:11:34] [Server thread/INFO]: Time elapsed: 979 ms
+[17:11:34] [Server thread/INFO]: Done (1.366s)! For help, type "help"
+[17:12:46] [Server thread/INFO]: opalitez[/26.81.134.220:59735] logged in with entity id 132 at (-52.42465399412201, 131.9375, 22.341671465510263)
+[17:12:46] [Server thread/INFO]: opalitez joined the game
+[17:19:44] [Server thread/INFO]: inshallah[/26.25.220.70:49164] logged in with entity id 2381 at (2.2355067005355065, -45.0, -166.3486268506977)
+[17:19:45] [Server thread/INFO]: inshallah joined the game
+[17:22:03] [Server thread/INFO]: [Not Secure] <inshallah> dre
+[17:22:11] [Server thread/INFO]: [Not Secure] <opalitez> bkit
+[17:22:13] [Server thread/INFO]: [Not Secure] <inshallah> wala lang
+[17:22:16] [Server thread/INFO]: [Not Secure] <inshallah> i miss u
+[17:22:23] [Server thread/INFO]: [Not Secure] <opalitez> awww
+[17:23:20] [Server thread/INFO]: [Not Secure] <inshallah> hindi pala nasisira elytra
+[17:23:54] [Server thread/INFO]: opalitez has made the advancement [Under Lock and Key]
+[17:24:08] [Server thread/INFO]: [Not Secure] <inshallah> ah ttrial
+[17:30:03] [Server thread/INFO]: [Not Secure] <inshallah> sleep
+[17:36:42] [Server thread/INFO]: [Not Secure] <inshallah> gamit ka ba
+[17:37:38] [Server thread/INFO]: [Not Secure] <inshallah> test hit lang akala ko lag ako
+[17:38:16] [Server thread/INFO]: [Not Secure] <opalitez> hello
+[17:38:19] [Server thread/INFO]: [Not Secure] <inshallah> world
+[17:38:21] [Server thread/INFO]: [Not Secure] <inshallah> ron nanale
+[17:38:21] [Server thread/INFO]: [Not Secure] <opalitez> afk si andre
+[17:38:29] [Server thread/INFO]: [Not Secure] <opalitez> julianne to
+[17:38:34] [Server thread/INFO]: [Not Secure] <inshallah> HSHDHASHDHAHAHA
+[17:41:47] [Server thread/INFO]: inshallah lost connection: Timed out
+[17:41:47] [Server thread/INFO]: inshallah left the game
+[17:43:18] [Server thread/INFO]: opalitez lost connection: Disconnected
+[17:43:18] [Server thread/INFO]: opalitez left the game
+[17:46:21] [Server thread/INFO]: Stopping server
+[17:46:21] [Server thread/INFO]: Saving players
+[17:46:21] [Server thread/INFO]: Saving worlds
+[17:46:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:46:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:46:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:46:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:46:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:46:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:46:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
